@@ -1,0 +1,7562 @@
+Censo Nacional de Población, Hogares y Viviendas 2022
+NOVIEMBRE | 2023 
+Indicadores demográﬁcos, por sexo y edad
+
+
+7
+CNPHV 2022 - Indicadores por sexo y edad. Resultados definitivos 
+1. Presentación
+Contar con información exacta y detallada del total de población por sexo y edad 
+permite identificar las necesidades específicas de la sociedad en términos de 
+salud, educación, vivienda, empleo y otros servicios. Junto a los datos de población 
+desagregados hasta el nivel de departamento, partido o comuna, esta publicación 
+presenta una serie de indicadores considerados esenciales a la hora de analizar 
+la dinámica demográfica del país a lo largo del tiempo. Se incluye, por ejemplo, 
+el índice de dependencia potencial, que relaciona la población potencialmente 
+inactiva con la potencialmente activa; el índice de feminidad para el total de la 
+población y por grupo de edad; el índice de envejecimiento; y la edad mediana de 
+la población, entre otros. 
+A partir de este informe se inaugura la serie de publicaciones de resultados 
+definitivos que el Instituto Nacional de Estadística y Censos (INDEC) irá ampliando 
+con la difusión de datos censales organizados en diferentes temáticas. El objetivo 
+de realizar presentaciones específicas y elaborar indicadores asociados es brindar 
+mayores herramientas para la interpretación de los datos y, a la vez, facilitar la 
+lectura por parte de las distintas personas usuarias de la información estadística. 
+Al mismo tiempo, los datos de cada una de las publicaciones temáticas estarán 
+disponibles en el portal geoestadístico que el Instituto inauguró con los primeros 
+datos provisionales del Censo 2022. Este aplicativo georreferenciado es una 
+herramienta interactiva que permite consultar, de un modo sencillo, rápido e 
+intuitivo, un listado de variables demográficas que se pueden comparar entre sí. 
+La publicación de los resultados definitivos del Censo corona uno de los trabajos 
+estadísticos más importantes del INDEC en la actualidad y, también, es el punto 
+de partida para los proyectos que llevemos adelante durante la próxima década. 
+El desarrollo conceptual, la planificación logística para su puesta en marcha, la 
+coordinación operativa con las direcciones provinciales de estadística y otros 
+organismos del Estado, el despliegue de la estrategia de comunicación para la 
+convocatoria activa a la participación de la población y, finalmente, esta última 
+etapa de compilación y consistencia de la información para difundir los datos 
+obtenidos generaron grandes desafíos y, con ello, un importante aprendizaje y 
+legado para el Instituto. 
+El Censo 2022 estuvo marcado por la implementación de importantes innovaciones, 
+como por ejemplo la del relevamiento bimodal que le brindó a la población la 
+posibilidad de autoempadronarse de manera digital. Y esa modalidad tuvo un 
+gran éxito porque más de la mitad de la población eligió la opción de contestar el 
+cuestionario a través de una página web. A partir de la decisión que adoptaron 
+las personas que residen en suelo argentino, en el Instituto no tenemos dudas 
+de que el fenómeno digital será uno de los pilares centrales para la planificación 
+del Censo 2030. Esta decisión fue inédita para nuestro país pero, también, fue 
+seguida de cerca por todos los países de América Latina y el Caribe, que miraron a la 
+Argentina con expectativa, atención y admiración durante el desarrollo del proceso 
+censal de 2022.
+La realización del primer censo de derecho en la historia de nuestro país fue 
+otra de las innovaciones que contribuyó a la nueva forma de pensar los censos. 
+
+8
+Con este tipo de relevamientos, pudimos contabilizar a las personas en su lugar 
+de residencia habitual, lo que posibilitó integrar la información censal con la 
+proveniente de registros administrativos. De esta forma, no solo vamos a poder 
+contar con información actualizada en los períodos intercensales, sino también 
+enriquecer los datos censales, obtener información más granular e identificar 
+temáticas y fenómenos específicos que no pueden abordarse en un Censo y que 
+resultan muy difíciles de captar a través de encuestas.
+Hoy difundimos los primeros datos definitivos de la nueva foto de la Argentina 
+e inauguramos una nueva etapa en la historia estadística nacional, porque el 
+Censo 2022 no fue un simple mandato para volver a reconocernos y mirarnos al 
+espejo, sino que se convirtió en la piedra fundacional de los censos del futuro.
+Buenos Aires, noviembre de 2023
+Marco J. Lavagna
+Director del INDEC
+
+9
+CNPHV 2022 - Indicadores por sexo y edad. Resultados definitivos 
+2. Introducción
+El Instituto Nacional de Estadística y Censos (INDEC) presenta los primeros 
+resultados definitivos del Censo Nacional de Población, Hogares y Viviendas 
+2022 (Censo 2022), que se llevó a cabo por primera vez en la Argentina con una 
+estrategia bimodal: un cuestionario digital y el tradicional barrido territorial con 
+cuestionarios en papel (cédulas censales). 
+Esta publicación contiene los resultados definitivos de la población relevada en 
+los operativos de viviendas particulares, de viviendas colectivas y de población en 
+situación de calle del Censo 2022. La Dirección Nacional de Estadísticas Sociales y de 
+Población (DNESyP) del INDEC se abocó a trabajar directamente con información 
+de las bases de datos para la obtención del total de población por sexo y edad 
+para los niveles nacional, provincial y por departamento, partido o comuna. 
+Estos resultados se generaron a partir de la integración de los datos recabados 
+de la modalidad digital y de aquellos provenientes de la captura por escáner de 
+los cuestionarios censales en papel, completados por las personas censistas que 
+realizaron entrevistas presenciales a los hogares durante el barrido territorial. 
+Tal como fue anunciado en publicaciones previas, los resultados definitivos se 
+obtuvieron una vez que se contó con la totalidad de los datos de las variables 
+censales validadas, consistidas e imputadas, correspondientes a las tres unidades 
+de relevamiento: población, hogar y vivienda. Por tal motivo, podría haber 
+diferencias entre estos resultados definitivos y los provisionales publicados.
+Con el fin de alcanzar los niveles de calidad estadística requeridos para la generación 
+de los resultados definitivos, el INDEC implementó la evaluación definitiva de 
+la cobertura territorial del Día del Censo, mediante la detección de segmentos 
+censales no cubiertos (omisión), y también la de la base de datos del Censo 
+digital, relativa a estudiar la duplicación de las unidades de empadronamiento de 
+vivienda o población. Una vez realizada la integración de las bases de datos digital 
+y papel, se llevó a cabo la evaluación de la calidad de los datos relevados, así como 
+la consistencia interna de la información mediante la aplicación del sistema de 
+edición e imputación de datos CANCEIS (Canadian Census Edit and Imputation 
+System), para culminar con la validación y la imputación de los datos definitivos 
+por contraste con otras fuentes de información.
+Se debe tener presente que un censo busca recopilar, analizar y divulgar datos 
+demográficos, sociales y económicos relativos a todos los habitantes de un país en 
+un momento determinado. 
+Los censos son la fuente de datos primordial para contribuir al diseño, la planificación 
+y la administración de políticas públicas y privadas tendientes al mejoramiento 
+de las condiciones de vida de la población. Si a ello se le suma la potencialidad 
+que deviene de su carácter universal, un censo es la única fuente capaz de brindar 
+información de diferentes niveles territoriales en forma simultánea.
+También permiten llevar un registro histórico de los cambios en la estructura, la 
+distribución y el total de la población en las unidades geográficas definidas para 
+el operativo censal. Cada tema abordado, como las características habitacionales, 
+la salud, la migración, la educación, la composición de los hogares, la fecundidad y 
+la mortalidad, entre otros, es de interés para el estudio, el análisis y la investigación 
+del comportamiento de la población. Conocer toda esta información constituye 
+un eje fundamental de los censos, tanto para describir y evaluar la realidad 
+socioeconómica y demográfica en nuestro territorio como para detectar las 
+principales necesidades sobre las que implementar soluciones a futuro.
+El censo es, además, una de las fuentes de datos más importante para el diseño 
+de marcos de muestreo de las encuestas intercensales. Provee los insumos para 
+
+10
+obtener muestras probabilísticas con vistas a analizar la evolución demográfica, 
+social y económica de la población durante los diez años posteriores a su realización 
+y constituye la base a partir de la cual se calculan las proyecciones y las estimaciones 
+de población.
+Finalmente, para el sector privado, la información sobre los totales de población 
+y su distribución territorial por sexo y edad es esencial a la hora de determinar el 
+emplazamiento o desplazamiento de las empresas, la estimación de ventas, la 
+mano de obra disponible, las necesidades técnicas y tecnológicas, la potencial 
+demanda de bienes y servicios de los habitantes del lugar, entre otros aspectos.
+A continuación, se presentan los resultados definitivos de la estructura demográfica 
+de la población según sexo y edad. Por otra parte, se anexa una síntesis de las 
+principales características del Censo 2022 y de la metodología utilizada en sus tres 
+etapas de desarrollo: precensal, censal y poscensal; y, por último se incluye una 
+síntesis de las actividades de evaluación implementadas para la generación de los 
+datos de esta publicación. 
+Los cuadros web que complementan la información de esta edición se 
+encuentran disponibles en el sitio web institucional del INDEC y el del Censo 2022
+19 indicadores sobre población en viviendas particulares y estructura por sexo y edad de la 
+población.
+5.272 cuadros con información desagregada por jurisdicción y departamento, partido o comuna.
+Indicadores de población (7 indicadores = 3.376 cuadros)
+	
+▶Población en viviendas particulares, por material predominante de los pisos, según 
+material predominante de la cubierta exterior del techo y revestimiento interior o 
+cielorraso. Año 2022
+	
+▶Población en viviendas particulares, por procedencia del agua, según provisión del agua.
+Año 2022 
+	
+▶Población en viviendas particulares, por ubicación del baño o letrina, según desagüe y 
+descarga de agua del inodoro. Año 2022 
+	
+▶Población en viviendas particulares, por combustible utilizado principalmente para 
+cocinar. Año 2022 
+	
+▶Población en viviendas particulares, por cantidad de baños, según cantidad de 
+habitaciones. Año 2022 
+	
+▶Población en viviendas particulares, por régimen de tenencia y regularidad de la 
+propiedad para la vivienda propia. Año 2022 
+	
+▶Población en viviendas particulares, por tenencia de internet en la vivienda, según 
+tenencia de celular con internet. Año 2022
+Indicadores sobre la estructura por edad y sexo de la población (12 indicadores = 1.896 cuadros)
+	
+▶Total de población, variación absoluta y variación relativa. Años 2010 y 2022
+	
+▶Total de población y densidad, por superficie. Años 2010 y 2022 
+	
+▶Total de población, población en viviendas particulares, población en viviendas colectivas y 
+población en situación de calle, por sexo registrado al nacer. Año 2022 
+	
+▶Total de población, por sexo registrado al nacer e índice de feminidad, según edad.
+Año 2022 
+	
+▶Total de población, población en viviendas particulares y población en viviendas colectivas, 
+por edad. Año 2022 
+	
+▶Total de población, por edad mediana de la población, según sexo registrado al nacer.
+Año 2022
+	
+▶Porcentaje de población de 65 años y más. Censos 1970-2022	
+ 
+	
+▶Índice de envejecimiento, por jurisdicción. Censos 1970-2022	
+ 
+	
+▶Índice de dependencia potencial, por jurisdicción. Censos 1970-2022 
+	
+▶Porcentaje de población de 80 años y más. Censos 1970-2022	
+ 
+	
+▶Índice de dependencia potencial de padres. Censos 1970-2022	
+ 
+	
+▶Índice de feminidad de la población de 65 años y más. Censos 1970-2022 
+En el geoportal del INDEC se presentan los indicadores georreferenciados.
+
+11
+CNPHV 2022 - Indicadores por sexo y edad. Resultados definitivos 
+3. Principales resultados
+Censo Nacional de Población, Hogares y Viviendas 2022
+
+Mujeres/femenino
+Varones/masculino 
+De acuerdo con la evaluación de calidad y consistencia de los resultados deﬁnitivos, y para cumplir con 
+los estándares de calidad estadística requeridos por el INDEC, la categoría X/ninguna de la anteriores de 
+las respuestas a la pregunta sexo registrado al nacer se distribuye entre las categorías Mujer/femenino y 
+Varón/masculino.
+Porcentaje
+0-4
+5-9
+10-14
+15-19
+20-24
+25-29
+30-34
+35-39
+40-44
+45-49
+50-54
+55-59
+60-64
+65-69
+70-74
+75-79
+80-84
+85-89
+90+
+Grupo de edad
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+Los datos del Censo 2022 difundidos aquí son el resultado del conteo 
+efectivo de la población, con una cobertura territorial del 98,6%. La 
+falta de cobertura de ciertas áreas, junto a la posibilidad de que las 
+personas censistas no hayan encontrado a sus moradores en la 
+vivienda y la subdeclaración de las personas que residen en el hogar, 
+pueden llevar a que el conteo arroje un valor por debajo de la cifra de 
+población real.
+Para conocer la población del país es necesario realizar pruebas de 
+conciliación censal en función de los datos de censos anteriores y de 
+los registros de las estadísticas vitales y de migración.
+A la fecha, la última estimación de población es de 46.234.830 
+personas al 1 de julio de 2022. Esto arroja una diferencia respecto del 
+conteo de 342.545 personas, 0,74% de la población estimada 
+mediante proyecciones con base en el Censo 2010.(1)
+46.234.830
+Población estimada 
+al 1 de julio de 2022
+45.892.285
+Población censada 
++
+=
+342.545
+Diferencia entre población
+estimada y población censada
+0,74%
+22.186.791
+Varones/masculino
+23.705.494
+Mujeres/femenino
+Total de población por sexo registrado al nacer y grupo de edad
+Censo Nacional de Población, Hogares y Viviendas 2022
+(1)	Ver detalle en las páginas 86 y 87 del apartado “Aspectos metodológicos” de esta edición.
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+
+1869
+1895
+Grupo de edad
+1914
+1947
+1960
+1970
+1980
+1991
+2010
+2001
+2022
+Mujeres/femenino 
+Varones/masculino 
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+0-4
+5-9
+10-14
+15-19
+20-24
+25-29
+30-34
+35-39
+40-44
+45-49
+50-54
+55-59
+60-64
+65-69
+70-74
+75-79
+80-84
+85+
+0-4
+5-9
+10-14
+15-19
+20-24
+25-29
+30-34
+35-39
+40-44
+45-49
+50-54
+55-59
+60-64
+65-69
+70-74
+75-79
+80-84
+85+
+0-4
+5-9
+10-14
+15-19
+20-24
+25-29
+30-34
+35-39
+40-44
+45-49
+50-54
+55-59
+60-64
+65-69
+70-74
+75-79
+80-84
+85+
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+Porcentaje
+De acuerdo con la evaluación de 
+calidad y consistencia de los 
+resultados deﬁnitivos, y para cumplir 
+con los estándares de calidad 
+estadística requeridos por el INDEC,
+la pregunta del Censo 2022 referida a 
+sexo registrado al nacer se distribuye 
+entre las categorías Mujer/femenino y
+Varón/masculino.
+     Las pirámides de los censos de 1869, 1895 y 1914 presentan una base ancha, indicativa de la alta natalidad, y una cúspide angosta, como consecuencia 
+de la alta mortalidad.
+     La pirámide de 1947 muestra los primeros indicios del proceso de envejecimiento demográﬁco a partir de una base más angosta y una cúspide más 
+ancha, producto del descenso en los niveles de natalidad y mortalidad respectivamente, que se intensiﬁcará en las siguientes décadas. 
+     En 2022 se evidencia una composición por sexo más feminizada y edad más envejecida. La pirámide es de base angosta y cúspide ensanchada, dado 
+el descenso de la natalidad y de la mortalidad y la mayor sobrevivencia femenina.
+Estructura de la población, por sexo y grupos quinquenales de edad 
+a través de los censos nacionales
+Fuente: INDEC, elaborado con base en los resultados de los Censos de 1869-2022.
+Censo Nacional de Población, Hogares y Viviendas 2022
+
+     El Primer Censo de la República Argentina, realizado en 1869, muestra una población mayormente joven: aproximadamente el 40% 
+tenía menos de 15 años, y la población de 65 años y más solo representaba el 2,2% del total.
+    La pirámide del Tercer Censo Nacional, llevado a cabo en 1914, muestra una cúspide menos estrecha, aunque todavía presenta una 
+base ancha: el 38,4% de la población tenía entre 0 y 14 años.
+    Los Censos Nacionales de Población, Hogares y Viviendas de 2010 y de 2022 presentan pirámides poblacionales de similar formato, 
+aunque la de 2022 denota una base más angosta que la del 2010, debido del descenso de la fecundidad.
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+2022
+Grupo de edad
+153 años
+1869
+2022
+1869
+0-4
+5-9
+10-14
+15-19
+20-24
+25-29
+30-34
+35-39
+40-44
+45-49
+50-54
+55-59
+60-64
+65-69
+70-74
+75-79
+80-84
+85+
+Porcentaje
+Porcentaje
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+2022
+Grupo de edad
+108 años
+1914
+2022
+1914
+0-4
+5-9
+10-14
+15-19
+20-24
+25-29
+30-34
+35-39
+40-44
+45-49
+50-54
+55-59
+60-64
+65-69
+70-74
+75-79
+80-84
+85+
+Porcentaje
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+Porcentaje
+2022
+Grupo de edad
+12 años
+2010
+2022
+2010
+0-4
+5-9
+10-14
+15-19
+20-24
+25-29
+30-34
+35-39
+40-44
+45-49
+50-54
+55-59
+60-64
+65-69
+70-74
+75-79
+80-84
+85+
+Estructura de la población, por sexo y grupo de edad del Censo 2022, en 
+comparación con los censos nacionales de 1869, 1914 y 2010
+Censo Nacional de Población, Hogares y Viviendas 2022
+Fuente: INDEC, elaborado con base en los resultados de los Censos de 1869-2022.
+
+15
+CNPHV 2022 - Indicadores por sexo y edad. Resultados definitivos 
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Censo Nacional de Población, Hogares y Viviendas 2022
+Principales indicadores. Total del país y por región
+Edad
+mediana
+Es la edad central que
+divide a la población,
+ordenada por edades de
+menor a mayor, en
+dos grupos
+numéricamente iguales.
+Total
+32
+años
+Edad mediana por región
+Gran Buenos Aires
+34 años
+Pampeana
+Patagonia
+Cuyo
+34 años
+32 años
+32 años
+30 años
+29 años
+Noroeste
+Noreste
+Total
+107
+97
+140
+Índice de
+feminidad
+Indica la cantidad de 
+mujeres por cada cien 
+varones.
+Gran Buenos Aires
+109
+Pampeana
+Patagonia
+Cuyo
+107
+106
+105
+105
+103
+Noroeste
+Noreste
+Feminidad por región
+Población de 
+0 a 14 años
+Población de 
+65 años y más
+Índice de
+dependencia
+potencial
+Total
+51
+33
+18
+Es la relación entre la 
+población potencialmente 
+inactiva (grupos de 0 a 14 
+y 65 años y más) y la 
+población en edades 
+teóricamente activas (15 a 
+64 años).
+Gran Buenos Aires
+54
+Pampeana
+Patagonia
+Cuyo
+52
+52
+51
+50
+47
+Noroeste
+Noreste
+Índice de dependencia 
+potencial por región
+Personas
+jóvenes 
+teóricamente 
+inactivas
+Personas
+mayores 
+teóricamente 
+inactivas
+Índice de
+envejecimiento
+Cantidad de personas de 65 años 
+y más por cada 100 personas de 
+entre 0 y 14 años.
+53
+18
+Índice de dependencia
+potencial de padres
+Cantidad de personas de 80 años 
+y más por cada 100 personas de 
+entre 50 y 64 años.
+34
+años
+Mujeres
+/femenino
+31
+años
+Varones
+/masculino
+
+16
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Evolución de la edad mediana de la población
+A nivel nacional, la edad 
+mediana es de 32 años en 
+2022, 2 años más que en 
+el Censo 2010.
+Mujeres/femenino
+34
+años
+31
+años
+Varones/masculino
+0
+5
+10
+15
+20
+25
+30
+35
+Edad en años
+años
+32
+Total del país. Años 1869-2022
+2022
+19
+20
+20
+25
+27
+27
+27
+27
+28
+30
+1869
+1895
+1914
+1947
+1960 1970 1980
+1991 2001 2010 2022
+Censos nacionales
+Censo Nacional de Población, Hogares y Viviendas 2022
+Fuente: INDEC, elaborado en base a los resultados definitivos de los Censos de 1869-2022.
+La edad mediana baja indica la presencia de una población joven; cuanto mayor sea el valor de la mediana, más 
+envejecida es la población de un área determinada. 
+Para el total de la población nacional, en 2022 la edad mediana alcanzó los 32 años, 12 años más que la registrada 
+hace un siglo. Este aumento está explicado por el incremento de la esperanza de vida al nacer y el consecuente 
+envejecimiento de la población.
+
+17
+CNPHV 2022 - Indicadores por sexo y edad. Resultados definitivos 
+Censo Nacional de Población, Hogares y Viviendas 2022
+Índices de dependencia potencial total, de jóvenes y de personas mayores 
+El índice de dependencia potencial mide la carga de dependencia económica de una población. Este índice es 
+la relación entre los grupos de población “potencialmente inactivos” (0 a 14 años y personas de 65 años y más) 
+respecto de la “población teóricamente activa” (15 a 64 años). Cuanto mayor es el índice, mayor es el número de 
+personas dependiente de cada individuo en edad de trabajar.
+Fuente: INDEC, elaborado con base en los resultados de los Censos de 1991, 2001, 2010 y 2022.
+En los últimos treinta años, el índice de dependencia potencial total muestra una tendencia decreciente. Esta 
+baja obedece a la disminución de la carga de dependencia de las personas menores de 15 años, resultado 
+del descenso de la fecundidad. En 2022, el índice de dependencia de personas jóvenes descendió 17,3 puntos 
+porcentuales respecto de 1991.
+Por su parte, el envejecimiento demográfico ha generado un aumento de la relación de dependencia de personas 
+mayores, que en los últimos 30 años subió 3,4 puntos porcentuales.
+Total
+Personas
+jóvenes
+Personas 
+mayores
+0
+10
+20
+30
+40
+50
+60
+70
+65,1
+61,7
+55,5
+51,2
+50,5
+45,7
+39,6
+33,2
+14,6 16,0 15,9
+18,0
+1991
+2001
+2010
+2022
+Censos
+nacionales
+0-14 años
+65 años y más
+
+18
+Censo Nacional de Población, Hogares y Viviendas 2022
+Índice de
+envejecimiento
+Cantidad de personas de 65 años 
+y más por cada 100 personas de 
+entre 0 y 14 años.
+53
+0
+10
+20
+30
+40
+50
+60
+1991
+1980
+1970
+2001
+2010
+2022
+140
+0
+20
+40
+60
+80
+100
+120
+140
+160
+1991
+1980
+1970
+2001
+2010
+2022
+Índice de feminidad
+de la población de
+65 años y más
+Cantidad de mujeres de 65 años y 
+más por cada 100 varones de 
+65 años y más.
+Este índice ha mostrado un incremento a lo largo de las décadas, como resultado del aumento de 
+la esperanza de vida y, simultáneamente, de la disminución de la natalidad. 
+El envejecimiento demográﬁco es el aumento de la población de 65 años y más: su 
+incremento se encuentra en estrecha relación con la feminización de la población debido a 
+la sobrevida diferencial por sexo que favorece principalmente a las mujeres de 65 años y más.
+Censos nacionales
+18
+0
+5
+10
+15
+20
+25
+30
+1991
+1980
+1970
+2001
+2010
+2022
+Índice de dependencia
+potencial de padres
+Cantidad de personas de 80 años 
+y más por cada 100 personas de 
+entre 50 y 64 años.
+Este índice expresa la relación entre las personas de 80 años y más y sus potenciales hijos: 
+las personas entre 50 y 64 años.
+Censos nacionales
+Censos nacionales
+24
+27
+29
+35
+40
+8
+10
+12
+16
+18
+121
+131
+139
+146
+145
+Índices de envejecimiento, de dependencia potencial de padres, y de 
+feminidad de la población de 65 años y más 
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+
+19
+CNPHV 2022 - Indicadores por sexo y edad. Resultados definitivos 
+Índice de feminidad, por grupos quinquenales de edad. Total del país
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Si bien nacen más varones que mujeres, con los datos del Censo 2022 queda demostrado que la mayor sobrevida 
+de ellas provoca que en los grupos de edad avanzada las mujeres superan ampliamente a los varones: la relación 
+para personas de 85 años y más es de 228 mujeres por cada 100 varones.
+107
+97
+97
+97
+98
+101
+104
+105
+105
+106
+107
+109
+111
+114
+119
+127
+144
+169
+228
+0
+20
+40
+60
+80
+100
+120
+140
+160
+180
+200
+220
+240
+0 a 4
+Total
+5 a 9
+10 a 14
+15 a 19
+20 a 24
+25 a 29
+30 a 34
+35 a 39
+40 a 44
+45 a 49
+50 a 54
+55 a 59
+60 a 64
+65 a 69
+70 a 74
+75 a 79
+80 a 84
+85 y más
+El índice de feminidad es el número de mujeres por cada 100 varones. Y en este caso, se aplica para un
+determinado grupo de edad.
+Censo Nacional de Población, Hogares y Viviendas 2022
+
+20
+Censo Nacional de Población, Hogares y Viviendas 2022
+Para realizar estudios económicos y sociales, la población se divide en tres grandes grupos de edad, de manera 
+tal que permita clasificarlos según su pertenencia o no al grupo de personas en edades potencialmente activas. 
+Comúnmente, estos tres grupos de edades son: 0 a 14 años; 15 a 64 años; y 65 años y más. El grupo de 15 a 
+64 años se considera en edad potencialmente activa (en edad de trabajar) y los de 0 a 14 y 65 años y más, 
+potencialmente inactiva.
+
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+La Argentina inicia el siglo XX con 38,4% de su población entre 0 y 14 años. Esta participación relativa 
+disminuye a lo largo de ese siglo y llega al 30,6% en 1991. En 2022, este grupo de edad alcanza al 22% de la 
+población total; es decir, presenta una diferencia de 18,3 puntos porcentuales respecto de 1895.
+Por su parte, la participación relativa de la población en edades potencialmente activas (15 a 64 años) 
+aumenta de manera paulatina. Para 2022, la proporción supera en 8,4 puntos porcentuales a la presentada 
+en 1895.
+Por último, se destaca el incremento de la participación relativa de las personas mayores (personas de 65 
+años y más) con el paso de los censos: en 2022, la participación de este grupo de edad llegó a 11,9%, 9,9 
+puntos porcentuales por encima de la de 1895.
+Grandes grupos de edad de la población
+42,8
+55,0
+2,2
+40,3
+57,7
+2,0
+38,4
+59,3
+2,3
+30,9
+65,2
+3,9
+30,8
+63,6
+5,7
+29,3
+63,7
+7,0
+30,3
+61,4
+8,2
+30,6
+60,6
+8,9
+28,3
+61,8
+9,9
+25,5
+64,3
+10,2
+22,0
+66,1
+11,9
+0
+20
+40
+60
+80
+100
+1895
+1869
+2022
+1914
+1947
+1960
+1970
+1980
+1991
+2001
+2010
+Grandes grupos de edad
+0 - 14
+15 - 64
+65 y más
+Censos nacionales
+Distribución porcentual
+
+21
+CNPHV 2022 - Indicadores por sexo y edad. Resultados definitivos 
+Participación relativa de la población de 0 a 14 años y de 65 años y más, 
+por jurisdicción
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+0
+5
+10
+15
+20
+25
+30
+35
+40
+6,6
+11,9
+10,6
+9,3
+10,5
+12,3
+12,4
+13,0
+12,6
+8,8
+12,1
+10,8
+13,0
+10,1
+10,1
+9,1
+9,0
+8,3
+9,4
+7,4
+17,7
+9,1
+10,1
+11,1
+9,9
+Tucumán
+Tierra del Fuego
+Santiago del Estero
+Santa Fe
+San Juan
+Salta
+Río Negro
+Neuquén
+Misiones
+Mendoza
+La Rioja
+La Pampa
+Formosa
+Entre Ríos
+Corrientes
+Córdoba
+CABA
+Catamarca
+Buenos Aires
+Santa Cruz
+Jujuy
+Chubut
+Chaco
+San Luis
+Porcentaje de la
+población de 65 años y más
+Porcentaje de la
+población de 0 a 14 años
+Total del país
+22,0
+22,9
+22,2
+25,2
+23,2
+21,9
+23,0
+21,1
+21,0
+24,2
+22,1
+24,6
+21,5
+24,1
+22,4
+25,2
+25,4
+26,7
+22,5
+24,3
+14,8
+22,1
+22,2
+22,0
+23,4
+Porcentaje
+Censo Nacional de Población, Hogares y Viviendas 2022
+
+(1) Corresponde a la población en viviendas particulares.
+(2)	Las Islas Malvinas, Georgias del Sur, Sandwich del Sur y los espacios marítimos circundantes forman parte integrante del territorio 
+nacional argentino. Debido a que dichos territorios se encuentran sometidos a la ocupación ilegal del Reino Unido de Gran Bretaña 
+e Irlanda del Norte, la República Argentina se vio impedida de llevar a cabo el Censo 2022 en esa área. Estas islas pertenecen al 
+departamento Islas del Atlántico Sur. Del departamento Antártida Argentina fueron censadas las bases antárticas permanentes que 
+pertenecen a la República Argentina.
+Nota: de acuerdo con la evaluación de calidad y consistencia de los resultados definitivos, y para cumplir con los estándares de calidad 
+estadística requeridos por el INDEC, la categoría X de las respuestas a la pregunta por sexo registrado al nacer se distribuye entre las 
+categorías Mujer/femenino y Varón/masculino.
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Censo Nacional de Población, Hogares y Viviendas 2022
+Población total, por jurisdicción, sexo registrado al nacer y edad mediana
+Mujeres/femenino
+Varones/masculino
+Ciudad Autónoma de Buenos Aires
+Buenos Aires
+Catamarca
+Chaco
+Chubut
+Córdoba
+Corrientes
+Entre Ríos
+Formosa
+Jujuy
+La Pampa
+La Rioja
+Mendoza
+Misiones
+Neuquén
+Río Negro
+Salta
+San Juan
+San Luis
+Santa Cruz
+Santa Fe
+Santiago del Estero
+Tierra del Fuego, Antártida e Islas del Atlántico Sur(2)
+Tucumán
+3.121.707
+17.523.996
+429.562
+1.129.606
+592.621
+3.840.905
+1.212.696
+1.425.578
+607.419
+811.611
+361.859
+383.865
+2.043.540
+1.278.873
+710.814
+750.768
+1.441.351
+822.853
+542.069
+337.226
+3.544.908
+1.060.906
+185.732
+1.731.820
+1.681.834
+9.053.427
+219.098
+581.951
+301.209
+1.984.510
+623.687
+732.031
+310.609
+418.021
+184.001
+196.517
+1.053.962
+652.797
+361.726
+383.911
+738.512
+421.652
+276.742
+170.093
+1.834.649
+539.363
+93.392
+891.800
+1.439.873
+8.470.569
+210.464
+547.655
+291.412
+1.856.395
+589.009
+693.547
+296.810
+393.590
+177.858
+187.348
+989.578
+626.076
+349.088
+366.857
+702.839
+401.201
+265.327
+167.133
+1.710.259
+521.543
+92.340
+840.020
+39
+33
+31
+29
+33
+33
+30
+32
+29
+31
+34
+30
+32
+28
+32
+33
+29
+30
+31
+31
+34
+29
+31
+30
+Edad
+mediana(1)
+Jurisdicción
+Total
+Mujeres/
+femenino
+Varones/
+masculino
+
+4. Indicadores demográficos, por jurisdicción y 
+departamento, partido o comuna
+Censo Nacional de Población, Hogares y Viviendas 2022
+
+24
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Mujeres/femenino
+Varones/masculino
+   De acuerdo con la evaluación de calidad y consistencia de los resultados deﬁnitivos, y para cumplir con los estándares de 
+calidad estadística requeridos por el INDEC, la categoría X de las respuestas a la pregunta por sexo registrado al nacer se 
+distribuye entre las categorías Mujer/femenino y Varón/masculino.
+Índice de
+dependencia
+potencial de padres
+28
+Índice de
+feminidad
+117
+Índice de
+envejecimiento
+117
+Edad mediana
+39
+años
+Mujeres por cada 100 
+varones.
+0-4
+5-9
+10-14
+15-19
+20-24
+25-29
+30-34
+35-39
+40-44
+45-49
+50-54
+55-59
+60-64
+65-69
+70-74
+75-79
+80-84
+85-89
+90+
+Grupo de edad
+12 años
+2022
+2010
+Edad central que divide a 
+la población en dos 
+grupos numéricamente 
+iguales, ordenados por 
+edades de menor a mayor.
+Personas de 65 años
+y más por cada 100 de 
+entre 0 y 14 años.
+Personas de 80 años y 
+más por cada 100 de 
+entre 50 y 64 años.
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+Porcentaje
+Población total
+3.121.707
+Ciudad Autónoma de Buenos Aires
+Censo Nacional de Población, Hogares y Viviendas 2022
+
+25
+CNPHV 2022 - Indicadores por sexo y edad. Resultados definitivos 
+Mujer / femenino
+Varón / masculino
+Total
+3.121.707
+1.681.834
+1.439.873
+39
+Comuna 1
+223.554
+117.272
+106.282
+35
+Comuna 2
+161.645
+91.073
+70.572
+38
+Comuna 3
+196.240
+105.810
+90.430
+38
+Comuna 4
+229.240
+120.874
+108.366
+35
+Comuna 5
+194.271
+106.190
+88.081
+40
+Comuna 6
+203.043
+111.680
+91.363
+41
+Comuna 7
+215.896
+115.657
+100.239
+40
+Comuna 8
+204.367
+107.182
+97.185
+32
+Comuna 9
+169.063
+89.259
+79.804
+39
+Comuna 10
+173.004
+92.261
+80.743
+41
+Comuna 11
+204.601
+109.033
+95.568
+42
+Comuna 12
+236.887
+127.215
+109.672
+40
+Comuna 13
+264.385
+145.171
+119.214
+41
+Comuna 14
+248.635
+137.412
+111.223
+39
+Comuna 15
+196.876
+105.745
+91.131
+39
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Total
+Comuna
+Cuadro 1.1 Ciudad Autónoma de Buenos Aires. Población por sexo registrado al nacer y edad mediana, según 
+comuna. Año 2022
+(¹) Corresponde a la poblacíón en viviendas particulares.
+Sexo
+Edad mediana(1)
+Notas: de acuerdo con la Ley Orgánica de Comunas, la Ciudad Autónoma de Buenos Aires está organizada en 15 unidades descentralizadas de 
+gestión político-administrativa que, en algunos casos, abarcan más de un barrio. Cada comuna corresponde a:
+Comuna 1: Retiro, San Nicolás, Puerto Madero, San Telmo, Montserrat y Constitución.
+Comuna 2: Recoleta.
+Comuna 3: Balvanera y San Cristóbal.
+Comuna 4: La Boca, Barracas, Parque Patricios y Nueva Pompeya.
+Comuna 5: Almagro y Boedo.
+Comuna 6: Caballito.
+Comuna 7: Flores y Parque Chacabuco.
+Comuna 8: Villa Soldati, Villa Riachuelo y Villa Lugano.
+Comuna 9: Liniers, Mataderos y Parque Avellaneda.
+Comuna 10: Villa Real, Monte Castro, Versalles, Floresta, Vélez Sarsfield y Villa Luro.
+Comuna 11: Villa General Mitre, Villa Devoto, Villa del Parque y Villa Santa Rita.
+Comuna 12: Coghlan, Saavedra, Villa Urquiza y Villa Pueyrredón.
+Comuna 13: Núñez, Belgrano y Colegiales.
+Comuna 14: Palermo.
+Comuna 15: Chacarita, Villa Crespo, La Paternal, Villa Ortúzar, Agronomía y Parque Chas.
+De acuerdo con la evaluación de calidad y consistencia de los resultados definitivos, y para cumplir con los estándares de calidad estadística 
+requeridos por el INDEC, la categoría X/ninguna de las anteriores de las respuestas a la pregunta por sexo registrado al nacer se redistribuye 
+entre las categorías Mujer/femenino y Varón/masculino.
+
+26
+Mujeres/femenino
+Varones/masculino
+   De acuerdo con la evaluación de calidad y consistencia de los resultados deﬁnitivos, y para cumplir con los estándares de 
+calidad estadística requeridos por el INDEC, la categoría X de las respuestas a la pregunta por sexo registrado al nacer se 
+distribuye entre las categorías Mujer/femenino y Varón/masculino.
+Índice de
+dependencia
+potencial de padres
+19
+Índice de
+feminidad
+107
+Índice de
+envejecimiento
+55
+Edad mediana
+33
+años
+Mujeres por cada 100 
+varones.
+0-4
+5-9
+10-14
+15-19
+20-24
+25-29
+30-34
+35-39
+40-44
+45-49
+50-54
+55-59
+60-64
+65-69
+70-74
+75-79
+80-84
+85-89
+90+
+Grupo de edad
+12 años
+2022
+2010
+Edad central que divide a 
+la población en dos 
+grupos numéricamente 
+iguales, ordenados por 
+edades de menor a mayor.
+Personas de 65 años
+y más por cada 100 de 
+entre 0 y 14 años.
+Personas de 80 años y 
+más por cada 100 de 
+entre 50 y 64 años.
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+Porcentaje
+Buenos Aires
+Población total
+17.523.996
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Censo Nacional de Población, Hogares y Viviendas 2022
+
+27
+CNPHV 2022 - Indicadores por sexo y edad. Resultados definitivos 
+Mujer / femenino
+Varón / masculino
+Total
+17.523.996
+9.053.427
+8.470.569
+33
+24 partidos del Gran Buenos Aires
+10.849.398
+5.622.515
+5.226.883
+33
+Almirante Brown
+584.827
+302.550
+282.277
+32
+Avellaneda
+367.554
+193.821
+173.733
+36
+Berazategui
+358.712
+185.336
+173.376
+32
+Esteban Echeverría
+338.480
+174.467
+164.013
+31
+Ezeiza
+201.511
+102.342
+99.169
+29
+Florencio Varela
+496.433
+249.882
+246.551
+29
+General San Martín
+450.518
+234.129
+216.389
+35
+Hurlingham
+185.641
+96.571
+89.070
+35
+Ituzaingó
+180.232
+93.640
+86.592
+37
+José C. Paz
+326.992
+167.551
+159.441
+29
+La Matanza
+1.841.247
+953.775
+887.472
+31
+Lanús
+461.267
+242.766
+218.501
+37
+Lomas de Zamora
+690.480
+358.089
+332.391
+33
+Malvinas Argentinas
+350.674
+180.153
+170.521
+32
+Merlo
+582.486
+299.842
+282.644
+31
+Moreno
+576.632
+294.711
+281.921
+29
+Morón
+331.183
+174.334
+156.849
+38
+Quilmes
+633.391
+329.222
+304.169
+33
+San Fernando
+171.616
+89.827
+81.789
+34
+San Isidro
+297.282
+157.670
+139.612
+39
+San Miguel
+328.835
+169.874
+158.961
+32
+Tigre
+446.949
+230.097
+216.852
+33
+Tres de Febrero
+364.176
+191.214
+172.962
+37
+Vicente López
+282.280
+150.652
+131.628
+41
+Resto de partidos de la provincia
+de Buenos Aires
+6.674.598
+3.430.912
+3.243.686
+33
+Adolfo Alsina
+17.552
+8.838
+8.714
+38
+Adolfo Gonzales Chaves
+12.914
+6.610
+6.304
+35
+Alberti
+12.982
+6.710
+6.272
+37
+Arrecifes
+32.215
+16.734
+15.481
+33
+Ayacucho
+21.977
+11.248
+10.729
+34
+Azul
+75.905
+39.143
+36.762
+35
+Bahía Blanca
+336.557
+175.083
+161.474
+35
+Balcarce
+48.982
+25.185
+23.797
+36
+Baradero
+40.002
+20.421
+19.581
+33
+Benito Juárez
+22.292
+10.894
+11.398
+36
+Berisso
+100.930
+52.503
+48.427
+32
+Bolívar
+37.594
+19.530
+18.064
+36
+Bragado
+46.504
+23.973
+22.531
+37
+Brandsen
+32.448
+16.595
+15.853
+32
+Campana
+110.566
+55.172
+55.394
+32
+Cañuelas
+70.684
+35.939
+34.745
+30
+Capitán Sarmiento
+15.965
+8.254
+7.711
+34
+Carlos Casares
+23.100
+11.850
+11.250
+35
+Partido
+Total
+Cuadro 1.2 Provincia de Buenos Aires. Población por sexo registrado al nacer y edad mediana, según partido. 
+Año 2022
+Sexo
+Edad mediana(1)
+(continúa)
+
+28
+(continúa)
+Cuadro 1.2 (continuación)
+Mujer / femenino
+Varón / masculino
+Partido
+Total
+Sexo
+Edad mediana(1)
+Castelli
+9.594
+4.887
+4.707
+34
+Chacabuco
+52.729
+27.202
+25.527
+36
+Chascomús
+42.452
+21.828
+20.624
+34
+Chivilcoy
+70.839
+36.993
+33.846
+36
+Colón
+27.504
+14.139
+13.365
+34
+Coronel de Marina Leonardo Rosales
+67.503
+34.803
+32.700
+34
+Coronel Dorrego
+15.968
+8.204
+7.764
+38
+Coronel Pringles
+24.420
+12.710
+11.710
+36
+Coronel Suárez
+42.110
+21.654
+20.456
+37
+Daireaux
+18.422
+9.397
+9.025
+35
+Dolores
+32.032
+16.346
+15.686
+34
+Ensenada
+63.997
+33.005
+30.992
+32
+Escobar
+256.268
+130.473
+125.795
+31
+Exaltación de la Cruz
+40.159
+20.285
+19.874
+32
+Florentino Ameghino
+10.790
+5.484
+5.306
+33
+General Alvarado
+45.526
+23.444
+22.082
+35
+General Alvear
+12.631
+5.183
+7.448
+34
+General Arenales
+16.350
+8.380
+7.970
+37
+General Belgrano
+20.791
+10.776
+10.015
+35
+General Guido
+3.174
+1.590
+1.584
+36
+General Juan Madariaga
+22.624
+11.788
+10.836
+33
+General La Madrid
+11.618
+5.950
+5.668
+36
+General Las Heras
+18.022
+9.273
+8.749
+32
+General Lavalle
+4.870
+2.471
+2.399
+32
+General Paz
+14.207
+7.240
+6.967
+33
+General Pinto
+12.941
+6.570
+6.371
+34
+General Pueyrredón
+667.082
+350.607
+316.475
+37
+General Rodríguez
+142.709
+72.231
+70.478
+28
+General Viamonte
+22.649
+11.727
+10.922
+35
+General Villegas
+35.251
+17.816
+17.435
+34
+Guaminí
+11.801
+5.958
+5.843
+37
+Hipólito Yrigoyen
+10.661
+5.422
+5.239
+36
+Junín
+103.787
+53.206
+50.581
+36
+La Costa
+100.689
+51.921
+48.768
+34
+La Plata
+768.547
+398.633
+369.914
+33
+Laprida
+11.646
+6.036
+5.610
+33
+Las Flores
+27.239
+14.158
+13.081
+36
+Leandro N. Alem
+17.266
+8.840
+8.426
+35
+Lezama
+6.221
+3.210
+3.011
+35
+Lincoln
+45.506
+23.328
+22.178
+36
+Lobería
+18.243
+9.205
+9.038
+36
+Lobos
+41.760
+21.689
+20.071
+34
+Luján
+111.251
+57.262
+53.989
+34
+Magdalena
+26.613
+11.774
+14.839
+31
+Maipú
+11.323
+5.902
+5.421
+35
+Mar Chiquita
+33.110
+16.710
+16.400
+36
+Marcos Paz
+67.011
+33.063
+33.948
+29
+
+29
+CNPHV 2022 - Indicadores por sexo y edad. Resultados definitivos 
+Cuadro 1.2 (conclusión)
+Mujer / femenino
+Varón / masculino
+Partido
+Total
+Sexo
+Edad mediana(1)
+Mercedes
+72.980
+37.313
+35.667
+33
+Monte
+24.868
+12.749
+12.119
+33
+Monte Hermoso
+8.465
+4.265
+4.200
+35
+Navarro
+19.899
+10.113
+9.786
+32
+Necochea
+102.110
+53.318
+48.792
+37
+9 de Julio
+52.607
+27.296
+25.311
+35
+Olavarría
+125.751
+63.589
+62.162
+34
+Patagones
+37.646
+19.136
+18.510
+34
+Pehuajó
+44.783
+23.278
+21.505
+35
+Pellegrini
+7.143
+3.649
+3.494
+34
+Pergamino
+115.340
+60.152
+55.188
+35
+Pila
+4.642
+2.356
+2.286
+31
+Pilar
+394.754
+201.410
+193.344
+30
+Pinamar
+39.449
+19.940
+19.509
+32
+Presidente Perón
+102.106
+52.101
+50.005
+27
+Puan
+16.613
+8.509
+8.104
+41
+Punta Indio
+12.297
+6.245
+6.052
+35
+Ramallo
+39.730
+20.252
+19.478
+31
+Rauch
+16.635
+8.410
+8.225
+36
+Rivadavia
+19.849
+10.015
+9.834
+33
+Rojas
+25.627
+13.206
+12.421
+36
+Roque Pérez
+13.977
+7.173
+6.804
+33
+Saavedra
+22.347
+11.159
+11.188
+38
+Saladillo
+35.656
+18.310
+17.346
+35
+Salliqueló
+9.427
+4.794
+4.633
+37
+Salto
+39.425
+20.149
+19.276
+33
+San Andrés de Giles
+26.510
+13.360
+13.150
+32
+San Antonio de Areco
+26.897
+13.845
+13.052
+34
+San Cayetano
+8.994
+4.577
+4.417
+37
+San Nicolás
+168.041
+86.371
+81.670
+34
+San Pedro
+68.613
+35.210
+33.403
+31
+San Vicente
+98.215
+50.034
+48.181
+28
+Suipacha
+11.786
+6.027
+5.759
+32
+Tandil
+145.575
+75.741
+69.834
+35
+Tapalqué
+10.783
+5.480
+5.303
+34
+Tordillo
+2.542
+1.227
+1.315
+30
+Tornquist
+14.810
+7.541
+7.269
+38
+Trenque Lauquen
+49.499
+25.145
+24.354
+34
+Tres Arroyos
+62.426
+32.101
+30.325
+37
+Tres Lomas
+9.164
+4.612
+4.552
+35
+25 de Mayo
+35.563
+18.325
+17.238
+35
+Villa Gesell
+37.463
+19.315
+18.148
+34
+Villarino
+32.717
+16.251
+16.466
+32
+Zárate
+132.221
+67.519
+64.702
+32
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+(¹) Corresponde a la poblacíón en viviendas particulares.
+Nota: de acuerdo con la evaluación de calidad y consistencia de los resultados definitivos, y para cumplir con los estándares de calidad 
+estadística requeridos por el INDEC, la categoría X/ninguna de las anteriores de las respuestas a la pregunta por sexo registrado al nacer se 
+redistribuye entre las categorías Mujer/femenino y Varón/masculino.
+
+30
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Mujeres/femenino
+Varones/masculino
+   De acuerdo con la evaluación de calidad y consistencia de los resultados deﬁnitivos, y para cumplir con los estándares de 
+calidad estadística requeridos por el INDEC, la categoría X de las respuestas a la pregunta por sexo registrado al nacer se 
+distribuye entre las categorías Mujer/femenino y Varón/masculino.
+Índice de
+dependencia
+potencial de padres
+15
+Índice de
+feminidad
+104
+Índice de
+envejecimiento
+45
+Edad mediana
+31
+años
+Mujeres por cada 100 
+varones.
+0-4
+5-9
+10-14
+15-19
+20-24
+25-29
+30-34
+35-39
+40-44
+45-49
+50-54
+55-59
+60-64
+65-69
+70-74
+75-79
+80-84
+85-89
+90+
+Grupo de edad
+12 años
+2022
+2010
+Edad central que divide a 
+la población en dos 
+grupos numéricamente 
+iguales, ordenados por 
+edades de menor a mayor.
+Personas de 65 años
+y más por cada 100 de 
+entre 0 y 14 años.
+Personas de 80 años y 
+más por cada 100 de 
+entre 50 y 64 años.
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+Porcentaje
+Población total
+429.562
+Catamarca
+Censo Nacional de Población, Hogares y Viviendas 2022
+
+31
+CNPHV 2022 - Indicadores por sexo y edad. Resultados definitivos 
+Mujer / femenino
+Varón / masculino
+Total
+429.562
+219.098
+210.464
+31
+Ambato
+5.129
+2.526
+2.603
+36
+Ancasti
+3.302
+1.541
+1.761
+34
+Andalgalá
+19.678
+9.872
+9.806
+31
+Antofagasta de la Sierra
+2.022
+906
+1.116
+28
+Belén
+30.569
+15.540
+15.029
+30
+Capayán
+19.885
+9.708
+10.177
+29
+Capital
+186.947
+97.187
+89.760
+31
+El Alto
+4.375
+2.144
+2.231
+31
+Fray Mamerto Esquiú
+14.625
+7.384
+7.241
+31
+La Paz
+26.370
+13.305
+13.065
+29
+Paclín
+4.725
+2.295
+2.430
+33
+Pomán
+12.260
+6.084
+6.176
+30
+Santa María
+26.929
+13.842
+13.087
+31
+Santa Rosa
+13.322
+6.635
+6.687
+30
+Tinogasta
+25.395
+12.816
+12.579
+30
+Valle Viejo
+34.029
+17.313
+16.716
+31
+Departamento
+Total
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Cuadro 1.3 Provincia de Catamarca. Población por sexo registrado al nacer y edad mediana, según departamento. 
+Año 2022
+(¹) Corresponde a la poblacíón en viviendas particulares.
+Sexo
+Edad mediana(1)
+Nota: de acuerdo con la evaluación de calidad y consistencia de los resultados definitivos, y para cumplir con los estándares de calidad 
+estadística requeridos por el INDEC, la categoría X/ninguna de las anteriores de las respuestas a la pregunta por sexo registrado al nacer se 
+redistribuye entre las categorías Mujer/femenino y Varón/masculino.
+
+32
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Mujeres/femenino
+Varones/masculino
+   De acuerdo con la evaluación de calidad y consistencia de los resultados deﬁnitivos, y para cumplir con los estándares de 
+calidad estadística requeridos por el INDEC, la categoría X de las respuestas a la pregunta por sexo registrado al nacer se 
+distribuye entre las categorías Mujer/femenino y Varón/masculino.
+Índice de
+dependencia
+potencial de padres
+13
+Índice de
+feminidad
+106
+Índice de
+envejecimiento
+36
+Edad mediana
+29
+años
+Mujeres por cada 100 
+varones.
+0-4
+5-9
+10-14
+15-19
+20-24
+25-29
+30-34
+35-39
+40-44
+45-49
+50-54
+55-59
+60-64
+65-69
+70-74
+75-79
+80-84
+85-89
+90+
+Grupo de edad
+12 años
+2022
+2010
+Edad central que divide a 
+la población en dos 
+grupos numéricamente 
+iguales, ordenados por 
+edades de menor a mayor.
+Personas de 65 años
+y más por cada 100 de 
+entre 0 y 14 años.
+Personas de 80 años y 
+más por cada 100 de 
+entre 50 y 64 años.
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+Porcentaje
+Población total
+1.129.606
+Chaco
+Censo Nacional de Población, Hogares y Viviendas 2022
+
+33
+CNPHV 2022 - Indicadores por sexo y edad. Resultados definitivos 
+Mujer / femenino
+Varón / masculino
+Total
+1.129.606
+581.951
+547.655
+29
+Almirante Brown
+37.851
+19.080
+18.771
+26
+Bermejo
+28.144
+14.295
+13.849
+30
+Chacabuco
+34.598
+17.761
+16.837
+30
+Comandante Fernández
+101.960
+53.120
+48.840
+30
+12 de Octubre
+23.222
+11.710
+11.512
+28
+2 de Abril
+8.319
+4.185
+4.134
+31
+Fray Justo Santa María de Oro
+10.653
+5.335
+5.318
+30
+General Belgrano
+12.807
+6.468
+6.339
+26
+General Donovan
+15.096
+7.594
+7.502
+30
+General Güemes
+68.525
+34.725
+33.800
+27
+Independencia
+21.996
+11.379
+10.617
+26
+Libertad
+13.807
+7.029
+6.778
+30
+Libertador General San Martín
+65.686
+33.166
+32.520
+28
+Maipú
+26.416
+13.378
+13.038
+28
+Mayor Luis J. Fontana
+59.965
+31.088
+28.877
+29
+9 de Julio
+30.258
+15.461
+14.797
+29
+O'Higgins
+21.579
+11.002
+10.577
+26
+Presidencia de la Plaza
+13.956
+7.123
+6.833
+27
+1º de Mayo
+14.279
+7.203
+7.076
+30
+Quitilipi
+32.642
+16.688
+15.954
+29
+San Fernando
+416.140
+217.903
+198.237
+32
+San Lorenzo
+16.062
+8.202
+7.860
+27
+Sargento Cabral
+18.793
+9.513
+9.280
+28
+Tapenagá
+4.059
+1.997
+2.062
+29
+25 de Mayo
+32.793
+16.546
+16.247
+27
+Departamento
+Total
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Cuadro 1.4 Provincia del Chaco. Población por sexo registrado al nacer y edad mediana, según departamento. 
+Año 2022
+(¹) Corresponde a la poblacíón en viviendas particulares.
+Sexo
+Edad mediana(1)
+Nota: de acuerdo con la evaluación de calidad y consistencia de los resultados definitivos, y para cumplir con los estándares de calidad 
+estadística requeridos por el INDEC, la categoría X/ninguna de las anteriores de las respuestas a la pregunta por sexo registrado al nacer se 
+redistribuye entre las categorías Mujer/femenino y Varón/masculino.
+
+34
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+0-4
+5-9
+10-14
+15-19
+20-24
+25-29
+30-34
+35-39
+40-44
+45-49
+50-54
+55-59
+60-64
+65-69
+70-74
+75-79
+80-84
+85-89
+90+
+Grupo de edad
+12 años
+2022
+2010
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+Porcentaje
+Población total
+592.621
+Chubut
+Mujeres/femenino
+Varones/masculino
+   De acuerdo con la evaluación de calidad y consistencia de los resultados deﬁnitivos, y para cumplir con los estándares de 
+calidad estadística requeridos por el INDEC, la categoría X de las respuestas a la pregunta por sexo registrado al nacer se 
+distribuye entre las categorías Mujer/femenino y Varón/masculino.
+Índice de
+dependencia
+potencial de padres
+15
+Índice de
+feminidad
+103
+Índice de
+envejecimiento
+44
+Edad mediana
+33
+años
+Mujeres por cada 100 
+varones.
+Edad central que divide a 
+la población en dos 
+grupos numéricamente 
+iguales, ordenados por 
+edades de menor a mayor.
+Personas de 65 años
+y más por cada 100 de 
+entre 0 y 14 años.
+Personas de 80 años y 
+más por cada 100 de 
+entre 50 y 64 años.
+Censo Nacional de Población, Hogares y Viviendas 2022
+
+35
+CNPHV 2022 - Indicadores por sexo y edad. Resultados definitivos 
+Mujer / femenino
+Varón / masculino
+Total
+592.621
+301.209
+291.412
+33
+Biedma
+103.173
+52.238
+50.935
+32
+Cushamen
+28.209
+14.252
+13.957
+34
+Escalante
+215.453
+109.365
+106.088
+32
+Florentino Ameghino
+1.786
+858
+928
+31
+Futaleufú
+50.316
+26.121
+24.195
+34
+Gaiman
+12.639
+6.366
+6.273
+33
+Gastre
+1.195
+520
+675
+38
+Languiñeo
+2.884
+1.378
+1.506
+34
+Mártires
+754
+319
+435
+37
+Paso de Indios
+1.886
+868
+1.018
+33
+Rawson
+145.763
+75.071
+70.692
+33
+Río Senguer
+6.366
+3.067
+3.299
+31
+Sarmiento
+14.596
+7.165
+7.431
+29
+Tehuelches
+5.978
+2.873
+3.105
+33
+Telsen
+1.623
+748
+875
+34
+Departamento
+Total
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Cuadro 1.5 Provincia del Chubut. Población por sexo registrado al nacer y edad mediana, según departamento. 
+Año 2022
+(¹) Corresponde a la poblacíón en viviendas particulares.
+Sexo
+Edad mediana(1)
+Nota: de acuerdo con la evaluación de calidad y consistencia de los resultados definitivos, y para cumplir con los estándares de calidad 
+estadística requeridos por el INDEC, la categoría X/ninguna de las anteriores de las respuestas a la pregunta por sexo registrado al nacer se 
+redistribuye entre las categorías Mujer/femenino y Varón/masculino.
+
+36
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+0-4
+5-9
+10-14
+15-19
+20-24
+25-29
+30-34
+35-39
+40-44
+45-49
+50-54
+55-59
+60-64
+65-69
+70-74
+75-79
+80-84
+85-89
+90+
+Grupo de edad
+12 años
+2022
+2010
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+Porcentaje
+Población total
+3.840.905
+Córdoba
+Mujeres/femenino
+Varones/masculino
+   De acuerdo con la evaluación de calidad y consistencia de los resultados deﬁnitivos, y para cumplir con los estándares de 
+calidad estadística requeridos por el INDEC, la categoría X de las respuestas a la pregunta por sexo registrado al nacer se 
+distribuye entre las categorías Mujer/femenino y Varón/masculino.
+Índice de
+dependencia
+potencial de padres
+19
+Índice de
+feminidad
+107
+Índice de
+envejecimiento
+59
+Edad mediana
+33
+años
+Mujeres por cada 100 
+varones.
+Edad central que divide a 
+la población en dos 
+grupos numéricamente 
+iguales, ordenados por 
+edades de menor a mayor.
+Personas de 65 años
+y más por cada 100 de 
+entre 0 y 14 años.
+Personas de 80 años y 
+más por cada 100 de 
+entre 50 y 64 años.
+Censo Nacional de Población, Hogares y Viviendas 2022
+
+37
+CNPHV 2022 - Indicadores por sexo y edad. Resultados definitivos 
+Mujer / femenino
+Varón / masculino
+Total
+3.840.905
+1.984.510
+1.856.395
+33
+Calamuchita
+75.911
+38.395
+37.516
+35
+Capital
+1.505.250
+789.418
+715.832
+32
+Colón
+295.725
+151.660
+144.065
+32
+Cruz del Eje
+67.112
+33.487
+33.625
+31
+General Roca
+36.242
+18.024
+18.218
+34
+General San Martín
+154.269
+79.053
+75.216
+33
+Ischilín
+36.074
+18.592
+17.482
+31
+Juárez Celman
+68.631
+34.743
+33.888
+33
+Marcos Juárez
+107.764
+55.282
+52.482
+36
+Minas
+4.870
+2.397
+2.473
+35
+Pocho
+5.123
+2.535
+2.588
+36
+Presidente Roque Sáenz Peña
+37.726
+19.057
+18.669
+35
+Punilla
+221.273
+115.640
+105.633
+36
+Río Cuarto
+279.923
+145.041
+134.882
+34
+Río Primero
+58.428
+29.513
+28.915
+31
+Río Seco
+15.302
+7.644
+7.658
+30
+Río Segundo
+113.950
+58.723
+55.227
+33
+San Alberto
+42.166
+21.584
+20.582
+33
+San Javier
+63.377
+32.845
+30.532
+34
+San Justo
+230.339
+117.730
+112.609
+34
+Santa María
+144.829
+71.863
+72.966
+33
+Sobremonte
+4.503
+2.248
+2.255
+32
+Tercero Arriba
+120.918
+62.495
+58.423
+35
+Totoral
+22.495
+11.294
+11.201
+31
+Tulumba
+14.134
+7.082
+7.052
+33
+Unión
+114.571
+58.165
+56.406
+34
+Cuadro 1.6 Provincia de Córdoba. Población por sexo registrado al nacer y edad mediana, según departamento. 
+Año 2022
+Departamento
+Total
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+(¹) Corresponde a la poblacíón en viviendas particulares.
+Sexo
+Edad mediana(1)
+Nota: de acuerdo con la evaluación de calidad y consistencia de los resultados definitivos, y para cumplir con los estándares de calidad 
+estadística requeridos por el INDEC, la categoría X/ninguna de las anteriores de las respuestas a la pregunta por sexo registrado al nacer se 
+redistribuye entre las categorías Mujer/femenino y Varón/masculino.
+
+38
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+0-4
+5-9
+10-14
+15-19
+20-24
+25-29
+30-34
+35-39
+40-44
+45-49
+50-54
+55-59
+60-64
+65-69
+70-74
+75-79
+80-84
+85-89
+90+
+Grupo de edad
+12 años
+2022
+2010
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+Porcentaje
+Población total
+1.212.696
+Corrientes
+Mujeres/femenino
+Varones/masculino
+   De acuerdo con la evaluación de calidad y consistencia de los resultados deﬁnitivos, y para cumplir con los estándares de 
+calidad estadística requeridos por el INDEC, la categoría X de las respuestas a la pregunta por sexo registrado al nacer se 
+distribuye entre las categorías Mujer/femenino y Varón/masculino.
+Índice de
+dependencia
+potencial de padres
+15
+Índice de
+feminidad
+106
+Índice de
+envejecimiento
+42
+Edad mediana
+30
+años
+Mujeres por cada 100 
+varones.
+Edad central que divide a 
+la población en dos 
+grupos numéricamente 
+iguales, ordenados por 
+edades de menor a mayor.
+Personas de 65 años
+y más por cada 100 de 
+entre 0 y 14 años.
+Personas de 80 años y 
+más por cada 100 de 
+entre 50 y 64 años.
+Censo Nacional de Población, Hogares y Viviendas 2022
+
+39
+CNPHV 2022 - Indicadores por sexo y edad. Resultados definitivos 
+Mujer / femenino
+Varón / masculino
+Total
+1.212.696
+623.687
+589.009
+30
+Bella Vista
+44.406
+22.533
+21.873
+29
+Berón de Astrada
+2.826
+1.386
+1.440
+31
+Capital
+439.270
+229.157
+210.113
+31
+Concepción
+26.282
+13.121
+13.161
+26
+Curuzú Cuatiá
+51.532
+26.531
+25.001
+30
+Empedrado
+17.968
+9.114
+8.854
+30
+Esquina
+39.185
+20.208
+18.977
+29
+General Alvear
+9.145
+4.533
+4.612
+30
+General Paz
+17.020
+8.585
+8.435
+32
+Goya
+106.371
+55.171
+51.200
+31
+Itatí
+12.010
+6.041
+5.969
+30
+Ituzaingó
+38.837
+19.585
+19.252
+29
+Lavalle
+40.448
+20.292
+20.156
+26
+Mburucuyá
+11.568
+5.855
+5.713
+30
+Mercedes
+49.882
+25.533
+24.349
+29
+Monte Caseros
+45.670
+23.150
+22.520
+30
+Paso de los Libres
+56.989
+29.507
+27.482
+29
+Saladas
+29.198
+14.913
+14.285
+29
+San Cosme
+19.706
+9.786
+9.920
+32
+San Luis del Palmar
+21.459
+10.927
+10.532
+30
+San Martín
+15.187
+7.801
+7.386
+29
+San Miguel
+12.713
+6.376
+6.337
+26
+San Roque
+22.715
+11.481
+11.234
+29
+Santo Tomé
+71.927
+36.837
+35.090
+27
+Sauce
+10.382
+5.264
+5.118
+30
+Departamento
+Total
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Cuadro 1.7 Provincia de Corrientes. Población por sexo registrado al nacer y edad mediana, según departamento. 
+Año 2022
+(¹) Corresponde a la poblacíón en viviendas particulares.
+Sexo
+Edad mediana(1)
+Nota: de acuerdo con la evaluación de calidad y consistencia de los resultados definitivos, y para cumplir con los estándares de calidad 
+estadística requeridos por el INDEC, la categoría X/ninguna de las anteriores de las respuestas a la pregunta por sexo registrado al nacer se 
+redistribuye entre las categorías Mujer/femenino y Varón/masculino.
+
+40
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+0-4
+5-9
+10-14
+15-19
+20-24
+25-29
+30-34
+35-39
+40-44
+45-49
+50-54
+55-59
+60-64
+65-69
+70-74
+75-79
+80-84
+85-89
+90+
+Grupo de edad
+12 años
+2022
+2010
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+Porcentaje
+Población total
+1.425.578
+Entre Ríos
+Mujeres/femenino
+Varones/masculino
+   De acuerdo con la evaluación de calidad y consistencia de los resultados deﬁnitivos, y para cumplir con los estándares de 
+calidad estadística requeridos por el INDEC, la categoría X de las respuestas a la pregunta por sexo registrado al nacer se 
+distribuye entre las categorías Mujer/femenino y Varón/masculino.
+Índice de
+dependencia
+potencial de padres
+18
+Índice de
+feminidad
+106
+Índice de
+envejecimiento
+54
+Edad mediana
+32
+años
+Mujeres por cada 100 
+varones.
+Edad central que divide a 
+la población en dos 
+grupos numéricamente 
+iguales, ordenados por 
+edades de menor a mayor.
+Personas de 65 años
+y más por cada 100 de 
+entre 0 y 14 años.
+Personas de 80 años y 
+más por cada 100 de 
+entre 50 y 64 años.
+Censo Nacional de Población, Hogares y Viviendas 2022
+
+41
+CNPHV 2022 - Indicadores por sexo y edad. Resultados definitivos 
+Mujer / femenino
+Varón / masculino
+Total
+1.425.578
+732.031
+693.547
+32
+Colón
+75.305
+38.394
+36.911
+34
+Concordia
+198.802
+102.035
+96.767
+30
+Diamante
+53.595
+27.538
+26.057
+34
+Federación
+78.691
+39.436
+39.255
+31
+Federal
+29.667
+14.962
+14.705
+30
+Feliciano
+16.803
+8.582
+8.221
+29
+Gualeguay
+57.303
+29.363
+27.940
+33
+Gualeguaychú
+126.147
+64.779
+61.368
+34
+Islas del Ibicuy
+14.000
+6.939
+7.061
+29
+La Paz
+75.407
+38.572
+36.835
+30
+Nogoyá
+43.195
+22.047
+21.148
+34
+Paraná
+391.696
+203.773
+187.923
+34
+San Salvador
+20.854
+10.551
+10.303
+31
+Tala
+31.309
+16.228
+15.081
+33
+Uruguay
+116.356
+59.788
+56.568
+33
+Victoria
+40.652
+20.684
+19.968
+34
+Villaguay
+55.796
+28.360
+27.436
+31
+Departamento
+Total
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Cuadro 1.8 Provincia de Entre Ríos. Población por sexo registrado al nacer y edad mediana, según departamento. 
+Año 2022
+(¹) Corresponde a la poblacíón en viviendas particulares.
+Sexo
+Edad mediana(1)
+Nota: de acuerdo con la evaluación de calidad y consistencia de los resultados definitivos, y para cumplir con los estándares de calidad 
+estadística requeridos por el INDEC, la categoría X/ninguna de las anteriores de las respuestas a la pregunta por sexo registrado al nacer se 
+redistribuye entre las categorías Mujer/femenino y Varón/masculino.
+
+42
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+0-4
+5-9
+10-14
+15-19
+20-24
+25-29
+30-34
+35-39
+40-44
+45-49
+50-54
+55-59
+60-64
+65-69
+70-74
+75-79
+80-84
+85-89
+90+
+Grupo de edad
+12 años
+2022
+2010
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+Porcentaje
+Población total
+607.419
+Formosa
+Mujeres/femenino
+Varones/masculino
+   De acuerdo con la evaluación de calidad y consistencia de los resultados deﬁnitivos, y para cumplir con los estándares de 
+calidad estadística requeridos por el INDEC, la categoría X de las respuestas a la pregunta por sexo registrado al nacer se 
+distribuye entre las categorías Mujer/femenino y Varón/masculino.
+Índice de
+dependencia
+potencial de padres
+13
+Índice de
+feminidad
+105
+Índice de
+envejecimiento
+37
+Edad mediana
+29
+años
+Mujeres por cada 100 
+varones.
+Edad central que divide a 
+la población en dos 
+grupos numéricamente 
+iguales, ordenados por 
+edades de menor a mayor.
+Personas de 65 años
+y más por cada 100 de 
+entre 0 y 14 años.
+Personas de 80 años y 
+más por cada 100 de 
+entre 50 y 64 años.
+Censo Nacional de Población, Hogares y Viviendas 2022
+
+43
+CNPHV 2022 - Indicadores por sexo y edad. Resultados definitivos 
+Mujer / femenino
+Varón / masculino
+Total
+607.419
+310.609
+296.810
+29
+Bermejo
+15.644
+7.549
+8.095
+25
+Formosa
+269.589
+140.281
+129.308
+31
+Laishi
+19.303
+9.665
+9.638
+29
+Matacos
+17.032
+8.622
+8.410
+25
+Patiño
+81.819
+40.714
+41.105
+27
+Pilagás
+19.116
+9.573
+9.543
+29
+Pilcomayo
+94.383
+48.417
+45.966
+30
+Pirané
+72.804
+36.916
+35.888
+29
+Ramón Lista
+17.729
+8.872
+8.857
+20
+Departamento
+Total
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Cuadro 1.9 Provincia de Formosa. Población por sexo registrado al nacer y edad mediana, según departamento. Año 
+2022
+Sexo
+Edad mediana(1)
+(¹) Corresponde a la poblacíón en viviendas particulares.
+Nota: de acuerdo con la evaluación de calidad y consistencia de los resultados definitivos, y para cumplir con los estándares de calidad 
+estadística requeridos por el INDEC, la categoría X/ninguna de las anteriores de las respuestas a la pregunta por sexo registrado al nacer se 
+redistribuye entre las categorías Mujer/femenino y Varón/masculino.
+
+44
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+0-4
+5-9
+10-14
+15-19
+20-24
+25-29
+30-34
+35-39
+40-44
+45-49
+50-54
+55-59
+60-64
+65-69
+70-74
+75-79
+80-84
+85-89
+90+
+Grupo de edad
+12 años
+2022
+2010
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+Porcentaje
+Población total
+811.611
+Jujuy
+Mujeres/femenino
+Varones/masculino
+   De acuerdo con la evaluación de calidad y consistencia de los resultados deﬁnitivos, y para cumplir con los estándares de 
+calidad estadística requeridos por el INDEC, la categoría X de las respuestas a la pregunta por sexo registrado al nacer se 
+distribuye entre las categorías Mujer/femenino y Varón/masculino.
+Índice de
+dependencia
+potencial de padres
+15
+Índice de
+feminidad
+106
+Índice de
+envejecimiento
+42
+Edad mediana
+31
+años
+Mujeres por cada 100 
+varones.
+Edad central que divide a 
+la población en dos 
+grupos numéricamente 
+iguales, ordenados por 
+edades de menor a mayor.
+Personas de 65 años
+y más por cada 100 de 
+entre 0 y 14 años.
+Personas de 80 años y 
+más por cada 100 de 
+entre 50 y 64 años.
+Censo Nacional de Población, Hogares y Viviendas 2022
+
+45
+CNPHV 2022 - Indicadores por sexo y edad. Resultados definitivos 
+Mujer / femenino
+Varón / masculino
+Total
+811.611
+418.021
+393.590
+31
+Cochinoca
+15.054
+7.913
+7.141
+27
+Dr. Manuel Belgrano
+320.990
+167.468
+153.522
+32
+El Carmen
+122.366
+62.180
+60.186
+29
+Humahuaca
+20.914
+10.980
+9.934
+29
+Ledesma
+94.252
+47.679
+46.573
+30
+Palpalá
+65.541
+33.531
+32.010
+32
+Rinconada
+1.802
+895
+907
+28
+San Antonio
+6.729
+3.356
+3.373
+31
+San Pedro
+88.241
+45.197
+43.044
+31
+Santa Bárbara
+20.499
+10.070
+10.429
+28
+Santa Catalina
+2.646
+1.383
+1.263
+27
+Susques
+4.098
+2.037
+2.061
+24
+Tilcara
+14.721
+7.596
+7.125
+30
+Tumbaya
+5.381
+2.759
+2.622
+31
+Valle Grande
+2.509
+1.252
+1.257
+30
+Yavi
+25.868
+13.725
+12.143
+29
+Departamento
+Total
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Cuadro 1.10 Provincia de Jujuy. Población por sexo registrado al nacer y edad mediana, según departamento. 
+Año 2022
+(¹) Corresponde a la poblacíón en viviendas particulares.
+Sexo
+Edad mediana(1)
+Nota: de acuerdo con la evaluación de calidad y consistencia de los resultados definitivos, y para cumplir con los estándares de calidad 
+estadística requeridos por el INDEC, la categoría X/ninguna de las anteriores de las respuestas a la pregunta por sexo registrado al nacer se 
+redistribuye entre las categorías Mujer/femenino y Varón/masculino.
+
+46
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Mujeres/femenino
+Varones/masculino
+   De acuerdo con la evaluación de calidad y consistencia de los resultados deﬁnitivos, y para cumplir con los estándares de 
+calidad estadística requeridos por el INDEC, la categoría X de las respuestas a la pregunta por sexo registrado al nacer se 
+distribuye entre las categorías Mujer/femenino y Varón/masculino.
+Índice de
+dependencia
+potencial de padres
+19
+Índice de
+feminidad
+103
+Índice de
+envejecimiento
+59
+Edad mediana
+34
+años
+Mujeres por cada 100 
+varones.
+0-4
+5-9
+10-14
+15-19
+20-24
+25-29
+30-34
+35-39
+40-44
+45-49
+50-54
+55-59
+60-64
+65-69
+70-74
+75-79
+80-84
+85-89
+90+
+Grupo de edad
+12 años
+2022
+2010
+Edad central que divide a 
+la población en dos 
+grupos numéricamente 
+iguales, ordenados por 
+edades de menor a mayor.
+Personas de 65 años
+y más por cada 100 de 
+entre 0 y 14 años.
+Personas de 80 años y 
+más por cada 100 de 
+entre 50 y 64 años.
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+Porcentaje
+Población total
+361.859
+La Pampa
+Censo Nacional de Población, Hogares y Viviendas 2022
+
+47
+CNPHV 2022 - Indicadores por sexo y edad. Resultados definitivos 
+Mujer / femenino
+Varón / masculino
+Total
+361.859
+184.001
+177.858
+34
+Atreucó
+11.138
+5.567
+5.571
+36
+Caleu Caleu
+2.611
+1.297
+1.314
+33
+Capital
+119.632
+62.072
+57.560
+34
+Catriló
+8.235
+4.100
+4.135
+32
+Chalileo
+2.885
+1.461
+1.424
+33
+Chapaleufú
+12.334
+6.140
+6.194
+34
+Chical Co
+1.466
+715
+751
+32
+Conhelo
+15.186
+7.634
+7.552
+36
+Curacó
+1.116
+519
+597
+34
+Guatraché
+9.517
+4.733
+4.784
+38
+Hucal
+7.787
+3.890
+3.897
+40
+Lihuel Calel
+443
+190
+253
+34
+Limay Mahuida
+423
+200
+223
+36
+Loventué
+9.322
+4.643
+4.679
+34
+Maracó
+69.514
+35.830
+33.684
+33
+Puelén
+11.654
+5.793
+5.861
+29
+Quemú Quemú
+8.460
+4.173
+4.287
+36
+Rancul
+11.133
+5.491
+5.642
+34
+Realicó
+17.470
+8.806
+8.664
+35
+Toay
+18.029
+9.003
+9.026
+32
+Trenel
+5.702
+2.847
+2.855
+35
+Utracán
+17.802
+8.897
+8.905
+33
+Departamento
+Total
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Cuadro 1.11 Provincia de La Pampa. Población por sexo registrado al nacer y edad mediana, según departamento. 
+Año 2022
+(¹) Corresponde a la poblacíón en viviendas particulares.
+Sexo
+Edad mediana(1)
+Nota: de acuerdo con la evaluación de calidad y consistencia de los resultados definitivos, y para cumplir con los estándares de calidad 
+estadística requeridos por el INDEC, la categoría X/ninguna de las anteriores de las respuestas a la pregunta por sexo registrado al nacer se 
+redistribuye entre las categorías Mujer/femenino y Varón/masculino.
+
+48
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Mujeres/femenino
+Varones/masculino
+   De acuerdo con la evaluación de calidad y consistencia de los resultados deﬁnitivos, y para cumplir con los estándares de 
+calidad estadística requeridos por el INDEC, la categoría X de las respuestas a la pregunta por sexo registrado al nacer se 
+distribuye entre las categorías Mujer/femenino y Varón/masculino.
+Índice de
+dependencia
+potencial de padres
+13
+Índice de
+feminidad
+105
+Índice de
+envejecimiento
+41
+Edad mediana
+30
+años
+Mujeres por cada 100 
+varones.
+0-4
+5-9
+10-14
+15-19
+20-24
+25-29
+30-34
+35-39
+40-44
+45-49
+50-54
+55-59
+60-64
+65-69
+70-74
+75-79
+80-84
+85-89
+90+
+Grupo de edad
+12 años
+2022
+2010
+Edad central que divide a 
+la población en dos 
+grupos numéricamente 
+iguales, ordenados por 
+edades de menor a mayor.
+Personas de 65 años
+y más por cada 100 de 
+entre 0 y 14 años.
+Personas de 80 años y 
+más por cada 100 de 
+entre 50 y 64 años.
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+Porcentaje
+Población total
+383.865
+La Rioja
+Censo Nacional de Población, Hogares y Viviendas 2022
+
+49
+CNPHV 2022 - Indicadores por sexo y edad. Resultados definitivos 
+Mujer / femenino
+Varón / masculino
+Total
+383.865
+196.517
+187.348
+30
+Arauco
+16.257
+8.220
+8.037
+30
+Ángel Vicente Peñaloza
+3.185
+1.591
+1.594
+30
+Capital
+211.651
+109.478
+102.173
+30
+Castro Barros
+5.810
+2.960
+2.850
+34
+Chamical
+15.666
+8.013
+7.653
+31
+Chilecito
+58.798
+30.007
+28.791
+30
+Famatina
+7.002
+3.467
+3.535
+33
+General Belgrano
+7.618
+3.884
+3.734
+32
+General Felipe Varela
+11.372
+5.628
+5.744
+32
+General Juan Facundo Quiroga
+4.017
+1.922
+2.095
+31
+General Lamadrid
+1.886
+970
+916
+32
+General Ortiz de Ocampo
+7.349
+3.637
+3.712
+33
+General San Martín
+5.019
+2.497
+2.522
+29
+Independencia
+2.401
+1.190
+1.211
+31
+Rosario Vera Peñaloza
+15.783
+8.019
+7.764
+30
+San Blas de los Sauces
+4.314
+2.188
+2.126
+31
+Sanagasta
+3.038
+1.540
+1.498
+31
+Vinchina
+2.699
+1.306
+1.393
+32
+Departamento
+Total
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Cuadro 1.12 Provincia de La Rioja. Población por sexo registrado al nacer y edad mediana, según departamento. 
+Año 2022
+Sexo
+Edad mediana(1)
+(¹) Corresponde a la poblacíón en viviendas particulares.
+Nota: de acuerdo con la evaluación de calidad y consistencia de los resultados definitivos, y para cumplir con los estándares de calidad 
+estadística requeridos por el INDEC, la categoría X/ninguna de las anteriores de las respuestas a la pregunta por sexo registrado al nacer se 
+redistribuye entre las categorías Mujer/femenino y Varón/masculino.
+
+50
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Mujeres/femenino
+Varones/masculino
+   De acuerdo con la evaluación de calidad y consistencia de los resultados deﬁnitivos, y para cumplir con los estándares de 
+calidad estadística requeridos por el INDEC, la categoría X de las respuestas a la pregunta por sexo registrado al nacer se 
+distribuye entre las categorías Mujer/femenino y Varón/masculino.
+Índice de
+dependencia
+potencial de padres
+19
+Índice de
+feminidad
+107
+Índice de
+envejecimiento
+53
+Edad mediana
+32
+años
+Mujeres por cada 100 
+varones.
+0-4
+5-9
+10-14
+15-19
+20-24
+25-29
+30-34
+35-39
+40-44
+45-49
+50-54
+55-59
+60-64
+65-69
+70-74
+75-79
+80-84
+85-89
+90+
+Grupo de edad
+12 años
+2022
+2010
+Edad central que divide a 
+la población en dos 
+grupos numéricamente 
+iguales, ordenados por 
+edades de menor a mayor.
+Personas de 65 años
+y más por cada 100 de 
+entre 0 y 14 años.
+Personas de 80 años y 
+más por cada 100 de 
+entre 50 y 64 años.
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+Porcentaje
+Población total
+2.043.540
+Mendoza
+Censo Nacional de Población, Hogares y Viviendas 2022
+
+51
+CNPHV 2022 - Indicadores por sexo y edad. Resultados definitivos 
+Mujer / femenino
+Varón / masculino
+Total
+2.043.540
+1.053.962
+989.578
+32
+Capital
+127.160
+66.811
+60.349
+35
+General Alvear
+52.584
+27.359
+25.225
+34
+Godoy Cruz
+195.159
+103.129
+92.030
+35
+Guaymallén
+321.966
+166.853
+155.113
+32
+Junín
+46.604
+23.850
+22.754
+33
+La Paz
+12.086
+6.117
+5.969
+30
+Las Heras
+234.401
+121.041
+113.360
+31
+Lavalle
+47.167
+23.672
+23.495
+28
+Luján de Cuyo
+175.056
+88.441
+86.615
+32
+Maipú
+219.402
+112.796
+106.606
+32
+Malargüe
+32.717
+16.543
+16.174
+30
+Rivadavia
+63.724
+32.711
+31.013
+31
+San Carlos
+39.869
+20.191
+19.678
+30
+San Martín
+139.792
+72.064
+67.728
+31
+San Rafael
+215.020
+111.027
+103.993
+33
+Santa Rosa
+19.382
+9.619
+9.763
+30
+Tunuyán
+60.171
+31.114
+29.057
+30
+Tupungato
+41.280
+20.624
+20.656
+28
+Departamento
+Total
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Cuadro 1.13 Provincia de Mendoza. Población por sexo registrado al nacer y edad mediana, según departamento. 
+Año 2022
+(¹) Corresponde a la poblacíón en viviendas particulares.
+Sexo
+Edad mediana(1)
+Nota: de acuerdo con la evaluación de calidad y consistencia de los resultados definitivos, y para cumplir con los estándares de calidad 
+estadística requeridos por el INDEC, la categoría X/ninguna de las anteriores de las respuestas a la pregunta por sexo registrado al nacer se 
+redistribuye entre las categorías Mujer/femenino y Varón/masculino.
+
+52
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+0-4
+5-9
+10-14
+15-19
+20-24
+25-29
+30-34
+35-39
+40-44
+45-49
+50-54
+55-59
+60-64
+65-69
+70-74
+75-79
+80-84
+85-89
+90+
+Grupo de edad
+12 años
+2022
+2010
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+Porcentaje
+Población total
+1.278.873
+Misiones
+Mujeres/femenino
+Varones/masculino
+   De acuerdo con la evaluación de calidad y consistencia de los resultados deﬁnitivos, y para cumplir con los estándares de 
+calidad estadística requeridos por el INDEC, la categoría X de las respuestas a la pregunta por sexo registrado al nacer se 
+distribuye entre las categorías Mujer/femenino y Varón/masculino.
+Índice de
+dependencia
+potencial de padres
+12
+Índice de
+feminidad
+104
+Índice de
+envejecimiento
+31
+Edad mediana
+28
+años
+Mujeres por cada 100 
+varones.
+Edad central que divide a 
+la población en dos 
+grupos numéricamente 
+iguales, ordenados por 
+edades de menor a mayor.
+Personas de 65 años
+y más por cada 100 de 
+entre 0 y 14 años.
+Personas de 80 años y 
+más por cada 100 de 
+entre 50 y 64 años.
+Censo Nacional de Población, Hogares y Viviendas 2022
+
+53
+CNPHV 2022 - Indicadores por sexo y edad. Resultados definitivos 
+Mujer / femenino
+Varón / masculino
+Total
+1.278.873
+652.797
+626.076
+28
+Apóstoles
+50.597
+25.751
+24.846
+27
+Cainguás
+59.953
+29.743
+30.210
+26
+Candelaria
+35.318
+17.874
+17.444
+27
+Capital
+392.919
+205.804
+187.115
+30
+Concepción
+10.348
+5.206
+5.142
+27
+Eldorado
+91.728
+46.860
+44.868
+29
+General Manuel Belgrano
+45.570
+22.702
+22.868
+25
+Guaraní
+77.160
+38.438
+38.722
+25
+Iguazú
+100.096
+50.758
+49.338
+27
+Leandro N. Alem
+49.797
+25.255
+24.542
+30
+Libertador General San Martín
+52.428
+26.451
+25.977
+29
+Montecarlo
+38.669
+19.519
+19.150
+29
+Oberá
+121.701
+61.897
+59.804
+28
+San Ignacio
+63.394
+32.235
+31.159
+28
+San Javier
+23.503
+11.822
+11.681
+28
+San Pedro
+34.801
+17.129
+17.672
+23
+25 de Mayo
+30.891
+15.353
+15.538
+27
+Departamento
+Total
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Cuadro 1.14 Provincia de Misiones. Población por sexo registrado al nacer y edad mediana, según departamento. 
+Año 2022
+(¹) Corresponde a la poblacíón en viviendas particulares.
+Sexo
+Edad mediana(1)
+Nota: de acuerdo con la evaluación de calidad y consistencia de los resultados definitivos, y para cumplir con los estándares de calidad 
+estadística requeridos por el INDEC, la categoría X/ninguna de las anteriores de las respuestas a la pregunta por sexo registrado al nacer se 
+redistribuye entre las categorías Mujer/femenino y Varón/masculino.
+
+54
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+0-4
+5-9
+10-14
+15-19
+20-24
+25-29
+30-34
+35-39
+40-44
+45-49
+50-54
+55-59
+60-64
+65-69
+70-74
+75-79
+80-84
+85-89
+90+
+Grupo de edad
+12 años
+2022
+2010
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+Porcentaje
+Población total
+710.814
+Neuquén
+Mujeres/femenino
+Varones/masculino
+   De acuerdo con la evaluación de calidad y consistencia de los resultados deﬁnitivos, y para cumplir con los estándares de 
+calidad estadística requeridos por el INDEC, la categoría X de las respuestas a la pregunta por sexo registrado al nacer se 
+distribuye entre las categorías Mujer/femenino y Varón/masculino.
+Índice de
+dependencia
+potencial de padres
+12
+Índice de
+feminidad
+104
+Índice de
+envejecimiento
+41
+Edad mediana
+32
+años
+Mujeres por cada 100 
+varones.
+Edad central que divide a 
+la población en dos 
+grupos numéricamente 
+iguales, ordenados por 
+edades de menor a mayor.
+Personas de 65 años
+y más por cada 100 de 
+entre 0 y 14 años.
+Personas de 80 años y 
+más por cada 100 de 
+entre 50 y 64 años.
+Censo Nacional de Población, Hogares y Viviendas 2022
+
+55
+CNPHV 2022 - Indicadores por sexo y edad. Resultados definitivos 
+Mujer / femenino
+Varón / masculino
+Total
+710.814
+361.726
+349.088
+32
+Aluminé
+10.244
+5.135
+5.109
+31
+Añelo
+18.166
+8.780
+9.386
+27
+Catán Lil
+2.676
+1.276
+1.400
+33
+Chos Malal
+18.368
+9.429
+8.939
+33
+Collón Curá
+4.835
+2.426
+2.409
+32
+Confluencia
+468.794
+240.122
+228.672
+33
+Huiliches
+20.973
+10.579
+10.394
+32
+Lácar
+39.596
+20.338
+19.258
+34
+Loncopué
+7.698
+3.849
+3.849
+31
+Los Lagos
+15.555
+7.785
+7.770
+34
+Minas
+9.267
+4.516
+4.751
+33
+Ñorquín
+5.609
+2.739
+2.870
+33
+Pehuenches
+29.753
+14.583
+15.170
+29
+Picún Leufú
+5.087
+2.465
+2.622
+33
+Picunches
+8.495
+4.295
+4.200
+30
+Zapala
+45.698
+23.409
+22.289
+32
+Departamento
+Total
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Cuadro 1.15 Provincia del Neuquén. Población por sexo registrado al nacer y edad mediana, según departamento. 
+Año 2022
+(¹) Corresponde a la poblacíón en viviendas particulares.
+Sexo
+Edad mediana(1)
+Nota: de acuerdo con la evaluación de calidad y consistencia de los resultados definitivos, y para cumplir con los estándares de calidad 
+estadística requeridos por el INDEC, la categoría X/ninguna de las anteriores de las respuestas a la pregunta por sexo registrado al nacer se 
+redistribuye entre las categorías Mujer/femenino y Varón/masculino.
+
+56
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+0-4
+5-9
+10-14
+15-19
+20-24
+25-29
+30-34
+35-39
+40-44
+45-49
+50-54
+55-59
+60-64
+65-69
+70-74
+75-79
+80-84
+85-89
+90+
+Grupo de edad
+12 años
+2022
+2010
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+Porcentaje
+Población total
+750.768
+Río Negro
+Mujeres/femenino
+Varones/masculino
+   De acuerdo con la evaluación de calidad y consistencia de los resultados deﬁnitivos, y para cumplir con los estándares de 
+calidad estadística requeridos por el INDEC, la categoría X de las respuestas a la pregunta por sexo registrado al nacer se 
+distribuye entre las categorías Mujer/femenino y Varón/masculino.
+Índice de
+dependencia
+potencial de padres
+16
+Índice de
+feminidad
+105
+Índice de
+envejecimiento
+50
+Edad mediana
+33
+años
+Mujeres por cada 100 
+varones.
+Edad central que divide a 
+la población en dos 
+grupos numéricamente 
+iguales, ordenados por 
+edades de menor a mayor.
+Personas de 65 años
+y más por cada 100 de 
+entre 0 y 14 años.
+Personas de 80 años y 
+más por cada 100 de 
+entre 50 y 64 años.
+Censo Nacional de Población, Hogares y Viviendas 2022
+
+57
+CNPHV 2022 - Indicadores por sexo y edad. Resultados definitivos 
+Mujer / femenino
+Varón / masculino
+Total
+750.768
+383.911
+366.857
+33
+Adolfo Alsina
+64.482
+33.026
+31.456
+34
+Avellaneda
+41.352
+20.881
+20.471
+31
+Bariloche
+162.088
+83.198
+78.890
+34
+Conesa
+7.429
+3.690
+3.739
+33
+El Cuy
+6.960
+3.259
+3.701
+33
+General Roca
+380.525
+195.540
+184.985
+32
+9 de Julio
+3.719
+1.799
+1.920
+34
+Ñorquinco
+1.452
+638
+814
+36
+Pichi Mahuida
+16.551
+8.448
+8.103
+33
+Pilcaniyeu
+9.373
+4.660
+4.713
+37
+San Antonio
+35.800
+18.221
+17.579
+33
+Valcheta
+4.319
+2.151
+2.168
+35
+25 de Mayo
+16.718
+8.400
+8.318
+32
+Departamento
+Total
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Cuadro 1.16 Provincia de Río Negro. Población por sexo registrado al nacer y edad mediana, según departamento. 
+Año 2022
+Sexo
+Edad mediana(1)
+(¹) Corresponde a la poblacíón en viviendas particulares.
+Nota: de acuerdo con la evaluación de calidad y consistencia de los resultados definitivos, y para cumplir con los estándares de calidad 
+estadística requeridos por el INDEC, la categoría X/ninguna de las anteriores de las respuestas a la pregunta por sexo registrado al nacer se 
+redistribuye entre las categorías Mujer/femenino y Varón/masculino.
+
+58
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+0-4
+5-9
+10-14
+15-19
+20-24
+25-29
+30-34
+35-39
+40-44
+45-49
+50-54
+55-59
+60-64
+65-69
+70-74
+75-79
+80-84
+85-89
+90+
+Grupo de edad
+12 años
+2022
+2010
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+Porcentaje
+Población total
+1.441.351
+Salta
+Mujeres/femenino
+Varones/masculino
+   De acuerdo con la evaluación de calidad y consistencia de los resultados deﬁnitivos, y para cumplir con los estándares de 
+calidad estadística requeridos por el INDEC, la categoría X de las respuestas a la pregunta por sexo registrado al nacer se 
+distribuye entre las categorías Mujer/femenino y Varón/masculino.
+Índice de
+dependencia
+potencial de padres
+15
+Índice de
+feminidad
+105
+Índice de
+envejecimiento
+36
+Edad mediana
+29
+años
+Mujeres por cada 100 
+varones.
+Edad central que divide a 
+la población en dos 
+grupos numéricamente 
+iguales, ordenados por 
+edades de menor a mayor.
+Personas de 65 años
+y más por cada 100 de 
+entre 0 y 14 años.
+Personas de 80 años y 
+más por cada 100 de 
+entre 50 y 64 años.
+Censo Nacional de Población, Hogares y Viviendas 2022
+
+59
+CNPHV 2022 - Indicadores por sexo y edad. Resultados definitivos 
+Mujer / femenino
+Varón / masculino
+Total
+1.441.351
+738.512
+702.839
+29
+Anta
+70.170
+34.556
+35.614
+27
+Cachi
+8.948
+4.483
+4.465
+28
+Cafayate
+17.829
+9.183
+8.646
+30
+Capital
+627.704
+327.342
+300.362
+31
+Cerrillos
+55.949
+28.467
+27.482
+27
+Chicoana
+24.729
+12.658
+12.071
+29
+General Güemes
+56.166
+28.504
+27.662
+29
+General José de San Martín
+178.004
+90.572
+87.432
+26
+Guachipas
+3.491
+1.744
+1.747
+31
+Iruya
+6.118
+3.177
+2.941
+25
+La Caldera
+12.299
+6.125
+6.174
+33
+La Candelaria
+7.205
+3.566
+3.639
+29
+La Poma
+1.789
+939
+850
+26
+La Viña
+8.900
+4.529
+4.371
+29
+Los Andes
+7.182
+3.645
+3.537
+23
+Metán
+48.245
+24.404
+23.841
+30
+Molinos
+5.820
+2.956
+2.864
+28
+Orán
+160.642
+80.870
+79.772
+27
+Rivadavia
+38.113
+18.898
+19.215
+22
+Rosario de la Frontera
+33.809
+17.254
+16.555
+30
+Rosario de Lerma
+51.028
+25.944
+25.084
+29
+San Carlos
+7.798
+3.904
+3.894
+29
+Santa Victoria
+9.413
+4.792
+4.621
+27
+Departamento
+Total
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Cuadro 1.17 Provincia de Salta. Población por sexo registrado al nacer y edad mediana, según departamento. 
+Año 2022
+(¹) Corresponde a la poblacíón en viviendas particulares.
+Sexo
+Edad mediana(1)
+Nota: de acuerdo con la evaluación de calidad y consistencia de los resultados definitivos, y para cumplir con los estándares de calidad 
+estadística requeridos por el INDEC, la categoría X/ninguna de las anteriores de las respuestas a la pregunta por sexo registrado al nacer se 
+redistribuye entre las categorías Mujer/femenino y Varón/masculino.
+
+60
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Mujeres/femenino
+Varones/masculino
+   De acuerdo con la evaluación de calidad y consistencia de los resultados deﬁnitivos, y para cumplir con los estándares de 
+calidad estadística requeridos por el INDEC, la categoría X de las respuestas a la pregunta por sexo registrado al nacer se 
+distribuye entre las categorías Mujer/femenino y Varón/masculino.
+Índice de
+dependencia
+potencial de padres
+16
+Índice de
+feminidad
+105
+Índice de
+envejecimiento
+43
+Edad mediana
+30
+años
+Mujeres por cada 100 
+varones.
+0-4
+5-9
+10-14
+15-19
+20-24
+25-29
+30-34
+35-39
+40-44
+45-49
+50-54
+55-59
+60-64
+65-69
+70-74
+75-79
+80-84
+85-89
+90+
+Grupo de edad
+12 años
+2022
+2010
+Edad central que divide a 
+la población en dos 
+grupos numéricamente 
+iguales, ordenados por 
+edades de menor a mayor.
+Personas de 65 años
+y más por cada 100 de 
+entre 0 y 14 años.
+Personas de 80 años y 
+más por cada 100 de 
+entre 50 y 64 años.
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+Porcentaje
+Población total
+822.853
+San Juan
+Censo Nacional de Población, Hogares y Viviendas 2022
+
+61
+CNPHV 2022 - Indicadores por sexo y edad. Resultados definitivos 
+Mujer / femenino
+Varón / masculino
+Total
+822.853
+421.652
+401.201
+30
+Albardón
+31.284
+15.802
+15.482
+28
+Angaco
+10.176
+5.073
+5.103
+28
+Calingasta
+11.034
+5.320
+5.714
+28
+Capital
+115.390
+61.328
+54.062
+36
+Caucete
+44.047
+22.506
+21.541
+28
+Chimbas
+105.627
+53.230
+52.397
+28
+Iglesia
+8.845
+4.389
+4.456
+30
+Jáchal
+25.297
+12.821
+12.476
+32
+9 de Julio
+12.514
+6.295
+6.219
+27
+Pocito
+72.915
+37.070
+35.845
+27
+Rawson
+136.617
+70.424
+66.193
+30
+Rivadavia
+101.666
+52.932
+48.734
+32
+San Martín
+15.037
+7.554
+7.483
+27
+Santa Lucía
+62.729
+32.358
+30.371
+31
+Sarmiento
+27.188
+13.417
+13.771
+26
+Ullum
+6.454
+3.185
+3.269
+27
+Valle Fértil
+8.526
+4.281
+4.245
+31
+25 de Mayo
+20.824
+10.342
+10.482
+25
+Zonda
+6.683
+3.325
+3.358
+27
+Departamento
+Total
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Cuadro 1.18 Provincia de San Juan. Población por sexo registrado al nacer y edad mediana, según departamento. 
+Año 2022
+(¹) Corresponde a la poblacíón en viviendas particulares.
+Sexo
+Edad mediana(1)
+Nota: de acuerdo con la evaluación de calidad y consistencia de los resultados definitivos, y para cumplir con los estándares de calidad 
+estadística requeridos por el INDEC, la categoría X/ninguna de las anteriores de las respuestas a la pregunta por sexo registrado al nacer se 
+redistribuye entre las categorías Mujer/femenino y Varón/masculino.
+
+62
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Mujeres/femenino
+Varones/masculino
+   De acuerdo con la evaluación de calidad y consistencia de los resultados deﬁnitivos, y para cumplir con los estándares de 
+calidad estadística requeridos por el INDEC, la categoría X de las respuestas a la pregunta por sexo registrado al nacer se 
+distribuye entre las categorías Mujer/femenino y Varón/masculino.
+Índice de
+dependencia
+potencial de padres
+14
+Índice de
+feminidad
+104
+Índice de
+envejecimiento
+47
+Edad mediana
+31
+años
+Mujeres por cada 100 
+varones.
+0-4
+5-9
+10-14
+15-19
+20-24
+25-29
+30-34
+35-39
+40-44
+45-49
+50-54
+55-59
+60-64
+65-69
+70-74
+75-79
+80-84
+85-89
+90+
+Grupo de edad
+12 años
+2022
+2010
+Edad central que divide a 
+la población en dos 
+grupos numéricamente 
+iguales, ordenados por 
+edades de menor a mayor.
+Personas de 65 años
+y más por cada 100 de 
+entre 0 y 14 años.
+Personas de 80 años y 
+más por cada 100 de 
+entre 50 y 64 años.
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+Porcentaje
+Población total
+542.069
+San Luis
+Censo Nacional de Población, Hogares y Viviendas 2022
+
+63
+CNPHV 2022 - Indicadores por sexo y edad. Resultados definitivos 
+Mujer / femenino
+Varón / masculino
+Total
+542.069
+276.742
+265.327
+31
+Ayacucho
+23.913
+11.937
+11.976
+31
+Belgrano
+5.583
+2.669
+2.914
+34
+Chacabuco
+26.557
+13.379
+13.178
+34
+Coronel Pringles
+16.049
+7.912
+8.137
+32
+General Pedernera
+148.875
+76.217
+72.658
+31
+Gobernador Dupuy
+14.343
+6.963
+7.380
+29
+Juan Martín de Pueyrredón
+261.697
+134.752
+126.945
+31
+Junín
+40.361
+20.712
+19.649
+35
+Libertador General San Martín
+4.691
+2.201
+2.490
+36
+Departamento
+Total
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Cuadro 1.19 Provincia de San Luis. Población por sexo registrado al nacer y edad mediana, según departamento. 
+Año 2022
+(¹) Corresponde a la poblacíón en viviendas particulares.
+Sexo
+Edad mediana(1)
+Nota: de acuerdo con la evaluación de calidad y consistencia de los resultados definitivos, y para cumplir con los estándares de calidad 
+estadística requeridos por el INDEC, la categoría X/ninguna de las anteriores de las respuestas a la pregunta por sexo registrado al nacer se 
+redistribuye entre las categorías Mujer/femenino y Varón/masculino.
+
+64
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Mujeres/femenino
+Varones/masculino
+   De acuerdo con la evaluación de calidad y consistencia de los resultados deﬁnitivos, y para cumplir con los estándares de 
+calidad estadística requeridos por el INDEC, la categoría X de las respuestas a la pregunta por sexo registrado al nacer se 
+distribuye entre las categorías Mujer/femenino y Varón/masculino.
+Índice de
+dependencia
+potencial de padres
+10
+Índice de
+feminidad
+102
+Índice de
+envejecimiento
+30
+Edad mediana
+31
+años
+Mujeres por cada 100 
+varones.
+0-4
+5-9
+10-14
+15-19
+20-24
+25-29
+30-34
+35-39
+40-44
+45-49
+50-54
+55-59
+60-64
+65-69
+70-74
+75-79
+80-84
+85-89
+90+
+Grupo de edad
+12 años
+2022
+2010
+Edad central que divide a 
+la población en dos 
+grupos numéricamente 
+iguales, ordenados por 
+edades de menor a mayor.
+Personas de 65 años
+y más por cada 100 de 
+entre 0 y 14 años.
+Personas de 80 años y 
+más por cada 100 de 
+entre 50 y 64 años.
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+Porcentaje
+Población total
+337.226
+Santa Cruz
+Censo Nacional de Población, Hogares y Viviendas 2022
+
+65
+CNPHV 2022 - Indicadores por sexo y edad. Resultados definitivos 
+Mujer / femenino
+Varón / masculino
+Total
+337.226
+170.093
+167.133
+31
+Corpen Aike
+15.171
+7.660
+7.511
+29
+Deseado
+126.743
+63.574
+63.169
+30
+Güer Aike
+137.895
+70.108
+67.787
+32
+Lago Argentino
+25.586
+12.870
+12.716
+31
+Lago Buenos Aires
+12.606
+6.248
+6.358
+30
+Magallanes
+12.911
+6.434
+6.477
+29
+Río Chico
+6.314
+3.199
+3.115
+29
+Cuadro 1.20 Provincia de Santa Cruz. Población por sexo registrado al nacer y edad mediana, según departamento. 
+Año 2022
+Departamento
+Total
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Sexo
+Edad mediana(1)
+(¹) Corresponde a la poblacíón en viviendas particulares.
+Nota: de acuerdo con la evaluación de calidad y consistencia de los resultados definitivos, y para cumplir con los estándares de calidad 
+estadística requeridos por el INDEC, la categoría X/ninguna de las anteriores de las respuestas a la pregunta por sexo registrado al nacer se 
+redistribuye entre las categorías Mujer/femenino y Varón/masculino.
+
+66
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Mujeres/femenino
+Varones/masculino
+   De acuerdo con la evaluación de calidad y consistencia de los resultados deﬁnitivos, y para cumplir con los estándares de 
+calidad estadística requeridos por el INDEC, la categoría X de las respuestas a la pregunta por sexo registrado al nacer se 
+distribuye entre las categorías Mujer/femenino y Varón/masculino.
+Índice de
+dependencia
+potencial de padres
+20
+Índice de
+feminidad
+107
+Índice de
+envejecimiento
+60
+Edad mediana
+34
+años
+Mujeres por cada 100 
+varones.
+0-4
+5-9
+10-14
+15-19
+20-24
+25-29
+30-34
+35-39
+40-44
+45-49
+50-54
+55-59
+60-64
+65-69
+70-74
+75-79
+80-84
+85-89
+90+
+Grupo de edad
+12 años
+2022
+2010
+Edad central que divide a 
+la población en dos 
+grupos numéricamente 
+iguales, ordenados por 
+edades de menor a mayor.
+Personas de 65 años
+y más por cada 100 de 
+entre 0 y 14 años.
+Personas de 80 años y 
+más por cada 100 de 
+entre 50 y 64 años.
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+Porcentaje
+Población total
+3.544.908
+Santa Fe
+Censo Nacional de Población, Hogares y Viviendas 2022
+
+67
+CNPHV 2022 - Indicadores por sexo y edad. Resultados definitivos 
+Mujer / femenino
+Varón / masculino
+Total
+3.544.908
+1.834.649
+1.710.259
+34
+Belgrano
+48.781
+24.665
+24.116
+35
+Caseros
+86.912
+44.769
+42.143
+37
+Castellanos
+190.577
+97.338
+93.239
+33
+Constitución
+93.441
+48.011
+45.430
+35
+Garay
+24.927
+12.608
+12.319
+30
+General López
+201.574
+103.354
+98.220
+35
+General Obligado
+197.986
+101.511
+96.475
+31
+Iriondo
+74.504
+38.250
+36.254
+36
+La Capital
+572.265
+299.826
+272.439
+33
+Las Colonias
+115.740
+58.991
+56.749
+34
+9 de Julio
+30.995
+15.679
+15.316
+30
+Rosario
+1.348.725
+705.163
+643.562
+34
+San Cristóbal
+72.801
+36.933
+35.868
+32
+San Javier
+33.274
+16.887
+16.387
+30
+San Jerónimo
+87.307
+43.785
+43.522
+34
+San Justo
+46.665
+23.945
+22.720
+33
+San Lorenzo
+194.580
+99.816
+94.764
+33
+San Martín
+67.827
+34.651
+33.176
+35
+Vera
+56.027
+28.467
+27.560
+30
+Departamento
+Total
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Cuadro 1.21 Provincia de Santa Fe. Población por sexo registrado al nacer y edad mediana, según departamento. 
+Año 2022
+(¹) Corresponde a la poblacíón en viviendas particulares.
+Sexo
+Edad mediana(1)
+Nota: de acuerdo con la evaluación de calidad y consistencia de los resultados definitivos, y para cumplir con los estándares de calidad 
+estadística requeridos por el INDEC, la categoría X/ninguna de las anteriores de las respuestas a la pregunta por sexo registrado al nacer se 
+redistribuye entre las categorías Mujer/femenino y Varón/masculino.
+
+68
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+0-4
+5-9
+10-14
+15-19
+20-24
+25-29
+30-34
+35-39
+40-44
+45-49
+50-54
+55-59
+60-64
+65-69
+70-74
+75-79
+80-84
+85-89
+90+
+Grupo de edad
+12 años
+2022
+2010
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+Porcentaje
+Población total
+1.060.906
+Santiago del Estero
+Mujeres/femenino
+Varones/masculino
+   De acuerdo con la evaluación de calidad y consistencia de los resultados deﬁnitivos, y para cumplir con los estándares de 
+calidad estadística requeridos por el INDEC, la categoría X de las respuestas a la pregunta por sexo registrado al nacer se 
+distribuye entre las categorías Mujer/femenino y Varón/masculino.
+Índice de
+dependencia
+potencial de padres
+15
+Índice de
+feminidad
+103
+Índice de
+envejecimiento
+36
+Edad mediana
+29
+años
+Mujeres por cada 100 
+varones.
+Edad central que divide a 
+la población en dos 
+grupos numéricamente 
+iguales, ordenados por 
+edades de menor a mayor.
+Personas de 65 años
+y más por cada 100 de 
+entre 0 y 14 años.
+Personas de 80 años y 
+más por cada 100 de 
+entre 50 y 64 años.
+Censo Nacional de Población, Hogares y Viviendas 2022
+
+69
+CNPHV 2022 - Indicadores por sexo y edad. Resultados definitivos 
+Mujer / femenino
+Varón / masculino
+Total
+1.060.906
+539.363
+521.543
+29
+Aguirre
+8.970
+4.500
+4.470
+29
+Alberdi
+20.104
+9.799
+10.305
+25
+Atamisqui
+14.903
+7.388
+7.515
+25
+Avellaneda
+25.476
+12.643
+12.833
+25
+Banda
+170.651
+87.972
+82.679
+29
+Belgrano
+10.813
+5.329
+5.484
+29
+Capital
+330.112
+172.532
+157.580
+31
+Choya
+43.736
+22.056
+21.680
+30
+Copo
+35.741
+17.533
+18.208
+25
+Figueroa
+20.270
+9.868
+10.402
+26
+General Taboada
+46.508
+23.450
+23.058
+27
+Guasayán
+9.255
+4.549
+4.706
+30
+Jiménez
+18.625
+9.281
+9.344
+28
+Juan Felipe Ibarra
+20.589
+10.238
+10.351
+25
+Loreto
+24.060
+12.103
+11.957
+28
+Mitre
+1.440
+670
+770
+33
+Moreno
+40.460
+19.933
+20.527
+25
+Ojo de Agua
+15.116
+7.593
+7.523
+29
+Pellegrini
+26.193
+12.759
+13.434
+27
+Quebrachos
+12.354
+6.269
+6.085
+28
+Río Hondo
+66.761
+33.783
+32.978
+29
+Rivadavia
+5.315
+2.628
+2.687
+30
+Robles
+54.015
+27.454
+26.561
+27
+Salavina
+12.787
+6.170
+6.617
+26
+San Martín
+11.848
+5.560
+6.288
+25
+Sarmiento
+5.038
+2.473
+2.565
+25
+Silípica
+9.766
+4.830
+4.936
+28
+Departamento
+Total
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Cuadro 1.22 Provincia de Santiago del Estero. Población por sexo registrado al nacer y edad mediana, según 
+departamento. Año 2022
+(¹) Corresponde a la poblacíón en viviendas particulares.
+Sexo
+Edad mediana(1)
+Nota: de acuerdo con la evaluación de calidad y consistencia de los resultados definitivos, y para cumplir con los estándares de calidad 
+estadística requeridos por el INDEC, la categoría X/ninguna de las anteriores de las respuestas a la pregunta por sexo registrado al nacer se 
+redistribuye entre las categorías Mujer/femenino y Varón/masculino.
+
+70
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Censo Nacional de Población, Hogares y Viviendas 2022
+0-4
+5-9
+10-14
+15-19
+20-24
+25-29
+30-34
+35-39
+40-44
+45-49
+50-54
+55-59
+60-64
+65-69
+70-74
+75-79
+80-84
+85-89
+90+
+Grupo de edad
+12 años
+2022
+2010
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+Porcentaje
+Población total
+185.732
+Tierra del Fuego, Antártida e Islas
+del Atlántico Sur 
+Mujeres/femenino
+Varones/masculino
+   De acuerdo con la evaluación de calidad y consistencia de los resultados deﬁnitivos, y para cumplir con los estándares de 
+calidad estadística requeridos por el INDEC, la categoría X de las respuestas a la pregunta por sexo registrado al nacer se 
+distribuye entre las categorías Mujer/femenino y Varón/masculino.
+Índice de
+dependencia
+potencial de padres
+7
+Índice de
+feminidad
+101
+Índice de
+envejecimiento
+29
+Edad mediana
+31
+años
+Mujeres por cada 100 
+varones.
+Edad central que divide a 
+la población en dos 
+grupos numéricamente 
+iguales, ordenados por 
+edades de menor a mayor.
+Personas de 65 años
+y más por cada 100 de 
+entre 0 y 14 años.
+Personas de 80 años y 
+más por cada 100 de 
+entre 50 y 64 años.
+
+71
+CNPHV 2022 - Indicadores por sexo y edad. Resultados definitivos 
+Mujer / femenino
+Varón / masculino
+Total
+185.732
+93.392
+92.340
+31
+Antártida Argentina e Islas
+del Atlántico Sur
+81
+20
+61
+///
+Antártida Argentina
+81
+20
+61
+///
+Islas del Atlántico Sur
+-
+-
+-
+-
+Río Grande
+99.241
+49.716
+49.525
+31
+Tolhuin
+6.039
+3.004
+3.035
+28
+Ushuaia
+80.371
+40.652
+39.719
+32
+Cuadro 1.23 Provincia de Tierra del Fuego, Antártida e Islas del Atlántico Sur. Población por sexo registrado al nacer 
+y edad mediana, según departamento. Año 2022
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Departamento
+Total
+Notas: las Islas Malvinas, Georgias del Sur, Sándwich del Sur y los espacios marítimos circundantes forman parte integrante del territorio 
+nacional argentino. Debido a que dichos territorios se encuentran sometidos a la ocupación ilegal del Reino Unido de Gran Bretaña e Irlanda del 
+Norte, la República Argentina se vio impedida de llevar a cabo el Censo 2022 en esa área. Estas islas pertenecen al departamento Islas del 
+Atlántico Sur. Del departamento Antártida Argentina fueron censadas las bases antárticas permanentes que pertenecen a la República Argentina.
+Sexo
+Edad mediana(1)
+(¹) Corresponde a la poblacíón en viviendas particulares.
+De acuerdo con la evaluación de calidad y consistencia de los resultados definitivos, y para cumplir con los estándares de calidad estadística 
+requeridos por el INDEC, la categoría X/ninguna de las anteriores de las respuestas a la pregunta por sexo registrado al nacer se redistribuye 
+entre las categorías Mujer/femenino y Varón/masculino.
+
+72
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Censo Nacional de Población, Hogares y Viviendas 2022
+0-4
+5-9
+10-14
+15-19
+20-24
+25-29
+30-34
+35-39
+40-44
+45-49
+50-54
+55-59
+60-64
+65-69
+70-74
+75-79
+80-84
+85-89
+90+
+Grupo de edad
+12 años
+2022
+2010
+Mujeres/femenino
+Varones/masculino
+   De acuerdo con la evaluación de calidad y consistencia de los resultados deﬁnitivos, y para cumplir con los estándares de 
+calidad estadística requeridos por el INDEC, la categoría X de las respuestas a la pregunta por sexo registrado al nacer se 
+distribuye entre las categorías Mujer/femenino y Varón/masculino.
+Índice de
+dependencia
+potencial de padres
+15
+Índice de
+feminidad
+106
+Índice de
+envejecimiento
+45
+Edad mediana
+30
+años
+Mujeres por cada 100 
+varones.
+Edad central que divide a 
+la población en dos 
+grupos numéricamente 
+iguales, ordenados por 
+edades de menor a mayor.
+Personas de 65 años
+y más por cada 100 de 
+entre 0 y 14 años.
+Personas de 80 años y 
+más por cada 100 de 
+entre 50 y 64 años.
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+Porcentaje
+Población total
+1.731.820
+Tucumán
+
+73
+CNPHV 2022 - Indicadores por sexo y edad. Resultados definitivos 
+Mujer / femenino
+Varón / masculino
+Total
+1.731.820
+891.800
+840.020
+30
+Burruyacú
+45.476
+22.563
+22.913
+27
+Capital
+590.342
+310.382
+279.960
+33
+Chicligasta
+92.608
+47.636
+44.972
+30
+Cruz Alta
+228.077
+116.227
+111.850
+28
+Famaillá
+42.702
+21.619
+21.083
+28
+Graneros
+15.540
+7.678
+7.862
+29
+Juan Bautista Alberdi
+34.766
+17.634
+17.132
+30
+La Cocha
+21.218
+10.717
+10.501
+29
+Leales
+66.392
+33.328
+33.064
+30
+Lules
+93.552
+47.663
+45.889
+29
+Monteros
+77.551
+39.622
+37.929
+30
+Río Chico
+64.962
+33.051
+31.911
+30
+Simoca
+36.973
+18.468
+18.505
+30
+Tafí del Valle
+22.440
+11.328
+11.112
+31
+Tafí Viejo
+172.986
+89.017
+83.969
+30
+Trancas
+23.494
+11.731
+11.763
+28
+Yerba Buena
+102.741
+53.136
+49.605
+32
+Departamento
+Total
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Cuadro 1.24 Provincia de Tucumán. Población por sexo registrado al nacer y edad mediana, según departamento. 
+Año 2022
+(¹) Corresponde a la poblacíón en viviendas particulares.
+Sexo
+Edad mediana(1)
+Nota: de acuerdo con la evaluación de calidad y consistencia de los resultados definitivos, y para cumplir con los estándares de calidad 
+estadística requeridos por el INDEC, la categoría X/ninguna de las anteriores de las respuestas a la pregunta por sexo registrado al nacer se 
+redistribuye entre las categorías Mujer/femenino y Varón/masculino.
+
+74
+5. Aspectos metodológicos
+Censo Nacional de Población, Hogares y Viviendas 2022
+
+75
+CNPHV 2022 - Indicadores por sexo y edad. Resultados definitivos 
+Aspectos metodológicos
+A continuación, se presenta una síntesis de los aspectos metodológicos, con el propósito de brindar a las 
+personas usuarias una guía para la interpretación y el análisis de los resultados definitivos del Censo 2022.
+Características del Censo 2022
+•	 Por primera vez en la historia de los Censos argentinos, el Censo Nacional de Población, Hogares y 
+Viviendas 2022 se llevó a cabo de acuerdo con la definición de censo de derecho, es decir, contando a las 
+personas según su lugar de residencia habitual, donde viven la mayor parte del tiempo.1 
+•	 También en esta ocasión por primera vez se implementó un operativo bimodal de relevamiento que 
+combinó la posibilidad de autoempadronamiento en línea con un barrido completo del territorio, 
+mediante entrevista directa a los hogares:
+•	 El cuestionario digital para viviendas particulares comenzó a implementarse dos meses antes del 
+Día del Censo (18 de mayo de 2022). La población tuvo acceso desde el miércoles 16 de marzo hasta 
+el miércoles 18 de mayo a las 8 de la mañana. Volvió a estar disponible para ser completado por la 
+población que así lo requiriera durante la etapa de supervisión y recuperación, establecida entre el 19 y 
+el 24 de mayo. El 55,6% de la población en viviendas particulares autocompletó el Censo digital. 
+•	 El barrido territorial se implementó desde las 8 de la mañana hasta las 6 de la tarde del miércoles 18 de 
+mayo, declarado feriado nacional por el Decreto 42/2022. En el caso de las áreas rurales, el relevamiento 
+presencial comenzó diez días antes del Día del Censo, y en zonas cordilleranas de la región Patagonia 
+y de la provincia de Mendoza se inició a fines de abril, para adelantarse a los problemas de acceso que 
+podría ocasionar la llegada de las primeras nevadas a la región. Finalmente, entre el 19 y el 24 de mayo 
+se implementó un operativo de supervisión y recuperación.
+La ejecución completa del Censo contempló la realización de distintos operativos: 
+•	 Operativo de viviendas particulares urbanas y rurales: se implementó para cuantificar y caracterizar a 
+las personas que habitan en las viviendas particulares de áreas urbanas y rurales del territorio nacional. 
+El instrumento de recolección fue un cuestionario censal único y la metodología de relevamiento fue 
+bimodal.
+•	 Operativo de viviendas colectivas: incluyó el relevamiento de establecimientos con régimen de 
+convivencia institucional: colegios internados; cuarteles; establecimientos de salud/hospitales; hogares 
+de niñas, niños y adolescentes; hogares de personas mayores; hogares de religiosas/religiosos; refugios/
+paradores y prisiones, entre otras. Se realizó un relevamiento presencial, durante los diez días previos al Día 
+del Censo –18 de mayo 2022– y se utilizaron cuestionarios en papel e información de registros administrativos 
+en instituciones de más de mil personas residentes habituales, previamente seleccionadas. 
+•	 Operativo para población en situación de calle: se realizó un relevamiento presencial de las personas 
+que viven en la vía pública durante la noche del lunes anterior al Día del Censo y el instrumento de 
+recolección fue un cuestionario censal único. 
+
+1  Los diez censos anteriores se realizaron de acuerdo con la metodología “de hecho”; es decir, se enumeraba a la población en el lugar 
+donde había pasado la noche anterior al Día del Censo.
+
+76
+La cédula censal fue el resultado de la actividad conjunta entre la Dirección de Estadísticas Poblacionales 
+dependiente de la Dirección Nacional de Estadísticas Sociales y de Población del INDEC y las personas usuarias 
+de la información, tanto públicas como privadas. El cuestionario censal único de viviendas particulares contiene 
+61 preguntas: 24 sobre las características de la vivienda y el hogar y 37 sobre las características de la población; 
+estas últimas fueron utilizadas para censar específicamente a la población en situación de calle.
+Para las viviendas colectivas se diseñó un cuestionario con 2 preguntas de vivienda y 24 para la población.
+Tanto uno como otro cuestionario se formularon atendiendo a las recomendaciones internacionales para los 
+censos de población, a la experiencia de censos argentinos anteriores, al análisis de las pruebas piloto y del Censo 
+Experimental, y a los aportes del Comité Operativo Censal que reunió a los organismos públicos requirentes de la 
+información censal. 
+Las unidades de relevamiento del Censo 2022 corresponden a la población, los hogares, las viviendas 
+particulares y las viviendas colectivas.
+Entre las tareas previas al operativo censal, se encuentra la organización operativa sobre las divisiones y las 
+subdivisiones político-administrativas del país, es decir, las provincias y los departamentos, partidos o comunas. 
+Luego se establecen divisiones territoriales menores denominadas fracción, radio y segmento censal (área 
+de trabajo de la persona censista), todas ellas unidades operativas de la infraestructura de un Censo y que solo 
+tienen entidad ad-hoc para él. 
+Para ello, el INDEC realizó el recorrido de las localidades de 2.000 habitantes y más de todo el país, con el objetivo 
+de relevar las viviendas particulares y colectivas existentes en el territorio, obtener el listado de domicilios y 
+actualizar su base geográfica. Esta información se obtuvo a partir de un operativo de campo, el Archivo de 
+Domicilios de la República Argentina (ADRA), que fue desplegado en todas las áreas urbanas del territorio 
+nacional en convenio con cada Dirección Provincial de Estadística (DPE). Producto del ADRA, en 2021 el INDEC 
+difundió el Precenso de Viviendas2, cuya información ha sido relevante para orientar los análisis urbanísticos 
+en el país previo a la implementación del Censo 2022. 
+Estas tareas precensales, a las que se sumó la revisión de las localidades de menos de 2.000 habitantes y del área 
+rural, cumplió con el objetivo de delimitar el área de trabajo asignada a cada puesto de la estructura censal.
+Por otra parte, al momento de diseñar la carga de trabajo de los censistas, se incluyó la variable tamaño 
+promedio del hogar, que variaría entre 2 personas en la Ciudad Autónoma de Buenos Aires y 4 personas en la 
+provincia de Santiago del Estero. El objetivo de esa consideración fue contribuir a una estimación más confiable 
+de la carga de trabajo de la persona censista, es decir, del número de viviendas a censar en la totalidad de horas 
+de trabajo. A partir de estos resultados se pudo estimar la cantidad de personal requerido en la estructura de 
+relevamiento para llevar adelante el Censo y asegurar la cobertura territorial del operativo. 
+En conjunto con las DPE, el INDEC conformó la estructura censal del operativo en cada una de las jurisdicciones. 
+A continuación, se presenta la organización jerárquica y la cantidad de personas que formaron parte de la 
+estructura censal: 
+2 Ver https://precensodeviviendas.indec.gob.ar/metodologia
+
+77
+CNPHV 2022 - Indicadores por sexo y edad. Resultados definitivos 
+Imagen 1. Organización jerárquica de la estructura censal nacional. Censo 2022
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Subcoordinación
+de gestión
+Jefa o jefe de equipo
+de operativo de
+población en
+situaciónde calle
+Censistas de
+viviendas
+colectivas
+Cuestionario
+de viviendas
+colectivas
+Censistas de
+población en
+situación de calle
+Cuestionario de
+viviendas
+particulares
+Asistente de
+jefa o jefe
+de fracción
+Coordinación
+provincial
+del Censo
+Jefa o jefe de
+departamento
+Jefa o jefe
+de fracción
+Jefa o jefe
+de radio
+Censistas de
+viviendas
+particulares
+Cuestionario de
+viviendas
+particulares
+
+78
+Tabla 1.	 Cantidad de personas que formaron parte de la estructura censal nacional.
+Censo 2022
+Puesto de la estructura censal
+Total
+Total
+ 769.439 
+Coordinación provincial del Censo
+ 24 
+Subcoordinación de gestión 
+ 84 
+Jefa o jefe de departamento
+ 432 
+Jefa o jefe de fracción
+ 6.748 
+Asistente de jefa o jefe de fracción
+ 18.236 
+Jefa o jefe de radio
+ 66.557 
+Jefa o jefe de equipo de población en situación de calle
+ 40 
+Censista de viviendas particulares
+ 657.658 
+Censista de viviendas colectivas
+ 5.265 
+Censista de población en situación de calle
+ 371 
+Censista suplente
+ 14.024 
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+El reclutamiento y el monitoreo de la capacitación de la estructura censal en todo el territorio se realizó 
+mediante un sistema de gestión informático desarrollado por la Dirección General de Tecnologías de la 
+Información y las Comunicaciones del INDEC. 
+La capacitación de la estructura censal se llevó a cabo en dos etapas. Una etapa virtual y asincrónica, desarrollada 
+por primera vez en un campus virtual por la Dirección de Capacitación y Carrera del Personal del INDEC. Tuvo 
+una duración de ocho horas e incluyó módulos conceptuales y operativos que debían ser aprobados por todas 
+las personas componentes de la estructura censal antes del inicio de los operativos de campo. La segunda 
+etapa consistió en un taller de refuerzo presencial, cuyo objetivo fue la aplicación práctica del cuestionario 
+censal y la revisión de las tareas relevantes de cada uno de los roles.
+Tal como se mencionó, el cuestionario digital para viviendas particulares se habilitó desde el miércoles 16 de 
+marzo hasta el Día del Censo a las 8 de la mañana y durante la etapa de supervisión y recuperación establecida 
+entre el 19 y el 24 de mayo. El 18 de mayo se realizó el barrido territorial en todas las viviendas del país. Ese día, 
+aquellas personas que optaron por la modalidad digital para completar el Censo, debían presentar a la persona 
+censista el comprobante de finalización y responder una pregunta sobre la cantidad de personas que viven en 
+el hogar, según sexo. Esta información fue registrada por la persona censista en el cuestionario censal de cada 
+uno de los hogares, en la planilla de recorrido del segmento (planilla C1) o en la App CensAR3. Los hogares que 
+no completaron el Censo digital debían responder el cuestionario de manera presencial, mediante la entrevista 
+directa realizada por la persona censista. 
+El relevamiento digital facilitó el completamiento a través de validaciones incorporadas al cuestionario en 
+línea, y también permitió ahorrar tiempo a la población y a las personas censistas durante la realización del 
+barrido territorial. Constituyó una oportunidad para adelantarse al Día del Censo, con la comodidad de poder 
+completarlo en cualquier momento y lugar, además de aportar al distanciamiento social recomendado en el 
+marco de la pandemia de la COVID-19. 
+
+3 Mediante el uso de la App CensAR, las personas censistas debían registrar la cantidad de viviendas visualizadas durante el recorrido 
+previo de su segmento; los domicilios de las viviendas del recorrido del Día del Censo; los códigos de comprobantes de los hogares que 
+completaron el Censo digital; y el total de población censada digitalmente, según sexo.
+
+79
+CNPHV 2022 - Indicadores por sexo y edad. Resultados definitivos 
+Al cuestionario digital se accedía desde el sitio web oficial del Censo 20224 que, además, contuvo toda la 
+información relevante para que la población pudiera conocer con antelación y en detalle la planificación y 
+avance del operativo: el cronograma detallado de fechas clave; los documentos conceptuales; el cuestionario 
+censal y el glosario explicativo de cada pregunta; los tutoriales de ayuda para el autocompletamiento del Censo; 
+las respuestas a preguntas frecuentes; la historia de los Censos previos; el material multimedia para descargar 
+y compartir; y un canal de contacto para consultas, entre otros.
+La campaña integral de comunicación del Censo 2022, a cargo de la Dirección General de Difusión y 
+Comunicación, se desplegó durante las tres etapas planificadas para el operativo censal. En la etapa precensal 
+se desarrolló el sistema de identidad visual compuesto por el diseño de una marca y de un eslogan. La síntesis 
+conceptual elegida fue la diversidad de las personas unidas por un mismo territorio y se enlazó con la apelación 
+al reconocimiento colectivo.  El eslogan “Reconocernos” acompañó los objetivos del operativo: explorar, registrar 
+y conocer lo nuevo en detalle. 
+Durante la etapa censal se trabajó en la comunicación sobre la importancia del Censo y en la explicación detallada 
+de las novedades de este relevamiento con el objetivo de alentar la respuesta proactiva del cuestionario censal 
+en alguna de sus dos modalidades. Además, entre el 16 de marzo y el 30 de mayo, el Censo 2022 contó con una 
+mesa de ayuda telefónica, en la que se dio respuesta a las dudas de la población sobre los procedimientos, 
+operativos y conceptos del relevamiento.
+Producto de las alianzas estratégicas precensales con los organismos integrantes del Comité Operativo Censal, 
+se llevaron a cabo diferentes acciones de sensibilización sectoriales, entre las que se cuenta el trabajo conjunto 
+de profesionales y técnicos de la Agencia Nacional de Discapacidad (ANDIS) y del INDEC para la producción de 
+materiales de capacitación y audiovisuales, en lenguaje claro y en lengua de señas, y en la conformación de una 
+mesa de ayuda dirigida a asistir a las personas con discapacidad en la realización del Censo digital, para ofrecer 
+un Censo más accesible.
+Metodología implementada para obtener los resultados definitivos
+Los resultados definitivos del Censo 2022 se obtuvieron a partir del procesamiento conjunto de los datos 
+resultantes de la captura por escáner de los cuestionarios censales en papel (en adelante base de datos papel), 
+recopilados durante la etapa de barrido territorial completo, y de los datos provenientes del cuestionario 
+digital (en adelante base de datos digital), compilados entre el 16 de marzo y el 18 de mayo a las 8 horas, y entre 
+el 19 y el 24 de mayo durante la etapa de supervisión censal. 
+
+4 Sitio web oficial del Censo 2022: https://censo.gob.ar/
+
+80
+Insumo: base de datos papel
+Monitoreo y evaluación de calidad de la captura de los datos por escáner 
+El objetivo de la evaluación de la calidad de la captura de los datos por escáner consiste en examinar la 
+coherencia entre el dato interpretado por la tecnología de escaneo y lectura versus el dato obtenido en 
+campo tal como aparece registrado en la cédula censal. Para ello se debe evaluar el resultado final de la 
+captura, que está compuesto por el escaneo, la interpretación inteligente de caracteres, la verificación 
+automática, y la verificación y corrección manual. Esta actividad es la que mayor tiempo demandó al 
+INDEC hasta poder generar los resultados definitivos del Censo 2022, para asegurar la calidad de los datos 
+estadísticos que se difunden.
+Evaluación de la cobertura territorial del Censo
+Cabe mencionar que para el Censo 2022 se relevaron las viviendas particulares y colectivas en las localidades de 
+2.000 habitantes y más a partir del operativo ADRA, así como de las localidades de menos de 2.000 habitantes y 
+del área rural. En este último caso, se utilizaron, por ejemplo, imágenes satelitales e información censal de 2010 
+para delimitar los respectivos segmentos censales, de manera de asegurar la cobertura territorial del Censo. Esa 
+revisión del territorio se mantuvo vigente hasta momentos cercanos al inicio del Censo digital. 
+Al contar con una exhaustiva planificación geoespacial del territorio, el propósito de la actividad de evaluación 
+de la cobertura territorial consistió en la identificación de áreas geográficas en las que los resultados del Censo 
+2022 no contaran con la información de determinadas áreas de empadronamiento. En particular, la tarea radicó 
+en contrastar los datos de los segmentos censales que figuran en la base de datos de la captura por escáner 
+de los cuestionarios en papel respecto de los contenidos en la tabla de segmentación constituida de manera 
+previa al Censo.
+Los resultados de la evaluación definitiva confirman los adelantados junto a la difusión de los datos provisionales 
+del censo y muestran que el Censo 2022 presenta una cobertura territorial, en términos de segmentos, del 
+98,6% con respecto al total de segmentos definidos en la tabla de segmentación elaborada en la instancia 
+presencial. La Tabla 2 presenta los resultados por jurisdicción.
+
+81
+CNPHV 2022 - Indicadores por sexo y edad. Resultados definitivos 
+Tabla 2.	 Porcentaje de segmentos censales cubiertos durante el desarrollo del barrido 
+territorial respecto del total de segmentos de la tabla de segmentación, según 
+jurisdicción. Censo 2022 
+Insumo: bases de datos digital y papel
+Evaluación del error por duplicación de viviendas o personas
+Si bien en materia de cobertura resta todavía evaluar la omisión de viviendas y población, tarea que se llevará 
+a cabo al momento de elaborar las proyecciones y estimaciones de población 2020-2050, mediante el método 
+de conciliación censal, en esta ocasión, se adelanta el resultado de una actividad totalmente inédita para los 
+Censos de población en el país: la evaluación del error por duplicación de las unidades de empadronamiento 
+de vivienda o de población del relevamiento digital.
+Jurisdicción
+Porcentaje de segmentos
+censales cubiertos
+Código
+Nombre
+%
+Total
+98,6
+02
+Ciudad Autónoma de Buenos Aires
+97,4
+06
+Buenos Aires
+99,0
+10
+Catamarca
+99,4
+14
+Córdoba
+99,1
+18
+Corrientes
+98,8
+22
+Chaco
+98,1
+26
+Chubut
+99,7
+30
+Entre Ríos
+98,0
+34
+Formosa
+96,8
+38
+Jujuy
+98,6
+42
+La Pampa
+99,8
+46
+La Rioja
+99,8
+50
+Mendoza
+96,8
+54
+Misiones
+98,6
+58
+Neuquén
+97,8
+62
+Río Negro
+97,6
+66
+Salta
+98,0
+70
+San Juan
+93,9
+74
+San Luis
+99,3
+78
+Santa Cruz
+99,8
+82
+Santa Fe
+99,1
+86
+Santiago del Estero
+97,1
+94
+Tierra del Fuego, Antártida e Islas del Atlántico Sur (1)
+99,2
+90
+Tucumán
+99,0
+(1) Las Islas Malvinas, Georgias del Sur, Sandwich del Sur y los espacios marítimos circundantes forman parte integrante 
+del territorio nacional argentino. Debido a que dichos territorios se encuentran sometidos a la ocupación ilegal del Reino 
+Unido de Gran Bretaña e Irlanda del Norte, la República Argentina se vio impedida de llevar a cabo el Censo 2022 en 
+esa área. Estas islas pertenecen al departamento Islas del Atlántico Sur. Del departamento Antártida Argentina fueron 
+censadas las bases antárticas permanentes que pertenecen a la República Argentina. 
+Fuente: INDEC, elaboración de la DNESyP a partir de la base de datos papel del Censo 2022.
+
+82
+Como el Censo 2022 fue la primera experiencia en la que la población que reside en la Argentina pudo 
+completar el censo en linea, las duplicaciones de las unidades de empadronamiento se produjeron por diversos 
+motivos. Se agregaron o eliminaron integrantes del hogar por olvido o por errores producidos por mudanzas 
+o arreglos residenciales (composición del hogar); por cuestiones relacionadas al entendimiento del concepto 
+de residencia habitual;5 o por intentos de corrección mediante la apertura de un nuevo cuestionario en línea; 
+entre otros.
+Si bien parte de este resultado se difundió en ocasión de la publicación de los resultados provisionales (INDEC, 
+2023, p. 62)6, en esta oportunidad se presentan las conclusiones del análisis relativo a la población llevado a 
+cabo para la preparación de los resultados censales definitivos.
+Durante el proceso de evaluación de calidad del Censo digital se detectaron registros de población duplicados, 
+que se pueden encuadrar en las siguientes situaciones:
+1. Al interior de una misma vivienda (intravivienda). Se trata de:
+a. Viviendas con un solo hogar con personas duplicadas una o más veces. 
+b. Viviendas con dos o más hogares con:
+i. Hogar completo duplicado: todos los integrantes del hogar están duplicados una o más veces en 
+distintos hogares, por lo que también la cantidad de hogares está sobredimensionada.
+ii. Solo determinadas personas duplicadas: algunas personas pueden estar duplicadas en otro u 
+otros hogares de la vivienda. El caso más frecuente es la combinación dentro de una misma vivienda 
+de hogares unipersonales y multipersonales donde las personas en hogares unipersonales están 
+repetidas dentro del hogar multipersonal.
+2. En distintas viviendas (intervivienda). La detección de personas duplicadas en distintas viviendas se 
+implementó en etapas. Primero se restringió la búsqueda a viviendas con la misma cantidad de integrantes 
+cuyo domicilio compartiera los datos de la ubicación geográfica (UG), lo que indicaba que se trataba de 
+viviendas duplicadas. 
+En una segunda etapa, se identificaron viviendas con distinta cantidad de miembros, buscando duplicados 
+a nivel de integrante del hogar. Esta identificación se apoyó en la coincidencia o similitud de distintos 
+atributos de la persona tales como el nombre, el sexo, la edad y la fecha de nacimiento, y se consideraron 
+diversas características de las viviendas.
+Para llevar a cabo la evaluación se utilizaron técnicas de detección automática (con revisión manual por 
+muestreo), pero también fue necesario implementar la revisión manual sistemática para confirmar candidatos 
+o detectar falsos positivos. Con posterioridad, la actividad de integración de las bases de datos digital y papel 
+permitió profundizar y culminar este estudio.  A la fecha de presentación de los resultados definitivos se detectó 
+un 4,8% de personas empadronadas más de una vez (tabla 3) respecto del total de registros considerados en 
+conjunto entre digital y papel. En ambos casos los registros duplicados fueron removidos al momento del 
+conteo definitivo de los resultados del Censo 2022.
+
+5 Por ejemplo, niños y niñas a cargo de personas separadas, que fueron censadas en ambas viviendas en las que viven habitualmente 
+sus cuidadores.
+6 Instituto Nacional de Estadística y Censos (INDEC) (2023). Censo Nacional de Población, Hogares y Viviendas 2022: resultados 
+provisionales. Ciudad Autónoma de Buenos Aires: INDEC. 
+
+83
+CNPHV 2022 - Indicadores por sexo y edad. Resultados definitivos 
+Tabla 3.	 Porcentaje de personas en viviendas particulares que completaron el cuestionario 
+en línea más de una vez. Censo 2022
+Jurisdicción
+Porcentaje de personas en
+viviendas particulares
+autoempadronadas
+más de una vez
+Código
+Nombre
+%
+Total
+4,8
+2
+Ciudad Autónoma de Buenos Aires
+3,5
+6
+Buenos Aires
+4,4
+10
+Catamarca
+5,8
+22
+Chaco
+6,6
+26
+Chubut
+5,1
+14
+Córdoba
+4,8
+18
+Corrientes
+6,5
+30
+Entre Ríos
+5,4
+34
+Formosa
+6,2
+38
+Jujuy
+6,6
+42
+La Pampa
+4,8
+46
+La Rioja
+5,6
+50
+Mendoza
+4,5
+54
+Misiones
+5,1
+58
+Neuquén
+5,5
+62
+Río Negro
+5,2
+66
+Salta
+6,3
+70
+San Juan
+5,0
+74
+San Luis
+5,2
+78
+Santa Cruz
+5,6
+82
+Santa Fe
+4,9
+86
+Santiago del Estero
+6,0
+94
+Tierra del Fuego, Antártida e Islas del Atlántico Sur (1)
+4,8
+90
+Tucumán
+6,2
+(1) Las Islas Malvinas, Georgias del Sur, Sandwich del Sur y los espacios marítimos circundantes forman parte integrante 
+del territorio nacional argentino. Debido a que dichos territorios se encuentran sometidos a la ocupación ilegal del Reino 
+Unido de Gran Bretaña e Irlanda del Norte, la República Argentina se vio impedida de llevar a cabo el Censo 2022 en 
+esa área. Estas islas pertenecen al departamento Islas del Atlántico Sur. Del departamento Antártida Argentina fueron 
+censadas las bases antárticas permanentes que pertenecen a la República Argentina.
+Fuente: INDEC, elaboración de la DNESyP a partir de la base de datos del censo digital.
+
+84
+Insumo: base de datos integrada digital y papel
+Procedimiento de integración de las bases de datos
+Durante la etapa de integración de las bases de datos papel y digital, se parearon los registros según el 
+comprobante de finalización (CF) del Censo digital. Este era un código que generaba el aplicativo del cuestionario 
+en línea cuando las personas de la vivienda completaban todos los datos. Los hogares pertenecientes a una 
+misma vivienda contaban con el mismo código de finalización. 
+Cuando se realizó el recorrido completo del territorio el 18 de mayo de 2022, la persona censista solicitó a los 
+integrantes de la vivienda que otorgaran dicho código y que indicaran la cantidad de personas según sexo 
+que residían en la vivienda y habían sido censadas mediante el cuestionario en línea. La imagen 2 muestra los 
+casilleros que debía completar la persona censista en el cuestionario papel. 
+Imagen 2. Ubicación geográfica y comprobante del Censo digital incluidos en el cuestionario de viviendas 
+particulares papel utilizado en el censo presencial
+
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022.
+Antes de realizar el proceso de integración de las bases de datos del Censo relevado en papel y del Censo 
+digital en una única base de datos censal, se llevó a cabo una evaluación que arrojó los siguientes resultados: 
+Base de datos proveniente del Censo digital: 
+1.	 Personas censadas más de una vez en la misma composición de hogar o en una composición de 
+hogar distinta. 
+2.	 Personas y hogares con datos presumiblemente inventados (nombre de la persona Mickey; edad 183; 
+entre otros).
+3.	 Hogares con ubicaciones geográficas indefinidas. 
+Base de datos proveniente del censo en papel: 
+1.	 Comprobantes de Censo digital mal completados o mal escaneados/graboverificados. 
+VIVIENDAS
+PARTICULARES
+CARÁCTER ESTRICTAMENTE CONFIDENCIAL Y RESERVADO - Ley 17.622
+CENSO NACIONAL DE POBLACIÓN, 
+HOGARES Y VIVIENDAS 2022
+Fin de la
+entrevista.
+Comprobante
+del Censo digital
+Si alguien responde al llamado en la vivienda, preséntese y consulte:
+Para esta vivienda ¿se realizó el Censo digital?       Sí 
+Si no realizaron el Censo digital o no responden al llamado, pase a  1  .
+Total de 
+mujeres
+Total de
+varones
+Total de X / Ninguna 
+de las anteriores
+UBICACIÓN GEOGRÁFICA
+Complete en la puerta / entrada de la vivienda:
+Puerta Nº / 
+Km:
+Nombre de 
+calle / Ruta
+ / Camino:
+Vivienda
+Nº:
+Casa / 
+Lote:
+Piso
+Nº:
+Depto. / 
+Pieza:
+Manzana Nº:
+Lado de manzana Nº:
+Código de calle:
+Ediﬁcio /
+Monoblock / Tira:
+Entrada / 
+Escalera:
+Copie del plano en la sede antes de salir a censar:
+Provincia:
+Departamento / Partido / Comuna:
+Localidad:
+Fracción:
+Radio:
+Segmento:
+
+85
+CNPHV 2022 - Indicadores por sexo y edad. Resultados definitivos 
+2.	 Ubicaciones geográficas indefinidas por problemas de completamiento de la persona censista o de escanea­
+do/graboverificación. 
+Esta evaluación llevó a realizar las siguientes acciones en forma previa a la integración: 
+1.	 Revisión de las duplicaciones de las personas, los hogares y las viviendas que se registraron en el Cen­
+so digital. 
+2.	 Chequeo y graboverificación de campos en la base de datos del Censo en papel. 
+3.	 Imputación de la información geográfica faltante en ambas bases de datos. En el caso del censo 
+digital, se utilizaron las coordenadas de latitud y longitud correspondientes a la vivienda. En el caso 
+del Censo papel, se utilizó la información de planillas y sobres del jefe de radio o fracción. 
+4.	 Estructuración de ambas bases de datos en términos de viviendas, hogares y población dentro de los 
+hogares. Homologación de las variables, normalización de la nomenclatura de las calles. 
+La unión de las dos bases de datos a través de la comparación del comprobante final resulta en la siguiente 
+clasificación de los registros: 
+a.	 Registros del Censo digital que coinciden a través del comprobante de finalización que se registraba 
+en el cuestionario papel. 
+b.	 Registros del Censo digital que no coinciden con un registro en papel: esto puede deberse a que la 
+persona censista no pasó por la vivienda el Día del Censo o a que pasó, pero no encontró personas en 
+la vivienda y no pudo anotar el código de finalización en el cuestionario. 
+c.	 Registros del Censo papel que tienen comprobante del Censo digital pero además fueron censados 
+mediante entrevistas realizadas cara a cara. 
+d.	 Registros del Censo papel que corresponden a viviendas desocupadas. 
+A partir de dicha clasificación, se definen las siguientes acciones:
+1.	 Cuando un registro papel y digital coinciden por comprobante y confirman la ubicación geográfica 
+(UG), se conservan los datos del Censo digital y se descarta el registro papel.  
+2.	 Cuando no se logra la coincidencia con el comprobante, se trata de parear por ubicación geográfica 
+(UG) contra los registros del papel de viviendas desocupadas. Si se encuentra, se procede como en el 
+punto 1.  
+3.	 Cuando no se logra la coincidencia por comprobante ni por UG, se adicionan los registros del 
+Censo digital.  
+4.	 Cuando para una misma dirección se duplican las personas (se censaron digitalmente y también 
+el día de la entrevista directa con o sin comprobante de finalización), se conserva solo el registro en 
+papel (en consonancia con las consignas brindadas a la población).
+Evaluación de la calidad y la consistencia interna de los datos censales 
+Durante la evaluación de la calidad de los datos se busca detectar errores de contenido en las unidades de 
+empadronamiento efectivamente relevadas en contraste con la información disponible en la base de datos 
+definitiva, conformada por aquellos que provienen del Censo digital y del Censo papel, tanto en el nivel del 
+registro (blanco o no respuesta; multimarca; inválido) como entre variables de un mismo registro o entre registros. 
+
+86
+Una estimación del error de registro, considerado en conjunto por variable analizada, surge de considerar 
+el cociente entre el total de errores detectados y el total de casos. Estos valores funcionan de referencia, de 
+modo que las variables o preguntas que manifiesten un bajo nivel de error sean sometidas a correcciones 
+que se realizan de acuerdo con reglas de validación y de coherencia que los datos deben cumplir, sin que ello 
+distorsione la estructura original de la información. 
+Resulta importante tener en cuenta que las posibilidades de error son distintas en la base de datos papel y la 
+digital. En el primer caso, por ejemplo, puede haber errores de multimarca, mientras que el segundo permitía 
+seleccionar solo una opción de respuesta. Asimismo, el cuestionario digital no permitía valores inválidos debido 
+a que el sistema se programó con pautas de consistencia que disminuyen la posibilidad de incluir información 
+errónea. 
+A diferencia del cuestionario en papel, en el cuestionario digital las preguntas se clasifican en “flexibles” –que 
+admiten una no respuesta– y “rígidas” –que obligan a una respuesta para pasar a la siguiente pregunta–. En 
+consecuencia, la base de datos digital no presentó errores de contenido en las variables involucradas.
+Las variables o preguntas que mostraron un nivel de error aceptable fueron sometidas a imputación, de acuerdo con 
+las reglas de validación y de coherencia que los datos deben cumplir. A su vez, la actividad de imputación de los datos 
+censales fue evaluada para asegurar que la estructura posterior a su implementación no se modificara de manera 
+significativa en relación con la original. Esta evaluación requirió de una comparación para cada variable entre la 
+distribución de frecuencias previa y posterior a la consistencia realizada. Esta actividad fue llevada a cabo mediante 
+la aplicación del sistema de edición e imputación de datos CANCEIS (Canadian Census Edit and Imputation System).
+Validación y consistencia externa de los datos censales 
+Los resultados censales definitivos que se presentan fueron sujetos al proceso de consistencia con fuentes de datos 
+externas tales como los valores remitidos por las direcciones provinciales de estadística en las planillas resumen 
+de jurisdicción, departamento, fracción y radio censal (planillas J2, D2, F2 y R2 respectivamente); las proyecciones y 
+estimaciones de población elaboradas con base en los Censos 2010 y 2001; las estimaciones realizadas a partir del 
+crecimiento vegetativo verificado en la población durante el último período intercensal y una hipótesis de saldo 
+migratorio generada a partir de examinar el comportamiento del fenómeno durante el período intercensal previo; 
+datos del Registro Nacional de las Personas (ReNaPer);  y la cantidad de población de 3 años y más vacunada contra 
+la COVID-19 con una primera dosis, según el departamento, el partido o la comuna de residencia y de aplicación. 
+Procedimiento de conciliación censal
+Los datos del Censo Nacional de Población, Hogares y Viviendas 2022 difundidos en la presente publicación son 
+el resultado del conteo efectivo y definitivo de la población.  
+Todo censo tiene asociado un porcentaje de omisión, que es la proporción de población que no fue contada al 
+momento del operativo por sus características y, en especial, por su masividad. Esto puede llevar a un recuento 
+censal por debajo de la cifra real. Parte de esta omisión está asociada a: 
+•	 La falta de cobertura territorial de alguna zona geográfica específica, ya que, como se informó al mo­
+mento de presentar los resultados provisionales, el Censo 2022 alcanzó una tasa de cobertura territorial 
+de 98,6%.
+•	 Las viviendas particulares ocupadas en las cuales la persona censista no encontró a sus moradores y el 
+hogar no se empadronó vía el Censo digital. 
+•	 La subdeclaración de las personas que residen en el hogar. 
+
+87
+CNPHV 2022 - Indicadores por sexo y edad. Resultados definitivos 
+7 INDEC-CELADE (2004). Estimaciones y proyecciones de población. Total del país 1950-2015 [Serie Análisis Demográfico N° 30]. 
+https://biblioteca.indec.gob.ar/bases/minde/4si20_30.pdf
+8 INDEC (2013). Estimaciones y proyecciones de población 2010-2040. Total del país [Serie Análisis Demográfico N° 35].
+https://www.indec.gob.ar/ftp/cuadros/publicaciones/proyeccionesyestimaciones_nac_2010_2040.pdf
+Los análisis efectuados para los Censos de 2001 y 2010 en el marco de la elaboración de las estimaciones y 
+proyecciones de población, total del país, 1950-2015 (INDEC-CELADE, 2004)7 y 2010-2040 (INDEC, 2013)8, 
+arrojaron tasas de omisión de 2,75% y de 1,99%, respectivamente, como puede observarse en la siguiente tabla:
+Tabla 4. Tasas de omisión de los Censos 2001 y 2010
+Censo
+Población censada
+Población por conciliación 
+censal
+Tasa de omisión 
+(c/b)
+%
+2001
+36.260.130
+37.282.970
+2,75
+2010
+40.117.096
+40.930.448
+1,99
+Fuente: INDEC, Estimaciones y proyecciones de población 2010-2040. Total del país. 
+Las tasas de omisión mencionadas se elaboraron a partir de la conciliación censal o demográfica de los resultados 
+censales, a los que se les aplicó el denominado “método de los componentes”. Este consiste en proyectar cada 
+una de las variables determinantes de la dinámica demográfica de forma independiente –la mortalidad, la 
+fecundidad y las estimaciones de migración interna y de migración internacional– con pruebas de consistencia 
+demográfica entre un censo recientemente levantado y uno o más censos previos. El cálculo del nivel de omisión 
+y la consistencia demográfica de los datos, en cuanto a la estructura por edad y sexo de las poblaciones, permite 
+definir con mayor precisión la población base, sin omisión censal, un insumo fundamental a la hora de elaborar 
+las proyecciones y las estimaciones de población.
+Es importante recordar que las proyecciones 2010-2040 establecieron una población de 46.234.830 personas, 
+estimada al 1 de julio de 2022. Con base en esta información, en esta publicación se presenta la diferencia 
+entre la población censada y la población estimada. Cuando se cuente con las proyecciones y la estimación de 
+población elaboradas con base 2022, el INDEC brindará el correspondiente dato de omisión censal.
+
+88
+6. Glosario 
+Agua para beber y cocinar por red pública (agua corriente)
+Refiere a la procedencia y el sistema de abastecimiento del agua que el hogar utiliza para beber y cocinar. Red 
+pública o agua corriente es el sistema de captación, tratamiento y distribución de agua mediante una red de 
+tuberías comunal sometida a inspección y control por las autoridades públicas. El sistema puede estar a cargo 
+de un organismo público, una cooperativa o una empresa privada.
+Agua por cañería dentro de la vivienda
+Acceso al agua a través de un sistema de suministro de agua conectado a una red de tuberías por medio de la 
+cual se distribuye el agua en el interior de la vivienda.
+Archivo de Domicilios de la República Argentina (ADRA)
+Listado exhaustivo de domicilios por lados de manzana que permitió obtener un padrón de todas las viviendas 
+en las localidades de 2.000 y más habitantes, y la actualización cartográfica. El conteo y el listado se realizaron en 
+convenio con las direcciones provinciales de estadística de las 24 jurisdicciones mediante el uso de dispositivos 
+móviles (teléfonos, tabletas y drones) y se cubrió el 100% de los radios censales urbanos del país.
+Baño con inodoro con arrastre de agua
+El baño tiene un recipiente utilizado para la evacuación de excretas, conectado a un sistema de descarga de 
+agua para la limpieza.
+Baño o letrina dentro de la vivienda
+El baño es un espacio cerrado por paredes, que se elevan desde el suelo hasta una altura de por lo menos dos 
+metros, utilizado por el hogar para la evacuación de excretas. Si la vivienda tiene un baño dentro de la vivienda 
+y uno fuera de la vivienda, se considera el baño que está adentro.
+Barrido territorial
+Recorrido de las personas censistas para empadronar a la población, a los hogares y a las viviendas mediante 
+entrevistas presenciales que, en el caso del Censo 2022, se llevaron a cabo con cuestionarios censales en papel.
+Calidad estadística
+Grado de cumplimiento de los criterios y las características que debe tener el proceso y el producto estadístico, 
+orientados a satisfacer las necesidades de información de las personas usuarias (CEPAL, 2021).9
+Cédula o cuestionario censal
+Instrumento de medición que se utiliza en el relevamiento censal y sirve para sistematizar la recolección de 
+datos. El cuestionario censal recaba información sobre las “variables precodificadas (derivadas de preguntas con 
+opciones de respuesta predefinidas en el formulario censal) y codificadas (derivadas de preguntas sin opciones 
+de respuesta predefinidas en el formulario censal)”, para obtener datos de las características habitacionales 
+del hogar, los atributos demográficos básicos, la percepción de jubilación o pensión y de cobertura de salud, la 
+migración, la asistencia escolar, el nivel y el máximo nivel de instrucción, la organización familiar, la fecundidad 
+de las mujeres, la condición de actividad económica, la categoría ocupacional, y la actividad del establecimiento.
+Celular con internet
+Disponibilidad de al menos un teléfono móvil (dispositivo inalámbrico electrónico que permite tener acceso a 
+la red de telefonía celular o móvil) con conexión a internet.
+
+9 CEPAL (2021). Guía para la implementación del marco de aseguramiento de la calidad para procesos y productos estadísticos. 
+Undécima Reunión de la Conferencia Estadística de las Américas de la Comisión Económica para América Latina y el Caribe. LC/
+CEA.11/8. https://repositorio.cepal.org/server/api/core/bitstreams/e625953d-b114-43a7-aee9-b96ea465d3a1/content
+
+89
+CNPHV 2022 - Indicadores por sexo y edad. Resultados definitivos 
+Censo
+Operativo que tiene por objetivo enumerar el total de unidades o elementos que conforma una población 
+objetivo y medir una o más características sobre ellos. Como abarca al cien por ciento de la población objeto 
+de estudio, los resultados que se obtienen están libres de error muestral. Sin embargo, como en cualquier 
+otra operación estadística, están presentes los errores ajenos al muestreo, tales como los de no respuesta, de 
+cobertura, de medición, de procesamiento u otras fuentes. Un Censo puede estar dirigido a personas, hogares, 
+viviendas, empresas locales, establecimientos agropecuarios, pesqueros, mineros, entre otros.
+Censo digital
+Sistema informático alojado en un dominio web a través del cual se le ofreció a la población completar el 
+cuestionario censal del Censo 2022. Incluyó una serie de pases (validaciones) para el autoempadronamiento de 
+la población, de los hogares y de las viviendas con el objetivo de obtener respuestas válidas y ahorrarle tiempo 
+a las personas y a la estructura censal que llevó a cabo los operativos de barrido territorial.
+Cobertura geográfica
+Territorio al que refieren los datos de un operativo estadístico.
+Coherencia
+Grado con que las definiciones utilizadas en distintos operativos sobre una misma población objetivo pueden 
+ser comparadas. Requiere que se utilicen los mismos o similares estándares internacionales, regionales y 
+nacionales con respecto a definiciones, unidades, variables y clasificaciones. Las estadísticas que corresponden 
+a la misma población pero que provienen de encuestas que tienen distintos objetivos, metodologías, fuentes 
+de información o frecuencias pueden no ser completamente comparables si se basan en diferentes enfoques, 
+clasificaciones y estándares metodológicos. Hay varias áreas en las que la evaluación de la coherencia se lleva 
+a cabo con regularidad: entre las estadísticas provisionales y las finales, entre las anuales y las coyunturales, 
+entre las estadísticas del mismo ámbito socioeconómico y entre las estadísticas de las encuestas y las cuentas 
+nacionales. La coherencia de las estadísticas es su idoneidad para combinarse de forma fiable de diferentes 
+maneras y para diversos usos.
+Comparabilidad
+Grado con que las estadísticas referidas a distintas poblaciones de interés pueden compararse, agregarse e 
+interpretarse entre sí en forma válida. Requiere que se utilicen los mismos o similares estándares internacionales, 
+regionales y nacionales con respecto a definiciones, unidades, variables y clasificaciones.
+Tiene como objetivo medir el impacto de las diferencias en conceptos, definiciones, herramientas de medición 
+y procedimientos estadísticos aplicados en la comparación de estadísticas entre áreas geográficas o dominios 
+no geográficos distintos, o a lo largo del tiempo. Puede clasificarse en:
+(a) Comparabilidad geográfica, que refiere al grado de comparabilidad entre las estadísticas que miden el 
+mismo fenómeno para diferentes áreas geográficas.
+(b) Comparabilidad a lo largo del tiempo, que refiere al grado de comparabilidad entre dos o más datos sobre 
+el mismo fenómeno medido en diferentes momentos.
+(c) Comparabilidad entre dominios, que refiere a la comparabilidad entre diferentes resultados de encuestas 
+que apuntan a características similares en diferentes dominios estadísticos.
+Computadora, tablet
+Disponibilidad de al menos un equipo electrónico que se utiliza para el almacenamiento y procesamiento de 
+información (datos, palabras, imágenes, etc.).
+Conciliación censal
+Método indirecto que permite estimar el nivel de omisión censal de la población por sexo y grupo de edad, a 
+nivel nacional.
+Consistencia
+Proceso de evaluación del cumplimiento de relaciones lógicas o aritméticas en una variable respecto a otras para 
+una misma unidad de empadronamiento (persona, hogar o vivienda) o entre distintas unidades. Esto se debe a 
+
+90
+que hay preguntas cuyas respuestas se encuentran condicionadas entre sí, tal es el caso de la edad y el nivel 
+educativo de una persona (por ejemplo, debe tener determinada edad mínima para cursar o alcanzar cada 
+nivel educativo) o la diferencia de edad mínima que debe existir entre un padre o una madre y su hija o hijo. 
+Crecimiento vegetativo
+Diferencia entre la tasa bruta de natalidad y la tasa bruta de mortalidad de un período determinado –generalmente 
+un año calendario–. 
+Desagregación geográfica
+Nivel de apertura en divisiones territoriales con la cual se producen las estadísticas. Por ejemplo: municipal, 
+provincial, regional o nacional.
+Desagüe del inodoro del baño a red pública
+Sistema de cañerías interno que permite la canalización del arrastre de agua y la eliminación de excretas del 
+inodoro y que enlaza con una red pública de tuberías comunal (cloaca).
+Dimensiones de la calidad de un producto estadístico
+Conjunto de criterios que permiten evaluar la calidad de un producto estadístico: accesibilidad, acuracidad, 
+coherencia, comparabilidad, oportunidad, precisión, puntualidad y relevancia (Eurostat, 2003). También se 
+denominan “componentes de la calidad”.
+Dos o más baños
+Baño o letrina es el espacio cerrado, por paredes que se elevan desde el suelo hasta una altura de por lo menos dos 
+metros, para la evacuación de la orina y las heces. Incluye los baños dentro y fuera de la vivienda.
+Edad mediana de la población
+Edad exacta que divide la distribución por edades de la población dejando el mismo número de personas por de­
+bajo y por encima de ella.
+Encuesta
+Operación estadística alternativa a un Censo que suele ser elegida por motivos asociados al costo, la eficiencia y la 
+oportunidad. Está dirigida a una muestra de la población objetivo.
+Error total
+Sumatoria de los errores por no respuesta (blanco) o multimarca (selección de más de una opción cuando se trata 
+de una pregunta de respuesta única).
+Estadísticas oficiales
+Estadísticas producidas y difundidas como un bien público por las agencias estadísticas a nivel municipal, 
+provincial o nacional, o bien por organizaciones internacionales. Incluye solo información agregada como cuadros 
+o indicadores. Excluye productos estadísticos como bases de datos, marcos de muestreo, nomencladores, 
+clasificadores y directorios.
+Estimación
+Proceso de medición de una variable o fenómeno con base en datos observados. Dependiendo del instrumento 
+de medida utilizado, se pueden obtener distintas estimaciones para una misma variable o fenómeno en un 
+determinado momento.
+Fracción censal
+Unidad de área de carácter operativo que se emplea en la organización de los Censos de población. Está definida 
+por un espacio territorial cuyos límites coinciden con límites geográficos y tiene una determinada cantidad de 
+viviendas a relevar. Forma parte de una estructura geoespacial anidada: cada departamento está compuesto por 
+fracciones censales y cada fracción censal está compuesta por radios censales.
+
+91
+CNPHV 2022 - Indicadores por sexo y edad. Resultados definitivos 
+Se clasifican en urbanas, rurales y rurales mixtas. Las fracciones urbanas son aquellas con toda su población 
+agrupada y conformadas por manzanas o sectores pertenecientes a una localidad. Las rurales son aquellas con 
+toda su población dispersa y donde las viviendas se distribuyen en campo abierto en forma diseminada. Las 
+rurales mixtas son aquellas con población rural dispersa en campo abierto y con población agrupada en pequeños 
+poblados o en bordes amanzanados de localidades.
+Las fracciones urbanas tienen un promedio de 5.000 viviendas. En zonas rurales, las fracciones se determinan 
+según distintos factores, como características del terreno, accesibilidad y distancia entre las viviendas.
+Frecuencia
+La frecuencia absoluta refiere a la cantidad de veces que se repite cada valor de una variable en el conjunto de todas 
+las unidades en estudio (puede ser en el conjunto de todos los individuos, hogares o viviendas o en un subconjunto 
+de alguno de ellos). Las frecuencias relativas indican la proporción de unidades que presentan un mismo valor de 
+una variable y se obtiene como el cociente entre la frecuencia absoluta y el total de los casos multiplicado por cien.
+Gas de red o electricidad para cocinar
+Combustible o fuente de energía que se utiliza con mayor frecuencia para la cocción de los alimentos, como elec­
+tricidad o gas de red, entre otros.
+Hogar censal particular
+Persona o grupo de personas, parientes o no, que viven bajo un mismo techo con un régimen de tipo familiar 
+y comparten sus gastos de comida. Las personas que viven solas también constituyen un hogar particular. El 
+personal doméstico no se contabiliza.
+Imputación
+Proceso empleado para completar un dato faltante, inválido o inconsistente que no fue aceptado en la etapa 
+de validación de los datos del Censo.
+Índice de dependencia potencial
+Cantidad de personas de edad inactiva por cada 100 personas de edad activa. Es una proporción que se calcula de 
+la siguiente forma: [(Total de personas de 0 a 14 años + Total de personas de 65 años y más) ÷ (Total de personas de 
+15 a 64 años)] × 100. 
+Índice de envejecimiento
+Expresa la cantidad de personas de 65 años y más por cada 100 personas de 0 a 14 años. Es una proporción que se 
+calcula de la siguiente forma: (Total de personas de 65 años y más ÷ Total personas de 0 a 14 años) × 100. 
+Índice de dependencia potencial de padres
+Expresa la cantidad de personas de 80 años y más por cada 100 personas de 50 a 64 años. Es una proporción que se 
+calcula de la siguiente forma: (Total de personas de 80 años y más ÷ Total personas de 50 a 64 años) × 100. 
+Índice de feminidad
+Expresa la cantidad de mujeres por cada 100 varones. Es una proporción que se calcula de la siguiente forma: (Total 
+de mujeres ÷ Total de varones) × 100.
+Índice de feminidad de la población de 65 años y más
+Expresa la cantidad de mujeres de 65 años y más por cada 100 varones de 65 años y más. Es un cociente que se cal­
+cula de la siguiente forma: (Total de mujeres de 65 años y más ÷ Total de varones de 65 años y más) × 100.
+Internet
+Disponibilidad de internet de banda ancha fija o alámbrica. Puede tratarse también de una conexión a través de un 
+punto de acceso de red inalámbrica (Wi-Fi). No incluye abonos de uso exclusivo de los teléfonos celulares móviles.
+
+92
+Localidad
+Unidad geoestadística urbana determinada por criterios físicos y territoriales. Se concibe como concentración 
+espacial de edificios conectados entre sí por una red de calles. Se clasifica en simple o compuesta. Es simple 
+si se extiende sobre una sola jurisdicción y no está atravesada por ningún límite de provincia, departamento, 
+partido o municipio. Es compuesta si se extiende sobre más de una jurisdicción.
+Marco de muestreo
+Lista exhaustiva que delimita, identifica y permite acceso a las unidades de muestreo con el objetivo de 
+seleccionar un subconjunto de ellas. Para encuestas a hogares, cobran relevancia los marcos de muestreo de 
+áreas que son una colección de unidades territoriales o espaciales con definiciones cartográficas precisas. Estas 
+pueden involucrar mapas, fotografías aéreas o imágenes satelitales del territorio. En los marcos de muestreo de 
+áreas, las unidades más usuales pueden involucrar provincias, departamentos, aglomerados, localidades, radios 
+censales, manzanas, entre otras. Este tipo de marcos juega un papel importante en los diseños muestrales 
+que emplean varias etapas de selección y conglomerados o que utilizan marcos múltiples. A menudo, se 
+usan cuando no existe una lista de unidades de muestreo finales o cuando otros marcos tienen problemas de 
+cobertura.
+Operación estadística
+Conjunto de actividades, incluidas las metodológicas y preparatorias, que permiten obtener productos 
+estadísticos a partir de fuentes de datos primarios, secundarios o de registros administrativos.
+Pisos con revestimiento
+Los pisos son la superficie de base sólida sobre la cual se asienta la estructura de la vivienda. La referencia a 
+“predominante” corresponde al material hallado en mayor proporción o el de mejor calidad en el caso en que 
+existan dos tipos de materiales en la misma proporción. El revestimiento refiere a: cerámica, mosaico, baldosa, 
+alfombra, madera, flotante, vinílico, microcemento, cemento alisando, mármol.
+Población objetivo
+Conjunto de todas las unidades sobre los cuales se observa una o más características de interés con el fin de 
+obtener información estadística. Por ejemplo, las unidades pueden ser: personas, hogares, viviendas, empresas, 
+locales, explotaciones agropecuarias, etc. Además, las unidades deben estar situadas en tiempo (fecha) y espacio 
+(geográficamente). Por ejemplo, las personas de 18 años o más que habitaban en CABA el 18 de mayo de 2022.
+Población rural
+Población en localidades de menos de 2.000 habitantes. Incluye a la población rural dispersa que está 
+conformada por las personas que residen en campo abierto, sin constituir centros poblados. 
+Población urbana
+Población que reside en localidades de 2.000 habitantes y más.
+Precisión
+Dispersión del conjunto de valores obtenidos de mediciones repetidas de una variable aleatoria con respecto 
+al valor verdadero. Cuanto menor es la dispersión, mayor es la precisión. Una medida común de la precisión de 
+una estimación es la desviación estándar.
+Proyección
+Extrapolación hacia períodos futuros de una tendencia, un fenómeno o variables observadas en un determinado 
+período. 
+Proyección de población
+Conjunto de resultados provenientes de cálculos relativos a la evolución futura de una población, partiendo 
+usualmente de ciertos supuestos con respecto al curso que seguirá la fecundidad, la mortalidad y las migraciones. 
+
+93
+CNPHV 2022 - Indicadores por sexo y edad. Resultados definitivos 
+Radio censal
+Unidad de área de carácter operativo que se emplea para la organización de los Censos de población. Está 
+definida por un espacio territorial cuyos límites coinciden con límites geográficos y tiene una determinada 
+cantidad de viviendas a relevar. Forma parte de una estructura geoespacial anidada: cada fracción censal está 
+compuesta por radios censales y cada radio censal está compuesto por segmentos censales. Los radios se 
+clasifican en urbanos, rurales y rurales mixtos. Los urbanos son aquellos que tienen únicamente población 
+agrupada, y están conformados por manzanas o sectores pertenecientes a una localidad. Los rurales son 
+aquellos que tienen únicamente población dispersa, y donde las viviendas se distribuyen en campo abierto 
+en forma diseminada. Los rurales mixtos son aquellos con población rural dispersa en campo abierto, y con 
+población agrupada en pequeños poblados o en bordes amanzanados de localidades. Los radios urbanos tienen 
+un promedio de 300 viviendas. Para bordes de localidades, el radio urbano puede contener 200 viviendas, 
+aproximadamente, y en localidades aisladas, 100 viviendas. En zonas rurales, los radios se determinan por la 
+conjunción de distintos factores, como características del terreno, accesibilidad y distancia entre las viviendas.
+Registro administrativo
+Conjunto de datos que contiene la información recogida o generada por entidades u organizaciones con fines 
+operativos. Responde a criterios normativos y debe ser mantenido por la entidad u organización dueña del 
+registro, que puede ser pública o privada. Un registro administrativo contiene información sobre un grupo 
+completo de unidades que constituyen la población objetivo, como personas, edificios o empresas. Los 
+atributos de las unidades se actualizan en función de los cambios que sufren. Los registros administrativos son 
+una potencial fuente de información para operaciones estadísticas.
+Relevancia
+Grado en que las estadísticas que se producen o podrían producirse satisfacen las necesidades de información 
+de los usuarios actuales y potenciales.
+Resultados/datos provisionales
+Los datos que se presentaron en esta etapa correspondieron al total de población por sexo, según jurisdicción y 
+departamento/partido/comuna; y de población en viviendas particulares, en viviendas colectivas y en situación 
+de calle por jurisdicción y departamento/partido/comuna. Esta información fue de carácter provisoria debido 
+a que debían completarse aún los procesos de estructura jerárquica, evaluación de calidad, validación e 
+imputación, elaboración de variables complejas e integración de las bases de datos papel y digital.
+Resultados/datos definitivos
+Los datos que se presentan en esa instancia corresponden a la totalidad de las variables para las tres unidades de 
+empadronamiento (población, hogares y viviendas). Esta información es definitiva porque se han completado 
+los procesos de estructura jerárquica, evaluación de calidad, validación e imputación, elaboración de variables 
+complejas e integración de las bases papel y digital.
+Saldo migratorio
+Cálculo que se obtiene a partir de la diferencia entre la población que migra y la que emigra. Si el resultado es un 
+valor positivo, indicaría que se trata de un área de atracción, es decir, aquellas donde el número de inmigrantes 
+supera al de emigrantes. En caso de que el valor sea negativo, indicaría que se trata de un área de expulsión, 
+donde el número de emigrantes excede al de inmigrantes. 
+Saldo migratorio anual
+Representa el componente migratorio del crecimiento total de una población. La magnitud de este saldo se 
+mide a través de la diferencia media anual entre los inmigrantes y los emigrantes de una población. 
+Segmentador automático/digital
+Algoritmo parametrizable que permite generar los segmentos censales a partir de la georreferenciación del 
+conteo o listado de viviendas respecto de una base geoespacial.
+
+94
+Segmento censal
+Unidad operativa definida para el Censo y que constituye la carga de trabajo que puede realizar un censista 
+durante esa jornada. Esta carga se define como el total de viviendas que recorre el censista durante el operativo 
+de barrido territorial. Cada segmento está georreferenciado, y su constitución satisface criterios de contigüidad 
+espacial y precisión en sus límites de inicio y fin para acotar la tarea del censista. Esta definición es exhaustiva 
+asegurando la cobertura espacial de todo el territorio nacional.
+Sexo registrado al nacer
+Refiere al sexo con que fue registrada la persona al nacer en la partida de nacimiento o documento de
+identidad. Si la persona no tiene documentación, refiere al sexo asignado por la partera, el médico, el familiar o
+la sociedad. Puede ser mujer/femenino, varón/masculino, o bien X/ninguna de las anteriores. La nomenclatura
+X está vigente en la Argentina a partir del Decreto 476/2021. De acuerdo con la evaluación de calidad y 
+consistencia de los resultados definitivos, y para cumplir con los estándares de calidad estadística requeridos 
+por el INDEC, la categoría X de las respuestas a la pregunta por sexo registrado al nacer se distribuye entre las 
+categorías Mujer/Femenino y Varón/Masculino.
+Tabla de segmentos
+Listado de los segmentos censales de todos los radios censales: rurales, urbanos y mixtos de una jurisdicción.
+Tasa bruta de natalidad
+Cociente entre el número de nacimientos ocurridos durante un período determinado –generalmente un año 
+calendario– y la población media del período.
+Tasa bruta de mortalidad
+Cociente entre el número de defunciones ocurridas durante un período determinado –generalmente un año 
+calendario– y la población media del período.
+Sistema Estadístico Nacional (SEN)
+Conjunto de unidades funcionales del Estado encargadas del desarrollo, la producción y la difusión de las 
+estadísticas oficiales. Está integrado por el INDEC (su órgano rector y coordinador, según la Ley 17.622), las 
+direcciones provinciales de estadística y todos los servicios estadísticos de jurisdicción nacional, provincial o 
+municipal.
+Ubicación geográfica
+Conjunto de información que permite la ubicación precisa de una vivienda o edificación en terreno. Está 
+conformada por la identificación de provincia, departamento, partido o comuna, número de manzana, lado 
+de manzana, código y nombre de calle, ruta o camino, número o km, piso, departamento o pieza, edificio, 
+monoblock o tira, entrada o escalera, casa o lote y número de vivienda.
+Unidad de empadronamiento
+Entidad mayor, primaria o representativa de lo que va a ser objeto específico de estudio en una medición, es 
+decir, qué o quién es objeto de interés en una investigación. En el caso de este Censo, la unidad primaria de 
+empadronamiento es la persona. El hogar es la unidad de empadronamiento dentro del cual se identifica a 
+la mayoría de individuos y la vivienda es la unidad de empadronamiento dentro de la cual se identifica a los 
+hogares.
+Unidad geoestadística
+Cada una de las porciones de territorio que se utilizan para referir información estadística. Con esta 
+denominación se contemplan tanto las diferentes divisiones político-administrativas (por ejemplo, provincias o 
+departamentos) como aquellas unidades establecidas por el INDEC con fines operativos al Censo (por ejemplo, 
+localidad censal, fracción censal, radio censal).
+
+95
+CNPHV 2022 - Indicadores por sexo y edad. Resultados definitivos 
+Validación
+Procesos de revisión y verificación de la validez de la información obtenida como respuesta a una pregunta del 
+Censo con relación al conjunto de resultados válidos esperables. Por ejemplo, un valor negativo para la edad de 
+un individuo no es aceptado como un dato válido para esa característica.
+Variable
+Característica que es susceptible de adoptar diferentes valores.
+Vivienda
+Espacio construido para que vivan personas. Se caracteriza por estar cubierta por un techo y rodeada de paredes 
+u otro elemento de separación (para poder dormir, alimentarse y protegerse del medio ambiente); y por tener 
+una entrada independiente o compartida para que sus ocupantes puedan entrar y salir sin pasar por el interior 
+de otras viviendas. Las viviendas se pueden clasificar en particulares o colectivas.
+Vivienda colectiva
+Lugar de alojamiento construido o adaptado para alojar personas de un modo permanente o temporario, 
+destinado al alojamiento de personas que viven bajo un mismo techo según un régimen institucional por 
+razones militares, de salud, estudio, religión, etc. Se incluyen en esta categoría: campamentos u obradores; 
+colegios internados; cuarteles; hogares de adultos mayores; hogares de niñas, niños y adolescentes; hogares 
+de religiosos; hoteles turísticos, apart hoteles, cabañas turísticas, etc.; y prisiones. El total de viviendas colectivas 
+relevadas en el Censo 2022 incluye también aquellas que no cuentan con residentes habituales, como por 
+ejemplo los alojamientos turísticos. Por esa razón, es posible que en algunos casos figure el total de viviendas 
+colectivas censadas y, simultáneamente, el total de población en viviendas colectivas no cuente con datos.
+Vivienda particular
+Vivienda destinada a alojar personas que viven bajo un régimen de tipo familiar, sean parientes o no. Estas 
+viviendas pueden haber sido construidas con fines habitacionales o estar adaptadas para alojar personas y que 
+el día del relevamiento se encuentren personas que viven allí.
+Vivienda particular ocupada
+Vivienda particular en la que, al momento del censo, viven uno o más hogares.
+Vivienda propia
+La vivienda propia pertenece a alguna o algunas de las personas que integran el hogar, aun cuando se 
+encuentre pendiente de pago, tenga solo boleto de compraventa o no se haya escriturado. Incluye casos en los 
+que el hogar es propietario de una parte de la vivienda o la vivienda está hipotecada.
+
+96
+Índice de cuadros y tablas
+Cuadros
+Cuadro 1.1
+Ciudad Autónoma de Buenos Aires. Población, por sexo registrado al nacer y edad 
+mediana, según comuna. Año 2022
+26
+Cuadro 1.2
+Provincia de Buenos Aires. Población, por sexo registrado al nacer y edad mediana, 
+según partido. Año 2022
+28
+Cuadro 1.3
+Provincia de Catamarca. Población, por sexo registrado al nacer y edad mediana, 
+según departamento. Año 2022
+32
+Cuadro 1.4
+Provincia del Chaco. Población, por sexo registrado al nacer y edad mediana, según 
+departamento. Año 2022
+34
+Cuadro 1.5
+Provincia del Chubut. Población, por sexo registrado al nacer y edad mediana, según 
+departamento. Año 2022
+36
+Cuadro 1.6
+Provincia de Córdoba. Población, por sexo registrado al nacer y edad mediana, según 
+departamento. Año 2022
+38
+Cuadro 1.7
+Provincia de Corrientes. Población, por sexo registrado al nacer y edad mediana, según 
+departamento. Año 2022
+40
+Cuadro 1.8
+Provincia de Entre Ríos. Población, por sexo registrado al nacer y edad mediana, según 
+departamento. Año 2022
+42
+Cuadro 1.9
+Provincia de Formosa. Población, por sexo registrado al nacer y edad mediana, según 
+departamento. Año 2022
+44
+Cuadro 1.10
+Provincia de Jujuy. Población, por sexo registrado al nacer y edad mediana, según 
+departamento. Año 2022
+46
+Cuadro 1.11
+Provincia de La Pampa. Población, por sexo registrado al nacer y edad mediana, según 
+departamento. Año 2022
+48
+Cuadro 1.12
+Provincia de La Rioja. Población, por sexo registrado al nacer y edad mediana, según 
+departamento. Año 2022
+50
+Cuadro 1.13
+Provincia de Mendoza. Población, por sexo registrado al nacer y edad mediana, según 
+departamento. Año 2022
+52
+
+97
+CNPHV 2022 - Indicadores por sexo y edad. Resultados definitivos 
+Cuadro 1.14
+Provincia de Misiones. Población, por sexo registrado al nacer y edad mediana, según 
+departamento. Año 2022
+54
+Cuadro 1.15
+Provincia del Neuquén. Población, por sexo registrado al nacer y edad mediana, según 
+departamento. Año 2022
+56
+Cuadro 1.16
+Provincia de Río Negro. Población, por sexo registrado al nacer y edad mediana, según 
+departamento. Año 2022
+58
+Cuadro 1.17
+Provincia de Salta. Población, por sexo registrado al nacer y edad mediana, según 
+departamento.  Año 2022
+60
+Cuadro 1.18
+Provincia de San Juan. Población, por sexo registrado al nacer y edad mediana, según 
+departamento. Año 2022
+62
+Cuadro 1.19
+Provincia de San Luis. Población, por sexo registrado al nacer y edad mediana, según 
+departamento. Año 2022
+64
+Cuadro 1.20
+Provincia de Santa Cruz. Población, por sexo registrado al nacer y edad mediana, 
+según departamento. Año 2022
+66
+Cuadro 1.21
+Provincia de Santa Fe. Población, por sexo registrado al nacer y edad mediana, según 
+departamento. Año 2022
+68
+Cuadro 1.22
+Provincia de Santiago del Estero. Población, por sexo registrado al nacer y edad 
+mediana, según departamento. Año 2022
+70
+Cuadro 1.23
+Provincia de Tierra del Fuego, Antártida e Islas del Atlántico Sur. Población, por sexo 
+registrado al nacer y edad mediana, según departamento. Año 2022
+72
+Cuadro 1.24
+Provincia de Tucumán. Población, por sexo registrado al nacer y edad mediana, según 
+departamento. Año 2022
+74
+
+98
+Tablas
+Tabla 1. 
+Cantidad de personas que formaron parte de la estructura censal nacional.
+Censo 2022
+79
+Tabla 2.
+Porcentaje de segmentos censales cubiertos durante el desarrollo del barrido 
+territorial respecto del total de segmentos de la tabla de segmentación, según 
+jurisdicción. Censo 2022
+82
+Tabla 3.
+Porcentaje de personas en viviendas particulares que completaron el cuestionario en 
+línea más de una vez. Censo 2022
+84
+Tabla 4.
+Tasas de omisión de los Censos 2001 y 2010
+87
+

@@ -1,0 +1,10741 @@
+Internacionales e internas
+Migraciones
+Edición ampliada. Abril de 2024
+Censo Nacional de Población, Hogares y Viviendas 2022
+Resultados deﬁnitivos
+ISBN: 978-950-896-632-2
+ISBN: 978-950-896-671-1
+
+Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos 
+Migraciones internacionales e internas. Edición ampliada. 
+ 
+CNPHV 2022 - Migraciones. Resultados definitivos 
+7
+1. Introducción
+Los procesos migratorios tienen un papel fundamental en la conformación y la evolución demográfica de 
+los países en la medida en que influyen sobre las condiciones sociales, culturales y económicas, así como 
+también en la estructura por sexo y edad de la población. Por eso, los censos de población constituyen una 
+fuente de información esencial para identificar y caracterizar, de acuerdo con una variedad de atributos 
+sociodemográficos, a la población residente que nació en un país diferente al que fue censado. 
+Asimismo, dentro de los movimientos migratorios resulta valioso analizar para la población nativa del país 
+la relación existente entre la jurisdicción de nacimiento de las personas y la de su residencia habitual. Esta 
+correspondencia permite cuantificar la migración interna, un fenómeno habitual de nuestro país asociado a las 
+posibilidades laborales, educativas, sociales, familiares, entre otras, que ofrece cada provincia.
+Se incluyen, además, los datos correspondientes a la matriz de migración, que permite conocer el origen y 
+destino de la población que modificó su lugar de residencia habitual durante los últimos cinco años anteriores 
+a la implementación del censo.
+De esta manera, en continuidad con la difusión de los resultados del Censo Nacional de Población, Hogares y 
+Viviendas 2022 (Censo 2022), se presenta esta edición ampliada de los resultados de migración internacional e 
+interna de la Argentina. La publicación contiene información de la población que nació en un lugar diferente al 
+de su residencia habitual y, en detalle, de la migración internacional. En este último caso, se muestran los datos 
+relativos a su evolución histórica y la caracterización según el país de nacimiento: el tipo de cobertura de salud, 
+el nivel de cobertura de previsión social, el nivel educativo y la condición de actividad económica, entre otras; 
+así como también el período de llegada a la Argentina. 
+La actualización de esta nueva fotografía de la Argentina exterioriza una tendencia inmigratoria decreciente 
+que se inició décadas atrás. Si los primeros censos nacionales de población –en particular los de 1895 y 1914– 
+registran los niveles de representación más elevados de población nacida en otro país, producto del impacto 
+de las vastas corrientes migratorias de origen europeo que arribaron a la Argentina a fines del siglo XIX y en las 
+primeras décadas del siglo XX, la no renovación de la migración del viejo continente y la progresiva desaparición 
+de esos antiguos inmigrantes genera, desde mediados del siglo XX, una paulatina reducción del porcentaje de 
+extranjeros que, en el Censo 2022, asume una proporción mínima, similar a la del recuento del Censo 2001 y del 
+Censo 2010. 
+Finalmente, cabe recordar que el Censo 2022, por primera vez en la historia de los censos de población 
+argentinos, empleó la metodología de censo de derecho, por la cual las personas se contabilizaron en su lugar 
+de residencia habitual, es decir, en el que pasan la mayor parte del tiempo durante la semana.
+
+8
+Las preguntas de migración incluidas en el cuestionario censal a las que alude la presente compilación, que 
+corresponden a la población en viviendas particulares, son las siguientes:
+Pase a 17
+ 14 ¿En qué provincia?  CABA reﬁere a Ciudad Autónoma de Buenos Aires y Tierra del 
+Fuego reﬁere a Tierra del Fuego, Antártida e Islas del Atlántico Sur.
+ 
+CABA  
+ 1 
+Formosa  
+ 9 
+Salta  
+ 17
+ 
+Buenos Aires  
+ 2 
+Jujuy  
+ 10 
+San Juan  
+ 18
+ 
+Catamarca  
+ 3 
+La Pampa  
+ 11 
+San Luis  
+ 19
+ 
+Chaco  
+ 4 
+La Rioja  
+ 12 
+Santa Cruz  
+ 20
+ 
+Chubut  
+ 5 
+Mendoza  
+ 13 
+Santa Fe  
+ 21
+ 
+Córdoba  
+ 6 
+Misiones  
+ 14 Santiago del Estero  
+ 22
+ 
+Corrientes  
+ 7 
+Neuquén  
+ 15 
+Tierra del Fuego  
+ 23
+ 
+Entre Ríos  
+ 8 
+Río Negro  
+ 16 
+Tucumán  
+ 24
+ 18 ¿En qué provincia?  CABA reﬁere a Ciudad Autónoma de Buenos Aires y Tierra del 
+Fuego reﬁere a Tierra del Fuego, Antártida e Islas del Atlántico Sur.
+ 
+CABA  
+ 1 
+Formosa  
+ 9 
+Salta  
+ 17
+ 
+Buenos Aires  
+ 2 
+Jujuy  
+ 10 
+San Juan  
+ 18
+ 
+Catamarca  
+ 3 
+La Pampa  
+ 11 
+San Luis  
+ 19
+ 
+Chaco  
+ 4 
+La Rioja  
+ 12 
+Santa Cruz  
+ 20
+ 
+Chubut  
+ 5 
+Mendoza  
+ 13 
+Santa Fe  
+ 21
+ 
+Córdoba  
+ 6 
+Misiones  
+ 14 Santiago del Estero  
+ 22
+ 
+Corrientes  
+ 7 
+Neuquén  
+ 15 
+Tierra del Fuego  
+ 23
+ 
+Entre Ríos  
+ 8 
+Río Negro  
+ 16 
+Tucumán  
+ 24
+Año:
+ 16 ¿En qué año llegó a la Argentina?
+ 
+Ignorado  
+ 9999
+ 
+esta provincia?  
+ 1
+ 
+otra provincia argentina?  
+ 2
+ 
+otro país?  
+ 3
+ 13 ¿Nació en...
+Pase a 15
+Pase a 17
+ 17 ¿Hace 5 años vivía en...
+ 
+esta localidad o paraje?  
+ 1
+ 
+otra localidad o paraje de esta provincia?  
+ 2
+ 
+otra provincia argentina?  
+ 3
+ 
+otro país?  
+ 4
+ 
+No había nacido  
+ 5
+Pase a 19
+Pase a 19
+Si responde Otro país, escriba el nombre del país.
+ 15 ¿En qué país?
+ 
+Bolivia  
+ 1 
+Colombia  
+ 4 
+Uruguay  
+ 7
+ 
+Brasil  
+ 2 
+Paraguay  
+ 5 
+Venezuela  
+ 8
+ 
+Chile  
+ 3 
+Perú  
+ 6 
+Otro país  
+ 9
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022.
+
+99
+CNPHV 2022 - Migraciones. Resultados definitivos 
+2. Migración internacional
+Censo Nacional de Población, Hogares y Viviendas 2022
+
+10
+Censo Nacional de Población, Hogares y Viviendas 2022
+ Migración internacional
+Nota: de acuerdo con la evaluación de calidad y consistencia de los resultados definitivos, y para cumplir con los estándares de calidad 
+estadística requeridos por el INDEC, la categoría X de las respuestas a la pregunta por sexo registrado al nacer se distribuye entre las 
+categorías Mujer/femenino y Varón/masculino. 
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Nota: de acuerdo con la evaluación de calidad y consistencia de los resultados definitivos, y para cumplir con los estándares de calidad 
+estadística requeridos por el INDEC, la categoría X de las respuestas a la pregunta por sexo registrado al nacer se distribuye entre las 
+categorías Mujer/femenino y Varón/masculino. 
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Gráfico 1. Distribución porcentual de la población en viviendas particulares nativa y 
+nacida en otro país, por sexo registrado al nacer y grupo de edad. Total del país. Año 2022
+872.042
+Varones/masculino
+1.061.421
+Mujeres/femenino
+personas en viviendas 
+particulares nacidas en otro país
+1.933.463
+de la población total en 
+viviendas particulares
+4,2%
+0-4
+5-9
+10-14
+15-19
+20-24
+25-29
+30-34
+35-39
+40-44
+45-49
+50-54
+55-59
+60-64
+65-69
+70-74
+75-79
+80-84
+85-89
+90+
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+Porcentaje
+Población nativa
+Mujeres/femenino
+Varones/masculino
+Mujeres/femenino
+Varones/masculino
+Población no nativa
+Grupo de edad
+
+11
+11
+CNPHV 2022 - Migraciones. Resultados definitivos 
+Se confirma la tendencia declinante de la participación de la población no nativa respecto del total de la 
+población que reside en viviendas particulares, característica constante del tercer milenio. Los censos de 1895 y 
+1914, que registran los niveles de representación más altos, reflejan el impacto de las vastas corrientes migratorias 
+de origen europeo que arribaron al país a fines del siglo XIX y en las primeras décadas del siglo XX. La progresiva 
+desaparición de los antiguos inmigrantes conlleva, desde mediados del siglo XX, a una paulatina reducción del 
+porcentaje de población nacida en otro país. El Censo 2022 reitera valores similares a los manifestados en los 
+Censos 2001 y 2010. 
+Fuente: INDEC, Censos nacionales de población 1869-2022.
+Nota: se excluyen del total las respuestas sin especificar el país de nacimiento, que corresponden a la categoría Ignorado en el Censo 2022. 
+Fuente: INDEC, Censos nacionales de población 1869-2022.
+Gráfico 2. Porcentaje de la población en viviendas particulares nacida en otro país. 
+Total del país. Años 1869-2022
+Gráfico 3. Porcentaje de la población en viviendas particulares nacida en otro país, por 
+lugar de nacimiento, según los censos de población. Total del país. Años 1869-2022
+2.1 La migración internacional a través de los censos  
+Hasta el Censo de 1980, Europa fue 
+el principal origen de la población 
+no nativa.
+A partir de 1991, los censos registran 
+un predominio de las personas 
+nacidas en países limítrofes. 
+Asimismo, el tercer milenio muestra 
+el incremento de inmigrantes 
+originarios de países de América no 
+limítrofes con la Argentina.
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+19,7
+11,6
+0,4
+0,7
+8,6
+12,9
+17,9
+24,2
+39,6
+52,3
+61,3
+68,9
+65,9
+79,2
+88,0
+88,2
+82,9
+77,4
+66,4
+56,5
+40,9
+28,6
+16,5
+8,3
+Resto de América
+Países limítrofes
+Resto del mundo
+Europa
+1869
+1895
+1914
+1947
+1960
+1970
+1980
+1991
+2001
+2010
+2022
+Censos
+Porcentaje
+0,2
+0,2
+2,9
+0,3
+8,7
+0,8
+2,3
+1,5
+4,4
+2,4
+2,2
+7,8
+2,0
+12,5
+2,4
+23,5
+3,8
+0,9
+3,6
+0,7
+A principios del siglo XX, 
+la población extranjera 
+representaba cerca de un tercio 
+de la población total. Desde 
+entonces, su participación fue 
+descendiendo, y el Censo 2022 
+ratiﬁcó los bajos valores que 
+caracterizan al tercer milenio.
+0
+5
+10
+15
+20
+25
+30
+35
+1869
+1895
+1914
+1947
+1960
+1970
+1980
+1991
+2001
+2010 2022
+12,1
+25,4
+29,9
+15,3
+13,0
+9,5
+6,8
+5,0
+4,2
+4,5
+4,2
+Porcentaje
+Censos
+
+12
+12
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+71,5
+63,3
+62,5
+58,1
+54,5
+52,5
+49,9
+47,6
+45,7
+46,1
+45,1
+28,5
+36,7
+37,5
+41,9
+45,5
+47,5
+50,1
+52,4
+54,3
+53,9
+54,9
+Mujeres/femenino
+Varones/masculino
+1869
+1895
+1914
+1947
+1960
+1970
+1980
+1991
+2001
+2010
+2022
+Porcentaje
+Censos
+Gráfico 4. Distribución porcentual de la población en viviendas particulares nacida en 
+otro país, según sexo registrado al nacer. Total del país. Años 1869-2022
+A diferencia del proceso migratorio del siglo XIX, caracterizado por el predominio masculino en la composición 
+por sexo de la población nacida en otro país, en la actualidad es notoria la feminización de la población 
+inmigrante. Esa tendencia se comenzó a visibilizar a partir de 1980. El porcentaje de la población femenina 
+dentro de la población nacida en otro país pasó del 28,5% en 1869 al 54,9% en 2022.
+Nota: de acuerdo con la evaluación de calidad y consistencia de los resultados definitivos, y para cumplir con los estándares de calidad 
+estadística requeridos por el INDEC, la categoría X de las respuestas a la pregunta por sexo registrado al nacer se distribuye entre las 
+categorías Mujer/femenino y Varón/masculino.
+Fuente: INDEC, Censos nacionales de población 1869-2022.
+Gráfico 5. Distribución porcentual de la población en viviendas particulares nacida en 
+otro país, según principales países de nacimiento. Total del país. Años 2001, 2010 y 2022
+La población nacida en Paraguay y Bolivia ocupa las dos primeras posiciones relativas respecto del resto de los 
+países en los últimos tres censos. Se destaca también la aparición de Venezuela en el podio, que pasa a ocupar 
+el tercer lugar dentro de la población nacida en otro país.
+Paraguay
+Bolivia
+Italia
+Chile
+Paraguay
+Bolivia
+Chile
+Perú
+Paraguay
+Bolivia
+Venezuela
+Perú
+Porcentaje
+2001
+2010
+2022
+0
+5
+10
+15
+20
+25
+30
+35
+15,0
+14,2
+21,0
+14,0
+30,5
+19,1
+10,6
+8,7
+27,0
+17,5
+8,4
+8,1
+Censos
+Fuente: INDEC, Censos nacionales de población 2001, 2010 y 2022.
+
+13
+13
+CNPHV 2022 - Migraciones. Resultados definitivos 
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+(1) La categoría Ignorado incluye a las personas no nativas que no especificaron su país de nacimiento.
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Gráfico 6. Distribución porcentual de la población en viviendas particulares nacida en 
+otro país, por lugar de nacimiento. Total del país. Año 2022
+2.2 Población en viviendas particulares nacida en otro país, por lugar de 
+nacimiento
+La población nacida en Paraguay y Bolivia es la de mayor proporción de inmigrantes y constituyen en conjunto 
+el 44,5% del total. Le siguen en importancia Venezuela, Perú, Chile y Uruguay entre los países de América, e 
+Italia entre los originarios de Europa. Por su parte, Brasil, Colombia y España superan levemente el 2% del total 
+de inmigrantes censados en 2022.
+0
+5
+10
+15
+20
+25
+30
+Paraguay
+Bolivia
+Chile
+Venezuela
+Perú
+Uruguay
+Resto de América
+Brasil
+España
+Italia
+Colombia
+Resto de Europa
+ Asia
+África y Oceanía
+Ignorado(1)
+17,5
+8,4
+27,0
+8,1
+7,7
+4,9
+2,6
+2,4
+2,5
+2,5
+3,5
+1,5
+1,9
+9,3
+0,2
+Porcentaje
+América
+Europa
+Población en viviendas particulares nacida en los 30 países con mayor representación 
+inmigrante. Total del país. Año 2022
+Paraguay                                               
+Bolivia                                                
+Venezuela                                              
+Perú                                                   
+Chile                                                   
+Uruguay                                                
+Italia                                                 
+Brasil                                                 
+España                                                 
+Colombia 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+ 522.598 
+ 338.299 
+ 161.495 
+ 156.251 
+ 149.082 
+ 95.384 
+ 68.169 
+ 49.943 
+ 48.492 
+ 46.482
+Población
+País de origen
+ China                                                  
+Estados Unidos                                       
+Ecuador                                                
+República Dominicana                         
+México                                                 
+Corea                                      
+Alemania
+Francia                                                
+Cuba                                                   
+Ucrania
+ 18.629 
+ 13.986 
+ 8.879 
+ 7.817 
+ 5.833 
+ 5.337 
+ 4.087 
+ 3.960 
+ 3.921 
+ 3.486 
+Población
+País de origen
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+Portugal                                               
+Taiwan                                                  
+Japón                                                  
+Rusia
+Haití                                                  
+Polonia                                                
+Israel                                                 
+Canadá                                                 
+Siria
+Reino Unido de Gran 
+Bretaña e Irlanda del Norte
+3.281 
+ 3.018 
+ 2.703 
+ 2.169 
+ 1.840 
+ 1.524 
+ 1.408 
+ 1.394 
+ 1.377 
+ 1.324
+Población
+País de origen
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+89,6% de la población no nativa
+
+14
+Grupo de edad
+Mujeres/femenino 
+Varones/masculino 
+16
+14
+12
+10
+8
+6
+4
+2
+0
+16
+14 12
+10
+8
+6
+4
+2
+16
+14
+12
+10
+8
+6
+4
+2
+0
+16
+14 12
+10
+8
+6
+4
+2
+16
+14
+12
+10
+8
+6
+4
+2
+0
+16
+14 12
+10
+8
+6
+4
+2
+16
+14
+12
+10
+8
+6
+4
+2
+0
+16
+14 12
+10
+8
+6
+4
+2
+0-4
+5-9
+10-14
+15-19
+20-24
+25-29
+30-34
+35-39
+40-44
+45-49
+50-54
+55-59
+60-64
+65-69
+70-74
+75-79
+80-84
+85-89
+90+
+Porcentaje
+Italia
+España
+0-4
+5-9
+10-14
+15-19
+20-24
+25-29
+30-34
+35-39
+40-44
+45-49
+50-54
+55-59
+60-64
+65-69
+70-74
+75-79
+80-84
+85-89
+90+
+Bolivia
+Brasil
+ 
+Las pirámides de quienes 
+nacieron en Italia y España muestran 
+un envejecimiento de la población,  
+explicado por la fuerte disminución 
+del ﬂujo de inmigración de estos 
+grupos desde 1960. Algo parecido 
+sucede, aunque en menor medida, con 
+la población nacida en Uruguay y Chile.
+ 
+En el caso de la población nacida 
+en España, sobresale la proporción de 
+niñas, niños y adolescentes de entre 
+10 y 19 años, lo que podría indicar un 
+fenómeno de inmigración de retorno, 
+es decir, de argentinos con hijos e 
+hijas nacidas en el exterior que 
+regresaron al país. 
+ 
+La población nacida en Bolivia, 
+Paraguay, Colombia y Venezuela se 
+concentra en las edades activas.
+En la pirámide de la población 
+originaria de Brasil se destacan los 
+grupos de edad de 20-24 y de 25-29 
+años, en su mayoría de sexo femenino.
+0-4
+5-9
+10-14
+15-19
+20-24
+25-29
+30-34
+35-39
+40-44
+45-49
+50-54
+55-59
+60-64
+65-69
+70-74
+75-79
+80-84
+85-89
+90+
+Chile
+Colombia
+0-4
+5-9
+10-14
+15-19
+20-24
+25-29
+30-34
+35-39
+40-44
+45-49
+50-54
+55-59
+60-64
+65-69
+70-74
+75-79
+80-84
+85-89
+90+
+Paraguay
+Perú
+0-4
+5-9
+10-14
+15-19
+20-24
+25-29
+30-34
+35-39
+40-44
+45-49
+50-54
+55-59
+60-64
+65-69
+70-74
+75-79
+80-84
+85-89
+90+
+Uruguay
+Venezuela
+Nota: de acuerdo con la evaluación 
+de calidad y consistencia de los 
+resultados definitivos, y para cumplir 
+con los estándares de calidad 
+estadística requeridos por el INDEC, 
+la categoría X de las respuestas a la 
+pregunta por sexo registrado al nacer 
+se distribuye entre las categorías 
+Mujer/femenino y Varón/masculino.
+Población en viviendas particulares nacida en otro país, por sexo registrado al 
+nacer y grupo de edad, según países seleccionados. Total del país. Año 2022
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+
+15
+15
+CNPHV 2022 - Migraciones. Resultados definitivos 
+ (1) las Islas Malvinas, Georgias del Sur, Sandwich del Sur y los espacios marítimos circundantes forman parte integrante del territorio 
+nacional argentino. Debido a que dichos territorios se encuentran sometidos a la ocupación ilegal del Reino Unido de Gran Bretaña 
+e Irlanda del Norte, la República Argentina se vio impedida de llevar a cabo el Censo 2022 en esa área. Estas islas pertenecen al 
+departamento Islas del Atlántico Sur. Del departamento Antártida Argentina fueron censadas las bases antárticas permanentes que 
+pertenecen a la República Argentina.
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+La provincia de Buenos Aires y la Ciudad Autónoma de Buenos Aires concentran en conjunto el 73,1% de la 
+población en viviendas particulares que nació en otro país. Muy lejos de esta proporción figuran provincias como 
+Mendoza, Córdoba, Santa Fe, Río Negro, Misiones y Neuquén, con porcentajes que varían entre el 3,4% (Mendoza) 
+y 2% (Neuquén). El resto de las jurisdicciones presenta menos del 2% de su población no nativa y Catamarca es la 
+provincia con menor proporción de extranjeros. 
+2.3 Población en viviendas particulares nacida en otro país, por jurisdicción
+Porcentaje
+51,4
+21,7
+3,4
+3,4
+2,5
+2,1
+2,0
+2,0
+1,6
+1,5
+1,5
+1,1
+0,9
+0,7
+0,7
+0,6
+0,6
+0,4
+0,3
+0,3
+0,2
+0,1
+0,4
+0,3
+0
+10
+20
+30
+40
+50
+60
+Catamarca
+La Pampa
+Santiago del Estero
+La Rioja
+Chaco
+San Luis
+San Juan
+Tierra del Fuego, Ántártida
+e Islas del Atlántico Sur(1)
+Tucumán
+Corrientes
+Entre Ríos
+Formosa
+Santa Cruz
+Chubut
+Salta
+Jujuy
+Misiones
+Neuquén
+Río Negro
+Santa Fe
+Córdoba
+Mendoza
+Ciudad Autónoma de Buenos Aires
+Buenos Aires
+Gráfico 7. Distribución de la población en viviendas particulares nacida en otro país, 
+por jurisdicción. Total del país. Año 2022
+
+16
+16
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Gráfico 8. Población de 5 años y más nacida en otro país en viviendas particulares, por 
+período de llegada, según jurisdicción de residencia habitual. Total del país. Año 2022
+Porcentaje
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+Ciudad Autónoma
+de Buenos Aires
+La Rioja
+Santa Fe
+Córdoba
+Corrientes
+Entre Ríos
+Neuquén
+La Pampa
+San Luis
+Catamarca
+Chaco
+Tucumán
+San Juan
+Santiago del Estero
+Buenos Aires
+Mendoza
+Salta
+Chubut
+Misiones
+Río Negro
+Tierra del Fuego, Antártida
+e Islas del Atlántico Sur
+Formosa
+Santa Cruz
+Jujuy
+18,2
+17,2
+16,2
+13,6
+13,3
+12,6
+12,2
+11,6
+11,5
+10,7
+10,2
+10,0
+9,2
+9,0
+8,5
+7,5
+6,6
+6,4
+5,7
+4,7
+4,5
+4,2
+4,0
+23,5
+81,8
+82,8
+83,8
+86,4
+86,7
+87,4
+87,8
+88,4
+88,5
+89,3
+89,8
+90,0
+90,8
+91,0
+91,5
+92,5
+93,4
+95,3
+95,5
+95,8
+96,0
+93,6
+94,3
+76,5
+5 años o más
+Menos de 5 años
+
+17
+17
+CNPHV 2022 - Migraciones. Resultados definitivos 
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Gráfico 9. Población en viviendas particulares nacida en otro país, por período de 
+llegada al país, según lugar de nacimiento. Total del país. Año 2022
+Porcentaje
+América
+Europa
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+de 2010 a 2019
+de 2000 a 2009
+de 2020 a 2022
+Hasta 1999
+88,6
+23,7
+22,7
+39,8
+28,8
+72,7
+85,2
+43,9
+83,0
+42,7
+40,3
+31,8
+31,4
+4,4
+1,3
+1,2
+20,2
+94,0
+75,1
+63,5
+42,6
+30,9
+4,2
+5,4
+8,2
+1,8
+31,2
+35,1
+10,7
+36,6
+10,7
+23,6
+30,5
+46,1
+24,1
+17,0
+12,2
+12,3
+12,3
+8,2
+14,4
+1,4
+7,4
+2,4
+1,9
+17,7
+3,2
+0,4
+1,6
+15,1
+17,3
+4,8
+2,8
+5,9
+2,3
+3,2
+África y
+Oceanía
+Asia
+    Resto de
+Europa
+    España
+    Italia
+    Resto de
+América
+Venezuela
+  Colombia
+    Perú
+    Brasil
+Paraguay
+    Bolivia
+    Uruguay
+    Chile
+
+18
+18
+2.4 Población en viviendas particulares nacida en otro país, por nivel 
+educativo. Total del país. Año 2022
+Nota: de acuerdo con la evaluación de calidad y consistencia de los resultados definitivos, y para cumplir con los estándares de calidad 
+estadística requeridos por el INDEC, la categoría X de las respuestas a la pregunta por sexo registrado al nacer se distribuye entre las 
+categorías Mujer/femenino y Varón/masculino.
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Nota: los totales por suma pueden no coincidir por redondeo en las cifras parciales.
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Gráfico 10. Población en viviendas particulares nacida en otro país, por condición de 
+asistencia escolar, según grupo de edad. Total del país. Año 2022
+de la población en 
+viviendas particulares 
+nacida en otro país
+18,8%
+362.831
+población en viviendas 
+particulares nacida en otro 
+país que asiste a un 
+establecimiento educativo
+18,4%
+160.460
+Varones/masculino
+19,1%
+202.371
+Mujeres/femenino
+de la población femenina
+ en viviendas particulares
+nacida en otro país
+de la población masculina
+en viviendas particulares
+nacida en otro país
+Porcentaje
+0-3
+4-5
+6-11
+12-14
+15-17
+18-24
+25-29
+30-64
+65 y más
+Asiste
+Asistió
+Nunca
+asistió
+Grupo de edad
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+40,3
+87,1
+91,8
+90,3
+85,9
+45,7
+23,2
+9,8
+3,9
+16,8
+6,5
+5,5
+7,9
+12,5
+51,5
+72,3
+83,8
+86,0
+42,9
+6,5
+2,6
+1,8
+1,6
+2,8
+4,6
+6,4
+10,2
+
+19
+19
+CNPHV 2022 - Migraciones. Resultados definitivos 
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Máximo nivel educativo alcanzado por la población en viviendas particulares, total y 
+nacida en otro país, de 25 años y más. Total del país. Año 2022 
+Secundario
+completo
+Superior o universitario
+incompleto o completo
+29,8%
+50,5%
+25,2%
+45,0%
+Hasta secundario
+incompleto
+24,4%
+25,1%
+Secundario
+completo
+Superior o universitario
+incompleto o completo
+Hasta secundario
+incompleto
+Total de población
+Población nacida en otro país
+
+20
+20
+2.5 Población en viviendas particulares, total y nacida en otro país, por 
+cobertura de salud. Total del país. Año 2022
+Nota: los totales por suma pueden no coincidir por redondeo en las cifras parciales. 
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Obra social o prepaga 
+(incluye PAMI)
+Solo sistema público
+Programas o planes
+estatales de salud
+Total de
+población
+Población nacida
+en otro país
+Porcentaje
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+51,4
+45,6
+2,9
+60,9
+3,3
+35,8
+Gráfico 11. Población en viviendas particulares nacida en otro país, con cobertura de 
+salud por obra social o prepaga (incluye PAMI). Total del país. Años 2001, 2010 y 2022
+Fuente: INDEC, Censos nacionales de población 2001, 2010 y 2022.
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+2001
+2010
+2022
+Porcentaje
+Censos
+45,6
+52,8
+49,2
+54,4
+47,2
+50,8
+Tiene obra social o prepaga (incluye PAMI)
+No tiene obra social o prepaga
+
+21
+21
+CNPHV 2022 - Migraciones. Resultados definitivos 
+Gráfico 12. Población en viviendas particulares en edad de jubilarse, total y nacida 
+en otro país, que percibe jubilación o pensión, según sexo registrado al nacer. Total 
+de país. Año 2022
+Gráfico 13. Población en viviendas particulares de 14 años y más nacida en otro país, 
+por condición de actividad económica. Total del país. Año 2022
+2.6 Población en viviendas particulares en edad de jubilarse que percibe 
+jubilación o pensión
+Nota: de acuerdo con la evaluación de calidad y consistencia de los resultados definitivos, y para cumplir con los estándares de calidad 
+estadística requeridos por el INDEC, la categoría X de las respuestas a la pregunta por sexo registrado al nacer se distribuye entre las 
+categorías Mujer/femenino y Varón/masculino.
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+Total 
+de población
+Población nacida
+en otro país
+Porcentaje
+Mujeres/femenino
+Varones/masculino
+Total
+88,7
+89,2
+88,5
+78,4
+76,2
+82,2
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Población 
+desocupada
+Población
+ocupada
+36,0%
+4,7%
+59,3%
+Población
+no económicamente
+activa
+
+22
+22
+3. Migración interna
+Censo Nacional de Población, Hogares y Viviendas 2022
+
+23
+CNPHV 2022 - Migraciones. Resultados definitivos 
+23
+Censo Nacional de Población, Hogares y Viviendas 2022
+Migración interna
+3.265.058
+Varones/masculino
+3.647.545
+Mujeres/femenino
+personas nativas nacidas en una 
+jurisdicción distinta a la de su 
+residencia habitual
+6.912.603
+del total de la 
+población nativa en 
+viviendas particulares
+15,8%
+Nota: de acuerdo con la evaluación de calidad y consistencia de los resultados definitivos, y para cumplir con los estándares de calidad 
+estadística requeridos por el INDEC, la categoría X de las respuestas a la pregunta por sexo registrado al nacer se distribuye entre las 
+categorías Mujer/femenino y Varón/masculino.
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Nota: de acuerdo con la evaluación de calidad y consistencia de los resultados definitivos, y para cumplir con los estándares de calidad 
+estadística requeridos por el INDEC, la categoría X de las respuestas a la pregunta por sexo registrado al nacer se distribuye entre las 
+categorías Mujer/femenino y Varón/masculino. 
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Gráfico 14. Distribución porcentual de la población nativa en viviendas particulares 
+nacida en una jurisdicción distinta a la de su residencia habitual, por sexo registrado 
+al nacer y grupo de edad. Total del país. Año 2022
+0-4
+5-9
+10-14
+15-19
+20-24
+25-29
+30-34
+35-39
+40-44
+45-49
+50-54
+55-59
+60-64
+65-69
+70-74
+75-79
+80-84
+85-89
+90+
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+8,0
+6,0
+4,0
+2,0
+0,0
+2,0
+4,0
+6,0
+8,0
+Porcentaje
+Mujeres / femenino
+Varones / masculino
+Grupo de edad
+
+24
+24
+(1) las Islas Malvinas, Georgias del Sur, Sandwich del Sur y los espacios marítimos circundantes forman parte integrante del territorio 
+nacional argentino. Debido a que dichos territorios se encuentran sometidos a la ocupación ilegal del Reino Unido de Gran Bretaña 
+e Irlanda del Norte, la República Argentina se vio impedida de llevar a cabo el Censo 2022 en esa área. Estas islas pertenecen al 
+departamento Islas del Atlántico Sur. Del departamento Antártida Argentina fueron censadas las bases antárticas permanentes que 
+pertenecen a la República Argentina.
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Gráfico 15. Población nativa en viviendas particulares nacida en una jurisdicción 
+distinta a la de su residencia habitual. Total del país. Año 2022
+Tierra del Fuego encabeza el ranking de provincias cuya población residente habitual nació en una jurisdicción 
+distinta a donde fue censada (54,5%), seguida en importancia relativa por Santa Cruz (41,8%), Neuquén (28,1%) 
+y San Luis (28,0%). Las provincias de Misiones, San Juan, Formosa y Chaco son las que presentan la menor 
+proporción de población nacida en otra jurisdicción, con valores inferiores al 10%.
+Porcentaje
+0
+10
+20
+30
+40
+50
+60
+Chaco
+San Juan
+Formosa
+Misiones
+Tucumán
+Salta
+Entre Ríos
+Santiago del Estero
+Corrientes
+Mendoza
+Santa Fe
+Córdoba
+Catamarca
+Jujuy
+La Rioja
+La Pampa
+Buenos Aires
+Ciudad Autónoma de Buenos Aires
+Chubut
+Río Negro
+San Luis
+Neuquén
+Santa Cruz
+Tierra del Fuego, Antártida
+e Islas del Atlántico Sur(1)   
+54,5
+41,8
+28,1
+28,0
+26,5
+26,2
+23,3
+21,2
+18,5
+16,7
+15,3
+14,6
+14,2
+12,9
+12,6
+12,0
+11,7
+11,2
+9,3
+9,0
+8,9
+8,3
+11,0
+10,7
+
+25
+25
+CNPHV 2022 - Migraciones. Resultados definitivos 
+3.1 Evolución de la migración interna a través de los censos
+Gráfico 16. Población nativa en viviendas particulares nacida en una jurisdicción distinta 
+a la de su residencia habitual, según censos de población. Total del país. Años 2010 y 2022 
+Gráfico 17. Población nativa de 5 años y más en viviendas particulares, por período de 
+llegada, según jurisdicción de residencia habitual. Total del país. Año 2022
+2010
+2022
+Porcentaje
+Censos
+15,8
+20,9
+0
+5
+10
+15
+20
+25
+Las migraciones internas son un fenómeno habitual de la Argentina que está asociado a las posibilidades 
+laborales, educativas, sociales y familiares, entre otras, que ofrecen las 24 jurisdicciones del territorio nacional. 
+ 
+La proporción de la población nativa en viviendas particulares que nació en una jurisdicción distinta a la de su 
+residencia habitual en el Censo 2022 (15,8%) es levemente inferior a la que presentaba el Censo 2010 (20,9%).
+Fuente: INDEC, Censos nacionales de población 2010 y 2022.
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+91,0
+9,0
+86,1
+13,9
+84,6
+15,4
+84,5
+15,5
+84,3
+15,7
+84,3
+15,7
+84,0
+16,0
+84,0
+16,0
+83,2
+16,8
+83,0
+17,0
+82,9
+17,1
+82,8
+17,2
+82,8
+17,2
+81,5
+18,5
+80,9
+19,1
+80,7
+19,3
+80,4
+19,6
+80,3
+19,7
+79,9
+20,1
+79,8
+20,2
+78,0
+22,0
+76,3
+23,7
+74,2
+25,8
+74,0
+26,0
+Porcentaje
+5 años o más
+Menos de 5 años
+ 
+ 
+Corrientes
+Misiones
+Formosa
+Entre Ríos
+ Córdoba
+Río Negro
+ San Juan
+ Neuquén
+ Chaco
+ Salta
+ Jujuy
+ Santiago del Estero
+ Tierra del Fuego, Antártida e Islas del Atlántico Sur
+ La Pampa
+ Mendoza
+ Chubut
+ San Luis
+ Catamarca
+ Tucumán
+ Santa Cruz
+ La Rioja
+ Ciudad Autónoma de Buenos Aires
+ Santa Fe
+ Buenos Aires
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+
+26
+Censo Nacional de Población, Hogares y Viviendas 2022
+4. Población en viviendas particulares por lugar de nacimiento, según 
+jurisdicción
+Censo Nacional de Población, Hogares y Viviendas 2022
+
+27
+CNPHV 2022 - Migraciones. Resultados definitivos 
+27
+Censo Nacional de Población, Hogares y Viviendas 2022
+(1) las Islas Malvinas, Georgias del Sur, Sandwich del Sur y los espacios marítimos circundantes forman parte integrante del territorio 
+nacional argentino. Debido a que dichos territorios se encuentran sometidos a la ocupación ilegal del Reino Unido de Gran Bretaña 
+e Irlanda del Norte, la República Argentina se vio impedida de llevar a cabo el Censo 2022 en esa área. Estas islas pertenecen al 
+departamento Islas del Atlántico Sur. Del departamento Antártida Argentina fueron censadas las bases antárticas permanentes que 
+pertenecen a la República Argentina.
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Población en viviendas particulares por lugar de nacimiento, según 
+jurisdicción. Total del país. Año 2022
+En otro
+país
+Jurisdicción
+Población 
+en viviendas 
+particulares
+En esta
+provincia
+En otra
+provincia
+Total del país
+Ciudad Autónoma de Buenos Aires
+Buenos Aires
+    24 partidos del Gran Buenos Aires
+    Resto de partidos de la provincia de Buenos Aires
+Catamarca
+Chaco
+Chubut
+Córdoba
+Corrientes
+Entre Ríos
+Formosa
+Jujuy
+La Pampa
+La Rioja
+Mendoza
+Misiones
+Neuquén
+Río Negro
+Salta
+San Juan
+San Luis
+Santa Cruz
+Santa Fe
+Santiago del Estero
+Tierra del Fuego, Antártida e Islas del Atlántico Sur(1)
+Tucumán
+45.618.787
+3.095.454
+17.408.906
+10.801.336
+6.607.570
+427.625
+1.124.603
+589.454
+3.812.064
+1.209.671
+1.415.097
+605.507
+809.364
+359.193
+382.453
+2.030.773
+1.273.347
+708.578
+747.697
+1.434.225
+819.445
+540.548
+335.677
+3.519.059
+1.057.752
+184.958
+1.727.337
+36.772.721
+2.051.723
+13.667.461 
+8.142.687
+5.524.774
+363.459
+1.025.532 
+413.880
+3.216.243
+1.052.341 
+1.243.459
+535.451 
+659.681 
+280.377
+307.154 
+1.716.654 
+1.119.570
+481.134 
+519.593 
+1.250.229
+739.212 
+383.105 
+182.642 
+3.024.215
+929.370
+78.510 
+1.531.726
+6.912.603
+624.640
+2.746.792
+1.918.294 
+828.498
+61.935
+93.082
+146.598 
+530.118
+144.177
+157.284 
+52.948
+119.366
+75.315
+69.527
+247.529
+114.750
+188.077
+187.278
+154.499
+71.973
+149.224
+130.924 
+445.982
+123.102
+94.197 
+183.286
+1.933.463
+419.091
+994.653
+740.355
+254.298
+2.231
+5.989
+28.976
+65.703
+13.153
+14.354
+17.108
+30.317
+3.501
+5.772
+66.590
+39.027
+39.367
+40.826
+29.497
+8.260
+8.219
+22.111
+48.862
+5.280
+12.251
+12.325
+Lugar de nacimiento
+
+28
+Censo Nacional de Población, Hogares y Viviendas 2022
+(1) La categoría Ignorado incluye a las personas no nativas cuyo país de nacimiento y/o año de llegada no fue especificado. 
+Nota: No incluye hogares donde la única persona migrante es servicio doméstico o sus familiares 
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Población en viviendas particulares por lugar de nacimiento, según período 
+de llegada al país. Total del país. Año 2022
+1.933.463
+1.567.110
+1.155.306 
+338.299
+49.943
+149.082
+522.598
+95.384
+411.804 
+46.482
+156.251
+161.495
+47.576
+145.808
+48.492
+68.169 
+29.147 
+37.342
+3.243
+721
+179.239
+660.858
+523.478
+470.634
+113.189
+13.379
+111.213
+168.612
+64.241
+52.844
+1.629
+40.702
+1.866
+8.647
+104.497
+32.344
+56.010
+16.143
+12.663
+736
+301
+19.183
+335.002
+309.144
+245.890
+82.779
+4.519
+5.327
+146.946
+6.319
+63.254
+3.955
+47.452
+1.752
+10.095
+8.578
+3.534
+1.381
+3.663
+7.174
+451
+119
+9.536
+431.171
+394.143
+187.089
+62.928
+16.775
+6.784
+94.844
+5.758
+207.054
+26.900
+37.314
+124.048
+18.792
+12.783
+6.493
+1.899
+4.391
+9.073
+1.385
+162
+13.625
+De 2010 
+a 2019
+De 2020 
+a 2022
+Ignorado(1)
+Lugar de
+nacimiento
+Población en 
+viviendas 
+particulares 
+nacida en 
+otro país
+Hasta 1999
+Año de llegada al país
+De 2000 
+a 2009
+Total 
+América
+Países limítrofes
+  Bolivia
+  Brasil
+  Chile
+  Paraguay
+  Uruguay
+Países no limítrofes
+  Colombia
+  Perú
+  Venezuela
+  Resto de América
+Europa
+  España
+  Italia
+  Resto de Europa
+Asia
+África
+Oceanía
+Ignorado(1)
+62.667
+57.175
+25.229
+6.433
+7.435
+2.205
+8.058
+1.098
+31.946
+4.525
+4.192
+17.982
+5.247
+2.167
+688
+264
+1.215
+841
+144
+55
+2.285
+443.765
+283.170
+226.464
+72.970
+7.835
+23.553
+104.138
+17.968
+56.706
+9.473
+26.591
+15.847
+4.795
+17.783
+5.433
+8.615
+3.735
+7.591
+527
+84
+134.610
+
+29
+CNPHV 2022 - Migraciones. Resultados definitivos 
+29
+Nota: de acuerdo con la evaluación de calidad y consistencia de los resultados definitivos, y para cumplir con los estándares de calidad 
+estadística requeridos por el INDEC, la categoría X de las respuestas a la pregunta por sexo registrado al nacer se distribuye entre las 
+categorías Mujer/femenino y Varón/masculino.
+Fuente: INDEC, Censos nacionales de población 2010 y 2022.
+Población en viviendas particulares por lugar de nacimiento, según sexo
+registrado al nacer. Año 2022
+Distribución de la población no nativa en viviendas particulares, según grupo
+de países seleccionados. Años 2010 y 2022
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+69,9
+30,1
+50,4
+49,6
+Ciudad Autónoma de Buenos Aires
+nacida en
+esta provincia
+nacida en
+otra provincia
+nacida en
+otro país
+Mujeres/femenino
+Varones/masculino
+2.051.723
+624.640
+419.091
+66,3%
+20,2%
+Porcentaje
+Censos
+2010
+2022
+47,3%
+52,7%
+43,9%
+56,1%
+43,9%
+56,1%
+13,5%
+Países limítrofes
+Países no limítrofes
+de América
+Bolivia, Brasil, Chile, 
+Paraguay y Uruguay.
+Colombia, Ecuador, 
+Perú, Venezuela y Resto 
+de América.
+
+30
+Cuadro 1.1
+En esta provincia
+En otra provincia
+Otro país
+3.095.454
+2.051.723
+624.640
+419.091
+221.001
+110.628
+56.104
+54.269
+160.609
+93.683
+46.733
+20.193
+193.537
+104.957
+49.314
+39.266
+227.024
+147.991
+41.546
+37.487
+192.449
+122.727
+44.718
+25.004
+201.764
+140.265
+42.196
+19.303
+213.262
+149.967
+33.083
+30.212
+203.888
+136.369
+26.367
+41.152
+167.908
+124.890
+22.847
+20.171
+171.896
+130.011
+24.971
+16.914
+201.905
+152.964
+33.134
+15.807
+235.364
+174.499
+43.071
+17.794
+262.330
+177.741
+57.719
+26.870
+247.252
+151.559
+64.756
+30.937
+195.265
+133.472
+38.081
+23.712
+Notas: de acuerdo con la Ley Orgánica de Comunas, la Ciudad Autónoma de Buenos Aires está organizada en 15 unidades 
+descentralizadas de gestión político-administrativa que, en algunos casos, abarcan más de un barrio. Cada comuna corresponde a:
+Comuna 1: Retiro, San Nicolás, Puerto Madero, San Telmo, Montserrat y Constitución.
+Comuna 2: Recoleta.
+Comuna 3: Balvanera y San Cristóbal.
+Comuna 4: La Boca, Barracas, Parque Patricios y Nueva Pompeya.
+Comuna 5: Almagro y Boedo.
+Comuna 6: Caballito.
+Comuna 7: Flores y Parque Chacabuco.
+Comuna 8: Villa Soldati, Villa Riachuelo y Villa Lugano.
+Comuna 9: Liniers, Mataderos y Parque Avellaneda.
+Comuna 10: Villa Real, Monte Castro, Versalles, Floresta, Vélez Sarsfield y Villa Luro.
+Comuna 11: Villa General Mitre, Villa Devoto, Villa del Parque y Villa Santa Rita.
+Comuna 12: Coghlan, Saavedra, Villa Urquiza y Villa Pueyrredón.
+Comuna 13: Núñez, Belgrano y Colegiales.
+Comuna 14: Palermo.
+Comuna 15: Chacarita, Villa Crespo, La Paternal, Villa Ortúzar, Agronomía y Parque Chas.
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Total
+Comuna 1
+Comuna 2
+Comuna 3
+Comuna 4
+Comuna 5
+Comuna 6
+Comuna 8
+Comuna 9
+Comuna 10
+Comuna 11
+Comuna 12
+Comuna 13
+Comuna 14
+Comuna 15
+Ciudad Autónoma de Buenos Aires. Población en viviendas particulares por lugar de nacimiento, 
+según comuna. Año 2022
+Comuna
+Población
+en viviendas
+particulares
+Lugar de nacimiento
+Comuna 7
+
+31
+CNPHV 2022 - Migraciones. Resultados definitivos 
+31
+Cuadro 1.2
+Hasta 1999
+De 2000 a 2009 De 2010 a 2019 De 2020 a 2022
+Ignorado(1)
+419.091
+108.881
+63.862
+138.539
+22.869
+84.940
+339.533
+77.910
+57.179
+128.564
+20.897
+54.983
+171.293
+61.419
+37.011
+32.953
+6.551
+33.359
+60.108
+19.224
+15.577
+11.007
+1.304
+12.996
+15.312
+1.939
+1.128
+7.133
+3.188
+1.924
+8.090
+4.230
+560
+1.339
+652
+1.309
+64.934
+19.804
+18.331
+12.171
+1.146
+13.482
+22.849
+16.222
+1.415
+1.303
+261
+3.648
+168.240
+16.491
+20.168
+95.611
+14.346
+21.624
+17.136
+538
+1.480
+10.883
+1.993
+2.242
+51.047
+12.906
+15.555
+11.667
+1.607
+9.312
+84.834
+560
+704
+66.989
+8.391
+8.190
+15.223
+2.487
+2.429
+6.072
+2.355
+1.880
+30.640
+20.910
+2.099
+2.907
+795
+3.929
+12.040
+8.692
+583
+1.029
+193
+1.543
+10.216
+8.226
+248
+397
+86
+1.259
+8.384
+3.992
+1.268
+1.481
+516
+1.127
+17.548
+7.356
+2.937
+3.159
+469
+3.627
+1.144
+194
+168
+505
+56
+221
+144
+55
+20
+37
+12
+20
+30.082
+2.456
+1.459
+3.367
+640
+22.160
+Oceanía
+Ignorado(1)
+(1) La categoría Ignorado incluye a las personas no nativas cuyo país de nacimiento y/o año de llegada no fue especificado.
+Nota: No incluye hogares donde la única persona migrante es servicio doméstico o sus familiares
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Colombia
+Perú
+Total
+América
+Países limítrofes
+Bolivia
+Brasil
+Resto de Europa
+Asia
+África
+Ciudad Autónoma de Buenos Aires. Población en viviendas particulares nacida en otro país, por 
+año de llegada al país, según lugar de nacimiento. Año 2022
+Lugar de Nacimiento
+Población
+en viviendas
+particulares
+nacida en
+otro país
+Uruguay
+Año de llegada al país
+Venezuela
+Resto de América
+Europa
+España
+Italia
+Chile
+Paraguay
+Países no limítrofes
+
+32
+32
+Nota: de acuerdo con la evaluación de calidad y consistencia de los resultados definitivos, y para cumplir con los estándares de calidad 
+estadística requeridos por el INDEC, la categoría X de las respuestas a la pregunta por sexo registrado al nacer se distribuye entre las 
+categorías Mujer/femenino y Varón/masculino.
+Fuente: INDEC, Censos nacionales de población 2010 y 2022.
+Buenos Aires
+Población en viviendas particulares por lugar de nacimiento, según sexo
+registrado al nacer. Año 2022
+Distribución de la población no nativa en viviendas particulares, según grupo
+de países seleccionados. Años 2010 y 2022
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+88,2
+11,8
+80,4
+19,6
+nacida en
+esta provincia
+nacida en
+otra provincia
+nacida en
+otro país
+Mujeres/femenino
+Varones/masculino
+13.667.461
+2.746.792
+994.653
+78,5%
+15,8%
+Porcentaje
+Censos
+2010
+2022
+48,7%
+51,3%
+47,0%
+53,0%
+45,0%
+55,0%
+5,7%
+Países limítrofes
+Países no limítrofes
+de América
+Bolivia, Brasil, Chile, 
+Paraguay y Uruguay.
+Colombia, Ecuador, 
+Perú, Venezuela y Resto 
+de América.
+
+33
+33
+CNPHV 2022 - Migraciones. Resultados definitivos 
+Cuadro 2.1
+En esta provincia
+En otra provincia
+Otro país
+17.408.906
+13.667.461
+2.746.792
+994.653
+10.801.336
+8.142.687
+1.918.294
+740.355
+583.209
+464.993
+89.522
+28.694
+366.117
+272.144
+67.348
+26.625
+358.328
+291.566
+51.662
+15.100
+337.880
+248.099
+57.573
+32.208
+198.620
+147.438
+37.258
+13.924
+488.103
+385.644
+73.020
+29.439
+444.503
+324.940
+82.769
+36.794
+185.361
+142.368
+34.381
+8.612
+177.983
+135.210
+36.148
+6.625
+326.527
+247.812
+56.516
+22.199
+1.837.168
+1.368.951
+314.227
+153.990
+460.081
+351.490
+80.575
+28.016
+685.644
+512.877
+110.858
+61.909
+349.401
+271.326
+65.984
+12.091
+581.484
+454.712
+96.250
+30.522
+575.758
+422.761
+96.667
+56.330
+329.517
+247.169
+66.005
+16.343
+631.774
+497.577
+90.229
+43.968
+171.099
+131.457
+29.408
+10.234
+295.978
+208.919
+70.190
+16.869
+327.650
+242.971
+66.191
+18.488
+446.291
+333.881
+87.600
+24.810
+362.319
+258.938
+75.764
+27.617
+280.541
+179.444
+82.149
+18.948
+6.607.570
+5.524.774
+828.498
+254.298
+17.344
+15.376
+1.795
+173
+12.847
+12.111
+642
+94
+12.906
+11.473
+1.159
+274
+32.077
+28.281
+3.453
+343
+21.757
+20.511
+1.058
+188
+75.152
+67.416
+6.096
+1.640
+334.505
+279.012
+42.048
+13.445
+48.516
+43.099
+4.418
+999
+39.223
+32.944
+5.347
+932
+21.185
+19.366
+1.434
+385
+100.685
+83.735
+10.558
+6.392
+37.194
+34.395
+2.217
+582
+46.227
+41.749
+3.444
+1.034
+32.350
+28.539
+3.016
+795
+107.976
+86.600
+17.639
+3.737
+70.542
+57.848
+9.372
+3.322
+15.882
+13.331
+2.303
+248
+(continúa)
+Total
+24 partidos del Gran Buenos Aires
+Almirante Brown
+Avellaneda
+Berazategui
+Esteban Echeverría
+Ezeiza
+Morón
+Quilmes
+San Fernando
+San Isidro
+Adolfo Gonzales Chaves
+Alberti
+Arrecifes
+Ayacucho
+Azul
+Adolfo Alsina
+Bolívar
+Bragado
+Brandsen
+Campana
+Cañuelas
+Bahía Blanca
+Provincia de Buenos Aires. Población en viviendas particulares por lugar de nacimiento, según 
+partido. Año 2022
+Partido
+Población
+en viviendas
+particulares
+Lugar de nacimiento
+Resto de partidos de la provincia
+de Buenos Aires
+Florencio Varela
+General San Martín
+Hurlingham
+Ituzaingó
+José C. Paz
+La Matanza
+Lanús
+Lomas de Zamora
+Malvinas Argentinas
+Merlo
+Moreno
+San Miguel
+Tigre
+Tres de Febrero
+Vicente López
+Balcarce
+Baradero
+Benito Juárez
+Berisso
+Capitán Sarmiento
+
+34
+34
+Cuadro 2.1
+En esta provincia
+En otra provincia
+Otro país
+22.905
+21.229
+1.419
+257
+14.007
+11.057
+2.411
+539
+17.345
+15.288
+1.822
+235
+9.551
+8.619
+789
+143
+52.409
+47.049
+4.001
+1.359
+42.191
+38.580
+2.878
+733
+70.554
+64.051
+4.990
+1.513
+27.406
+22.906
+4.112
+388
+65.823
+48.739
+15.918
+1.166
+15.795
+14.834
+763
+198
+24.110
+22.593
+1.194
+323
+41.713
+39.132
+2.158
+423
+18.328
+16.658
+1.316
+354
+31.405
+28.861
+2.029
+515
+63.978
+56.034
+5.992
+1.952
+256.071
+193.568
+49.064
+13.439
+40.036
+29.576
+8.557
+1.903
+10.759
+9.109
+1.488
+162
+45.307
+38.561
+5.866
+880
+10.150
+9.464
+608
+78
+16.231
+14.211
+1.828
+192
+20.674
+18.561
+1.725
+388
+3.157
+2.929
+183
+45
+22.566
+20.692
+1.354
+520
+11.535
+10.846
+576
+113
+17.980
+15.345
+2.298
+337
+4.846
+4.250
+469
+127
+14.141
+12.526
+1.361
+254
+12.842
+11.417
+1.267
+158
+660.569
+550.631
+89.994
+19.944
+142.315
+107.075
+21.999
+13.241
+22.530
+19.356
+2.589
+585
+35.055
+28.076
+6.356
+623
+11.662
+10.724
+802
+136
+10.581
+9.578
+851
+152
+100.964
+89.552
+9.397
+2.015
+100.400
+78.275
+15.965
+6.160
+756.074
+619.022
+80.540
+56.512
+11.496
+10.911
+514
+71
+27.136
+24.831
+1.953
+352
+17.153
+15.574
+1.434
+145
+6.170
+5.771
+282
+117
+45.191
+41.303
+3.494
+394
+18.106
+16.946
+1.021
+139
+41.418
+36.961
+3.569
+888
+110.111
+92.655
+14.547
+2.909
+22.653
+18.662
+3.347
+644
+(continúa)
+Colón
+Coronel de Marina Leonardo Rosales
+Coronel Dorrego
+Coronel Pringles
+Coronel Suárez
+Carmen de Areco
+Castelli
+Chacabuco
+Chascomús
+Chivilcoy
+Carlos Casares
+Carlos Tejedor
+(continuación)
+Población
+en viviendas
+particulares
+Lugar de nacimiento
+Florentino Ameghino
+General Alvarado
+General Alvear
+General Arenales
+General Belgrano
+Daireaux
+Dolores
+Ensenada
+Escobar
+Exaltación de la Cruz
+General Paz
+General Pinto
+General Pueyrredón
+General Rodríguez
+General Viamonte
+General Guido
+General Juan Madariaga
+General La Madrid
+General Las Heras
+General Lavalle
+La Plata
+Laprida
+Las Flores
+Leandro N. Alem
+Lezama
+General Villegas
+Guaminí
+Hipólito Yrigoyen
+Junín
+La Costa
+Lincoln
+Lobería
+Lobos
+Luján
+Magdalena
+Partido
+
+35
+35
+CNPHV 2022 - Migraciones. Resultados definitivos 
+Cuadro 2.1
+En esta provincia
+En otra provincia
+Otro país
+11.253
+10.714
+462
+77
+32.973
+28.220
+3.959
+794
+64.761
+52.115
+9.676
+2.970
+71.002
+61.082
+8.458
+1.462
+24.616
+20.419
+3.415
+782
+8.444
+7.183
+947
+314
+19.888
+18.261
+1.316
+311
+101.483
+92.403
+7.271
+1.809
+52.366
+48.356
+3.343
+667
+122.011
+112.531
+7.311
+2.169
+37.499
+25.642
+10.612
+1.245
+44.594
+40.303
+3.621
+670
+7.112
+5.901
+1.120
+91
+114.988
+98.564
+14.645
+1.779
+4.615
+3.967
+509
+139
+393.614
+283.352
+80.659
+29.603
+39.224
+26.811
+7.768
+4.645
+101.994
+77.231
+15.763
+9.000
+16.391
+14.038
+2.045
+308
+12.161
+9.895
+1.885
+381
+39.648
+33.760
+5.534
+354
+16.491
+15.504
+789
+198
+19.735
+16.204
+3.265
+266
+25.619
+22.737
+2.604
+278
+13.901
+12.080
+1.644
+177
+21.407
+19.063
+1.988
+356
+35.423
+32.680
+2.058
+685
+9.344
+8.541
+698
+105
+39.257
+32.809
+5.694
+754
+26.399
+22.922
+2.928
+549
+26.695
+22.305
+3.805
+585
+8.918
+8.226
+602
+90
+166.657
+132.823
+30.898
+2.936
+68.353
+59.882
+7.778
+693
+97.929
+79.620
+13.533
+4.776
+11.736
+10.606
+1.003
+127
+144.678
+129.556
+12.499
+2.623
+10.695
+9.823
+722
+150
+2.528
+2.320
+183
+25
+14.591
+12.695
+1.511
+385
+49.128
+43.573
+4.943
+612
+61.889
+58.188
+2.867
+834
+9.090
+8.100
+870
+120
+35.411
+32.693
+2.276
+442
+37.325
+28.123
+6.527
+2.675
+32.552
+25.355
+4.010
+3.187
+131.415
+109.224
+19.395
+2.796
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Maipú
+Mar Chiquita
+Marcos Paz
+Mercedes
+Monte
+Partido
+Patagones
+Pehuajó
+Pellegrini
+Pergamino
+Pila
+Monte Hermoso
+Navarro
+Necochea
+9 de Julio
+Olavarría
+Salto
+San Andrés de Giles
+Ramallo
+Rauch
+Rivadavia
+Rojas
+Roque Pérez
+Pilar
+Pinamar
+Presidente Perón
+Puan
+Punta Indio
+Población
+en viviendas
+particulares
+Lugar de nacimiento
+(conclusión)
+Villarino
+Zárate
+Trenque Lauquen
+Tres Arroyos
+Tres Lomas
+25 de Mayo
+Villa Gesell
+Suipacha
+Tandil
+Tapalqué
+Tordillo
+Tornquist
+San Antonio de Areco
+San Cayetano
+San Nicolás
+San Pedro
+San Vicente
+Saavedra
+Saladillo
+Salliqueló
+
+36
+36
+Cuadro 2.2
+Hasta 1999
+De 2000 a 2009 De 2010 a 2019 De 2020 a 2022
+Ignorado(1)
+994.653
+337.501
+202.148
+191.658
+24.079
+239.267
+814.205
+259.819
+191.398
+177.519
+22.483
+162.986
+654.711
+235.706
+162.567
+107.370
+11.229
+137.839
+161.935
+48.041
+42.300
+30.106
+2.895
+38.593
+12.358
+3.529
+1.623
+3.340
+1.632
+2.234
+35.741
+25.076
+1.109
+1.752
+648
+7.156
+388.265
+119.527
+114.084
+69.507
+5.599
+79.548
+56.412
+39.533
+3.451
+2.665
+455
+10.308
+159.494
+24.113
+28.831
+70.149
+11.254
+25.147
+13.972
+665
+1.221
+7.383
+1.352
+3.351
+76.778
+19.589
+23.277
+18.025
+1.891
+13.996
+52.439
+784
+609
+38.816
+6.355
+5.875
+16.305
+3.075
+3.724
+5.925
+1.656
+1.925
+84.871
+64.982
+3.360
+4.465
+589
+11.475
+24.345
+17.143
+1.441
+2.520
+223
+3.018
+47.196
+39.342
+591
+672
+64
+6.527
+13.330
+8.497
+1.328
+1.273
+302
+1.930
+12.523
+2.955
+2.787
+3.727
+187
+2.867
+1.218
+312
+142
+497
+49
+218
+290
+125
+47
+61
+24
+33
+81.546
+9.308
+4.414
+5.389
+747
+61.688
+Asia
+Año de llegada al país
+Nota: No incluye hogares donde la única persona migrante es servicio doméstico o sus familiares
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+(1) La categoría Ignorado incluye a las personas no nativas cuyo país de nacimiento y/o año de llegada no fue especificado.
+Total
+América
+Países limítrofes
+Bolivia
+Brasil
+Chile
+Paraguay
+África
+Oceanía
+Ignorado(1)
+Colombia
+Provincia de Buenos Aires. Población en viviendas particulares nacida en otro país, por año de 
+llegada al país, según lugar de nacimiento. Año 2022
+Lugar de Nacimiento
+Población
+en viviendas
+particulares
+nacida en
+otro país
+Uruguay
+Países no limítrofes
+Italia
+Resto de Europa
+Perú
+Venezuela
+Resto de América
+Europa
+España
+
+37
+37
+CNPHV 2022 - Migraciones. Resultados definitivos 
+Nota: de acuerdo con la evaluación de calidad y consistencia de los resultados definitivos, y para cumplir con los estándares de calidad 
+estadística requeridos por el INDEC, la categoría X de las respuestas a la pregunta por sexo registrado al nacer se distribuye entre las 
+categorías Mujer/femenino y Varón/masculino.
+Fuente: INDEC, Censos nacionales de población 2010 y 2022.
+Catamarca
+Población en viviendas particulares por lugar de nacimiento, según sexo
+registrado al nacer. Año 2022
+Distribución de la población no nativa en viviendas particulares, según grupo
+de países seleccionados. Años 2010 y 2022
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+70,1
+29,9
+59,6
+40,4
+nacida en
+esta provincia
+nacida en
+otra provincia
+nacida en
+otro país
+Mujeres/femenino
+Varones/masculino
+363.459
+61.935
+2.231
+85,0%
+14,5%
+Porcentaje
+Censos
+2010
+2022
+49,0%
+51,0%
+48,4%
+51,6%
+49,2%
+50,8%
+0,5%
+Países limítrofes
+Países no limítrofes
+de América
+Bolivia, Brasil, Chile, 
+Paraguay y Uruguay.
+Colombia, Ecuador, 
+Perú, Venezuela y Resto 
+de América.
+
+38
+38
+Cuadro 3.1
+En esta provincia
+En otra provincia
+Otro país
+427.625
+363.459
+61.935
+2.231
+5.087
+4.563
+509
+15
+3.282
+2.858
+411
+13
+19.545
+16.490
+2.978
+77
+1.822
+1.676
+142
+4
+30.353
+27.692
+2.593
+68
+19.471
+16.381
+2.891
+199
+186.466
+162.090
+23.342
+1.034
+4.375
+2.718
+1.647
+10
+14.624
+12.816
+1.699
+109
+26.341
+19.814
+6.365
+162
+4.696
+3.953
+717
+26
+12.219
+10.099
+2.059
+61
+26.822
+21.815
+4.906
+101
+13.317
+9.320
+3.932
+65
+25.254
+22.074
+3.053
+127
+33.951
+29.100
+4.691
+160
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Total
+Ambato
+Ancasti
+Andalgalá
+Antofagasta de la Sierra
+Belén
+Capayán
+El Alto
+Fray Mamerto Esquiú
+La Paz
+Paclín
+Pomán
+Santa María
+Santa Rosa
+Tinogasta
+Valle Viejo
+Provincia de Catamarca. Población en viviendas particulares por lugar de nacimiento, según 
+departamento. Año 2022
+Departamento
+Población
+en viviendas
+particulares
+Lugar de nacimiento
+Capital
+
+39
+39
+CNPHV 2022 - Migraciones. Resultados definitivos 
+Cuadro 3.2
+Hasta 1999
+De 2000 a 2009 De 2010 a 2019 De 2020 a 2022
+Ignorado(1)
+2.231
+683
+281
+460
+77
+730
+1.488
+525
+241
+367
+68
+287
+887
+433
+145
+96
+18
+195
+458
+208
+88
+55
+5
+102
+61
+13
+10
+18
+4
+16
+133
+76
+15
+7
+1
+34
+125
+74
+18
+9
+3
+21
+110
+62
+14
+7
+5
+22
+601
+92
+96
+271
+50
+92
+196
+2
+15
+137
+15
+27
+233
+79
+59
+50
+7
+38
+91
+2
+1
+53
+15
+20
+81
+9
+21
+31
+13
+7
+166
+101
+15
+27
+4
+19
+67
+36
+7
+12
+4
+8
+51
+39
+0
+10
+0
+2
+48
+26
+8
+5
+0
+9
+76
+17
+7
+46
+1
+5
+16
+2
+4
+9
+0
+1
+1
+0
+0
+0
+0
+1
+484
+38
+14
+11
+4
+417
+Oceanía
+Ignorado(1)
+(1) La categoría Ignorado incluye a las personas no nativas cuyo país de nacimiento y/o año de llegada no fue especificado.
+Nota: No incluye hogares donde la única persona migrante es servicio doméstico o sus familiares
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Colombia
+Perú
+Total
+América
+Países limítrofes
+Bolivia
+Brasil
+Asia
+África
+Resto de Europa
+Provincia de Catamarca. Población en viviendas particulares nacida en otro país, por año de 
+llegada al país, según lugar de nacimiento. Año 2022
+Lugar de Nacimiento
+Población
+en viviendas
+particulares
+nacida en
+otro país
+Uruguay
+Año de llegada al país
+Venezuela
+Resto de América
+Europa
+España
+Italia
+Chile
+Paraguay
+Países no limítrofes
+
+40
+40
+Nota: de acuerdo con la evaluación de calidad y consistencia de los resultados definitivos, y para cumplir con los estándares de calidad 
+estadística requeridos por el INDEC, la categoría X de las respuestas a la pregunta por sexo registrado al nacer se distribuye entre las 
+categorías Mujer/femenino y Varón/masculino.
+Fuente: INDEC, Censos nacionales de población 2010 y 2022.
+Chaco
+Población en viviendas particulares por lugar de nacimiento, según sexo
+registrado al nacer. Año 2022
+Distribución de la población no nativa en viviendas particulares, según grupo
+de países seleccionados. Años 2010 y 2022
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+90,7
+9,3
+73,9
+26,1
+nacida en
+esta provincia
+nacida en
+otra provincia
+nacida en
+otro país
+Mujeres/femenino
+Varones/masculino
+1.025.532
+93.082
+5.989
+91,2%
+8,3%
+Porcentaje
+Censos
+2010
+2022
+48,4%
+51,6%
+47,8%
+52,2%
+47,5%
+52,5%
+0,5%
+Países limítrofes
+Países no limítrofes
+de América
+Bolivia, Brasil, Chile, 
+Paraguay y Uruguay.
+Colombia, Ecuador, 
+Perú, Venezuela y Resto 
+de América.
+
+41
+41
+CNPHV 2022 - Migraciones. Resultados definitivos 
+Cuadro 4.1
+En esta provincia
+En otra provincia
+Otro país
+1.124.603
+1.025.532
+93.082
+5.989
+37.794
+32.584
+5.102
+108
+28.060
+24.880
+2.802
+378
+34.493
+31.211
+3.188
+94
+101.086
+92.987
+7.757
+342
+23.179
+20.925
+2.200
+54
+8.310
+7.636
+652
+22
+10.643
+9.676
+951
+16
+12.807
+12.057
+722
+28
+15.061
+14.093
+911
+57
+68.429
+64.510
+3.714
+205
+21.948
+20.524
+1.328
+96
+13.775
+12.666
+1.053
+56
+65.304
+61.244
+3.744
+316
+26.354
+25.082
+1.223
+49
+59.798
+55.850
+3.771
+177
+30.223
+27.526
+2.573
+124
+21.544
+20.546
+944
+54
+13.938
+13.120
+783
+35
+14.265
+12.841
+1.318
+106
+32.430
+30.936
+1.409
+85
+413.764
+367.012
+43.315
+3.437
+16.045
+15.207
+807
+31
+18.696
+17.540
+1.115
+41
+4.051
+3.722
+309
+20
+32.606
+31.157
+1.391
+58
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Total
+Almirante Brown
+Bermejo
+Chacabuco
+Comandante Fernández
+12 de Octubre
+2 de Abril
+General Belgrano
+General Donovan
+General Güemes
+Independencia
+Libertad
+Libertador General San Martín
+Maipú
+Mayor Luis J. Fontana
+Provincia del Chaco. Población en viviendas particulares por lugar de nacimiento, según 
+departamento. Año 2022
+Departamento
+Población
+en viviendas
+particulares
+Lugar de nacimiento
+Fray Justo Santa María de Oro
+9 de Julio
+O'Higgins
+Presidencia de la Plaza
+Tapenagá
+25 de Mayo
+1º de Mayo
+Quitilipi
+San Fernando
+San Lorenzo
+Sargento Cabral
+
+42
+42
+Cuadro 4.2
+Hasta 1999
+De 2000 a 2009 De 2010 a 2019 De 2020 a 2022
+Ignorado(1)
+5.989
+2.313
+655
+1.421
+198
+1.402
+4.542
+1.910
+523
+1.241
+167
+701
+3.358
+1.793
+431
+477
+65
+592
+160
+48
+26
+51
+11
+24
+170
+48
+30
+63
+10
+19
+117
+57
+11
+19
+2
+28
+2.750
+1.537
+356
+314
+40
+503
+161
+103
+8
+30
+2
+18
+1.184
+117
+92
+764
+102
+109
+670
+15
+29
+525
+40
+61
+125
+67
+22
+25
+1
+10
+176
+9
+1
+122
+22
+22
+213
+26
+40
+92
+39
+16
+385
+219
+33
+66
+6
+61
+147
+76
+19
+37
+2
+13
+77
+50
+7
+6
+3
+11
+161
+93
+7
+23
+1
+37
+175
+25
+53
+47
+2
+48
+19
+4
+5
+4
+0
+6
+2
+1
+0
+0
+1
+0
+866
+154
+41
+63
+22
+586
+(1) La categoría Ignorado incluye a las personas no nativas cuyo país de nacimiento y/o año de llegada no fue especificado.
+Nota: No incluye hogares donde la única persona migrante es servicio doméstico o sus familiares
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Venezuela
+Resto de América
+Ignorado(1)
+Europa
+Italia
+Resto de Europa
+Asia
+África
+Oceanía
+Provincia del Chaco. Población en viviendas particulares nacida en otro país, por año de llegada 
+al país, según lugar de nacimiento. Año 2022
+Lugar de Nacimiento
+Población
+en viviendas
+particulares
+nacida en
+otro país
+Año de llegada al país
+España
+Chile
+Paraguay
+Países no limítrofes
+Colombia
+Perú
+Total
+América
+Países limítrofes
+Bolivia
+Brasil
+Uruguay
+
+43
+43
+CNPHV 2022 - Migraciones. Resultados definitivos 
+Nota: de acuerdo con la evaluación de calidad y consistencia de los resultados definitivos, y para cumplir con los estándares de calidad 
+estadística requeridos por el INDEC, la categoría X de las respuestas a la pregunta por sexo registrado al nacer se distribuye entre las 
+categorías Mujer/femenino y Varón/masculino.
+Fuente: INDEC, Censos nacionales de población 2010 y 2022.
+Chubut
+Población en viviendas particulares por lugar de nacimiento, según sexo
+registrado al nacer. Año 2022
+Distribución de la población no nativa en viviendas particulares, según grupo
+de países seleccionados. Años 2010 y 2022
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+94,6
+5,4
+88,3
+11,7
+nacida en
+esta provincia
+nacida en
+otra provincia
+nacida en
+otro país
+Mujeres/femenino
+Varones/masculino
+413.880
+146.598
+28.976
+70,2%
+24,9%
+Porcentaje
+Censos
+2010
+2022
+49,0%
+51,0%
+49,9%
+50,1%
+45,8%
+54,2%
+4,9%
+Países limítrofes
+Países no limítrofes
+de América
+Bolivia, Brasil, Chile, 
+Paraguay y Uruguay.
+Colombia, Ecuador, 
+Perú, Venezuela y Resto 
+de América.
+
+44
+44
+Cuadro 5.1
+En esta provincia
+En otra provincia
+Otro país
+589.454
+413.880
+146.598
+28.976
+102.806
+58.143
+38.084
+6.579
+28.099
+16.230
+11.086
+783
+214.829
+149.074
+50.907
+14.848
+1.782
+1.454
+288
+40
+49.965
+38.781
+10.107
+1.077
+12.505
+10.427
+1.625
+453
+1.181
+1.038
+132
+11
+2.862
+2.642
+186
+34
+744
+661
+77
+6
+1.882
+1.760
+102
+20
+144.420
+111.095
+28.840
+4.485
+6.347
+5.003
+1.197
+147
+14.477
+10.866
+3.204
+407
+5.947
+5.306
+566
+75
+1.608
+1.400
+197
+11
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Total
+Biedma
+Cushamen
+Escalante
+Florentino Ameghino
+Futaleufú
+Gaiman
+Languiñeo
+Mártires
+Paso de Indios
+Rawson
+Río Senguer
+Sarmiento
+Tehuelches
+Telsen
+Provincia del Chubut. Población en viviendas particulares por lugar de nacimiento, según 
+departamento. Año 2022
+Departamento
+Población
+en viviendas
+particulares
+Lugar de nacimiento
+Gastre
+
+45
+45
+CNPHV 2022 - Migraciones. Resultados definitivos 
+Cuadro 5.2
+Hasta 1999
+De 2000 a 2009 De 2010 a 2019 De 2020 a 2022
+Ignorado(1)
+28.976
+14.808
+4.445
+4.966
+548
+4.209
+25.453
+13.364
+4.019
+4.501
+486
+3.083
+22.481
+13.088
+3.456
+2.816
+238
+2.883
+6.978
+1.844
+2.386
+1.734
+120
+894
+268
+68
+39
+88
+30
+43
+12.702
+10.420
+360
+227
+26
+1.669
+1.958
+389
+612
+715
+56
+186
+575
+367
+59
+52
+6
+91
+2.972
+276
+563
+1.685
+248
+200
+363
+14
+57
+221
+32
+39
+687
+132
+222
+239
+17
+77
+959
+25
+33
+732
+135
+34
+963
+105
+251
+493
+64
+50
+1.400
+1.000
+111
+172
+31
+86
+587
+400
+44
+87
+9
+47
+347
+290
+15
+20
+6
+16
+466
+310
+52
+65
+16
+23
+211
+45
+46
+89
+6
+25
+40
+9
+6
+22
+2
+1
+9
+2
+0
+4
+1
+2
+1.863
+388
+263
+178
+22
+1.012
+Países no limítrofes
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+África
+Oceanía
+Ignorado(1)
+(1) La categoría Ignorado incluye a las personas no nativas cuyo país de nacimiento y/o año de llegada no fue especificado.
+Nota: No incluye hogares donde la única persona migrante es servicio doméstico o sus familiares
+Resto de Europa
+Asia
+España
+Italia
+Colombia
+Perú
+Venezuela
+Resto de América
+Europa
+Provincia del Chubut. Población en viviendas particulares nacida en otro país, por año de llegada 
+al país, según lugar de nacimiento. Año 2022
+Lugar de Nacimiento
+Población
+en viviendas
+particulares
+nacida en
+otro país
+Uruguay
+Año de llegada al país
+Bolivia
+Brasil
+Total
+América
+Países limítrofes
+Chile
+Paraguay
+
+46
+46
+Nota: de acuerdo con la evaluación de calidad y consistencia de los resultados definitivos, y para cumplir con los estándares de calidad 
+estadística requeridos por el INDEC, la categoría X de las respuestas a la pregunta por sexo registrado al nacer se distribuye entre las 
+categorías Mujer/femenino y Varón/masculino.
+Fuente: INDEC, Censos nacionales de población 2010 y 2022.
+Córdoba
+Población en viviendas particulares por lugar de nacimiento, según sexo
+registrado al nacer. Año 2022
+Distribución de la población no nativa en viviendas particulares, según grupo
+de países seleccionados. Años 2010 y 2022
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+57,8
+42,2
+51,9
+48,1
+nacida en
+esta provincia
+nacida en
+otra provincia
+nacida en
+otro país
+Mujeres/femenino
+Varones/masculino
+3.216.243
+530.118
+65.703
+84,4%
+13,9%
+Porcentaje
+Censos
+2010
+2022
+48,2%
+51,8%
+48,5%
+51,5%
+46,8%
+53,2%
+1,7%
+Países limítrofes
+Países no limítrofes
+de América
+Bolivia, Brasil, Chile, 
+Paraguay y Uruguay.
+Colombia, Ecuador, 
+Perú, Venezuela y Resto 
+de América.
+
+47
+47
+CNPHV 2022 - Migraciones. Resultados definitivos 
+Cuadro 6.1
+En esta provincia
+En otra provincia
+Otro país
+3.812.064
+3.216.243
+530.118
+65.703
+75.462
+52.545
+21.130
+1.787
+1.498.060
+1.249.387
+207.993
+40.680
+294.511
+250.171
+40.722
+3.618
+64.748
+59.018
+5.338
+392
+36.064
+29.837
+6.015
+212
+152.397
+132.436
+17.775
+2.186
+36.023
+33.538
+2.324
+161
+68.317
+59.503
+8.305
+509
+107.286
+89.121
+17.308
+857
+4.855
+4.648
+200
+7
+5.070
+4.770
+270
+30
+37.551
+32.398
+4.947
+206
+219.494
+162.457
+53.202
+3.835
+277.979
+242.918
+32.326
+2.735
+58.181
+52.226
+4.937
+1.018
+15.275
+14.091
+1.128
+56
+113.311
+104.288
+8.377
+646
+42.029
+34.292
+7.346
+391
+62.700
+49.347
+12.426
+927
+228.951
+195.159
+32.482
+1.310
+139.012
+118.387
+18.846
+1.779
+4.381
+4.084
+279
+18
+120.207
+108.438
+10.551
+1.218
+22.473
+20.168
+2.137
+168
+14.092
+12.895
+1.148
+49
+113.635
+100.121
+12.606
+908
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Total
+Calamuchita
+Capital
+Colón
+Cruz del Eje
+General Roca
+General San Martín
+Juárez Celman
+Marcos Juárez
+Minas
+Pocho
+Presidente Roque Sáenz Peña
+Punilla
+Río Cuarto
+Río Primero
+Provincia de Córdoba. Población en viviendas particulares por lugar de nacimiento, según 
+departamento. Año 2022
+Departamento
+Población
+en viviendas
+particulares
+Lugar de nacimiento
+Ischilín
+Río Seco
+Río Segundo
+San Alberto
+Totoral
+Tulumba
+Unión
+San Javier
+San Justo
+Santa María
+Sobremonte
+Tercero Arriba
+
+48
+48
+Cuadro 6.2
+Hasta 1999
+De 2000 a 2009 De 2010 a 2019 De 2020 a 2022
+Ignorado(1)
+65.703
+16.654
+13.292
+21.539
+2.954
+11.264
+48.555
+11.597
+11.295
+18.431
+2.469
+4.763
+23.338
+7.854
+5.830
+5.798
+867
+2.989
+12.428
+3.411
+3.668
+3.333
+416
+1.600
+1.603
+472
+268
+516
+138
+209
+2.973
+1.758
+244
+459
+139
+373
+4.120
+982
+1.402
+1.220
+114
+402
+2.214
+1.231
+248
+270
+60
+405
+25.217
+3.743
+5.465
+12.633
+1.602
+1.774
+2.200
+103
+211
+1.364
+172
+350
+12.819
+2.919
+4.425
+4.190
+293
+992
+7.235
+145
+117
+5.816
+918
+239
+2.963
+576
+712
+1.263
+219
+193
+6.339
+3.490
+794
+1.371
+208
+476
+2.274
+1.001
+360
+680
+75
+158
+2.306
+1.651
+180
+262
+29
+184
+1.759
+838
+254
+429
+104
+134
+1.384
+494
+292
+366
+36
+196
+175
+54
+22
+73
+6
+20
+65
+26
+11
+17
+4
+7
+9.185
+993
+878
+1.281
+231
+5.802
+(1) La categoría Ignorado incluye a las personas no nativas cuyo país de nacimiento y/o año de llegada no fue especificado.
+Nota: No incluye hogares donde la única persona migrante es servicio doméstico o sus familiares
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Venezuela
+Resto de América
+Europa
+Ignorado(1)
+Italia
+Resto de Europa
+Asia
+África
+Oceanía
+Provincia de Córdoba. Población en viviendas particulares nacida en otro país, por año de 
+llegada al país, según lugar de nacimiento. Año 2022
+Lugar de Nacimiento
+Población
+en viviendas
+particulares
+nacida en
+otro país
+Año de llegada al país
+España
+Chile
+Paraguay
+Países no limítrofes
+Colombia
+Perú
+Total
+América
+Países limítrofes
+Bolivia
+Brasil
+Uruguay
+
+49
+49
+CNPHV 2022 - Migraciones. Resultados definitivos 
+Nota: de acuerdo con la evaluación de calidad y consistencia de los resultados definitivos, y para cumplir con los estándares de calidad 
+estadística requeridos por el INDEC, la categoría X de las respuestas a la pregunta por sexo registrado al nacer se distribuye entre las 
+categorías Mujer/femenino y Varón/masculino.
+Fuente: INDEC, Censos nacionales de población 2010 y 2022.
+Corrientes
+Población en viviendas particulares por lugar de nacimiento, según sexo
+registrado al nacer. Año 2022
+Distribución de la población no nativa en viviendas particulares, según grupo
+de países seleccionados. Años 2010 y 2022
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+93,4
+81,0
+19,0
+nacida en
+esta provincia
+nacida en
+otra provincia
+nacida en
+otro país
+Mujeres/femenino
+Varones/masculino
+1.052.341
+144.177
+13.153
+87,0%
+11,9%
+Porcentaje
+Censos
+2010
+2022
+48,5%
+51,5%
+48,5%
+51,5%
+47,2%
+52,8%
+1,1%
+Países limítrofes
+Países no limítrofes
+de América
+Bolivia, Brasil, Chile, 
+Paraguay y Uruguay.
+Colombia, Ecuador, 
+Perú, Venezuela y Resto 
+de América.
+6,6
+
+50
+50
+Cuadro 7.1
+En esta provincia
+En otra provincia
+Otro país
+1.209.671
+1.052.341
+144.177
+13.153
+44.369
+40.291
+3.709
+369
+2.808
+2.571
+197
+40
+437.446
+379.877
+52.994
+4.575
+26.270
+23.978
+2.045
+247
+51.489
+46.394
+4.812
+283
+17.948
+16.134
+1.713
+101
+39.168
+33.488
+5.241
+439
+9.051
+7.745
+1.183
+123
+17.016
+15.125
+1.722
+169
+106.223
+96.797
+8.828
+598
+11.946
+10.511
+1.095
+340
+38.767
+28.888
+9.187
+692
+40.406
+36.131
+3.462
+813
+11.541
+10.504
+968
+69
+49.807
+44.599
+4.890
+318
+45.602
+35.616
+9.459
+527
+56.778
+49.442
+6.460
+876
+29.126
+25.751
+3.117
+258
+19.679
+16.115
+3.254
+310
+21.381
+19.120
+2.025
+236
+15.164
+13.572
+1.481
+111
+12.700
+11.659
+962
+79
+22.682
+20.632
+1.891
+159
+71.922
+57.976
+12.574
+1.372
+10.382
+9.425
+908
+49
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Total
+Bella Vista
+Berón de Astrada
+Capital
+Concepción
+Curuzú Cuatiá
+Empedrado
+General Alvear
+General Paz
+Goya
+Itatí
+Ituzaingó
+Lavalle
+Mburucuyá
+Mercedes
+Provincia de Corrientes. Población en viviendas particulares por lugar de nacimiento, según 
+departamento. Año 2022
+Departamento
+Población
+en viviendas
+particulares
+Lugar de nacimiento
+Esquina
+Monte Caseros
+Paso de los Libres
+Saladas
+Santo Tomé
+Sauce
+San Cosme
+San Luis del Palmar
+San Martín
+San Miguel
+San Roque
+
+51
+51
+CNPHV 2022 - Migraciones. Resultados definitivos 
+Cuadro 7.2
+Hasta 1999
+De 2000 a 2009 De 2010 a 2019 De 2020 a 2022
+Ignorado(1)
+13.153
+3.193
+1.255
+2.985
+585
+5.135
+9.513
+2.825
+1.111
+2.626
+538
+2.413
+7.708
+2.670
+988
+1.765
+422
+1.863
+1.420
+308
+204
+389
+34
+485
+1.817
+410
+153
+699
+319
+236
+316
+113
+16
+41
+6
+140
+3.335
+1.453
+572
+563
+53
+694
+820
+386
+43
+73
+10
+308
+1.805
+155
+123
+861
+116
+550
+1.000
+16
+52
+530
+50
+352
+272
+104
+33
+30
+2
+103
+365
+4
+7
+240
+38
+76
+168
+31
+31
+61
+26
+19
+388
+200
+38
+97
+17
+36
+163
+51
+26
+61
+12
+13
+109
+83
+3
+11
+3
+9
+116
+66
+9
+25
+2
+14
+261
+51
+66
+88
+4
+52
+25
+7
+4
+6
+1
+7
+5
+1
+0
+1
+2
+1
+2.961
+109
+36
+167
+23
+2.626
+(1) La categoría Ignorado incluye a las personas no nativas cuyo país de nacimiento y/o año de llegada no fue especificado.
+Nota: No incluye hogares donde la única persona migrante es servicio doméstico o sus familiares
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Venezuela
+Resto de América
+Ignorado(1)
+Europa
+Italia
+Resto de Europa
+Asia
+África
+Oceanía
+Provincia de Corrientes. Población en viviendas particulares nacida en otro país, por año de 
+llegada al país, según lugar de nacimiento. Año 2022
+Lugar de Nacimiento
+Población
+en viviendas
+particulares
+nacida en
+otro país
+Año de llegada al país
+España
+Chile
+Paraguay
+Países no limítrofes
+Colombia
+Perú
+Total
+América
+Países limítrofes
+Bolivia
+Brasil
+Uruguay
+
+52
+52
+Nota: de acuerdo con la evaluación de calidad y consistencia de los resultados definitivos, y para cumplir con los estándares de calidad 
+estadística requeridos por el INDEC, la categoría X de las respuestas a la pregunta por sexo registrado al nacer se distribuye entre las 
+categorías Mujer/femenino y Varón/masculino.
+Fuente: INDEC, Censos nacionales de población 2010 y 2022.
+Entre Ríos 
+Población en viviendas particulares por lugar de nacimiento, según sexo
+registrado al nacer. Año 2022
+Distribución de la población no nativa en viviendas particulares, según grupo
+de países seleccionados. Años 2010 y 2022
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+86,8
+13,2
+77,2
+22,8
+nacida en
+esta provincia
+nacida en
+otra provincia
+nacida en
+otro país
+Mujeres/femenino
+Varones/masculino
+1.243.459
+157.284
+14.354
+87,9%
+11,1%
+Porcentaje
+Censos
+2010
+2022
+48,6%
+51,4%
+48,7%
+51,3%
+48,3%
+51,7%
+1,0%
+Países limítrofes
+Países no limítrofes
+de América
+Bolivia, Brasil, Chile, 
+Paraguay y Uruguay.
+Colombia, Ecuador, 
+Perú, Venezuela y Resto 
+de América.
+
+53
+53
+CNPHV 2022 - Migraciones. Resultados definitivos 
+Cuadro 8.1
+En esta provincia
+En otra provincia
+Otro país
+1.415.097
+1.243.459
+157.284
+14.354
+74.890
+60.316
+13.178
+1.396
+197.603
+176.427
+19.098
+2.078
+52.312
+43.137
+7.583
+1.592
+78.264
+67.280
+10.288
+696
+29.436
+27.036
+2.283
+117
+16.717
+15.204
+1.411
+102
+56.796
+50.753
+5.681
+362
+125.176
+107.425
+15.996
+1.755
+13.984
+10.920
+2.955
+109
+75.271
+68.203
+6.781
+287
+42.954
+38.487
+3.930
+537
+388.716
+347.973
+38.307
+2.436
+20.786
+19.013
+1.628
+145
+31.091
+27.141
+3.552
+398
+115.516
+99.917
+13.996
+1.603
+40.301
+34.618
+5.454
+229
+55.284
+49.609
+5.163
+512
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Total
+Colón
+Concordia
+Diamante
+Federación
+Federal
+Feliciano
+Gualeguaychú
+Islas del Ibicuy
+La Paz
+Nogoyá
+Paraná
+San Salvador
+Tala
+Uruguay
+Victoria
+Villaguay
+Provincia de Entre Ríos. Población en viviendas particulares por lugar de nacimiento, según 
+departamento. Año 2022
+Departamento
+Población
+en viviendas
+particulares
+Lugar de nacimiento
+Gualeguay
+
+54
+54
+Cuadro 8.2
+Hasta 1999
+De 2000 a 2009 De 2010 a 2019 De 2020 a 2022
+Ignorado(1)
+14.354
+4.216
+1.750
+3.491
+565
+4.332
+9.926
+3.480
+1.378
+2.821
+483
+1.764
+7.662
+3.275
+1.103
+1.685
+298
+1.301
+800
+118
+98
+311
+34
+239
+804
+166
+95
+317
+90
+136
+479
+213
+36
+51
+22
+157
+1.446
+486
+385
+339
+29
+207
+4.133
+2.292
+489
+667
+123
+562
+2.264
+205
+275
+1.136
+185
+463
+776
+18
+61
+382
+72
+243
+432
+108
+89
+111
+18
+106
+588
+17
+10
+422
+50
+89
+468
+62
+115
+221
+45
+25
+736
+358
+121
+174
+26
+57
+291
+105
+62
+94
+11
+19
+201
+142
+18
+28
+2
+11
+244
+111
+41
+52
+13
+27
+463
+82
+102
+179
+12
+88
+29
+11
+2
+9
+2
+5
+5
+1
+0
+1
+2
+1
+3.195
+284
+147
+307
+40
+2.417
+Ignorado(1)
+(1) La categoría Ignorado incluye a las personas no nativas cuyo país de nacimiento y/o año de llegada no fue especificado.
+Nota: No incluye hogares donde la única persona migrante es servicio doméstico o sus familiares
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Países no limítrofes
+Colombia
+Perú
+África
+Oceanía
+Resto de Europa
+Asia
+Venezuela
+Resto de América
+Europa
+España
+Italia
+Provincia de Entre Ríos. Población en viviendas particulares nacida en otro país, por año de 
+llegada al país, según lugar de nacimiento. Año 2022
+Lugar de Nacimiento
+Población
+en viviendas
+particulares
+nacida en
+otro país
+Uruguay
+Año de llegada al país
+Chile
+Paraguay
+Total
+América
+Países limítrofes
+Bolivia
+Brasil
+
+55
+55
+CNPHV 2022 - Migraciones. Resultados definitivos 
+Nota: de acuerdo con la evaluación de calidad y consistencia de los resultados definitivos, y para cumplir con los estándares de calidad 
+estadística requeridos por el INDEC, la categoría X de las respuestas a la pregunta por sexo registrado al nacer se distribuye entre las 
+categorías Mujer/femenino y Varón/masculino.
+Fuente: INDEC, Censos nacionales de población 2010 y 2022.
+Formosa
+Población en viviendas particulares por lugar de nacimiento, según sexo
+registrado al nacer. Año 2022
+Distribución de la población no nativa en viviendas particulares, según grupo
+de países seleccionados. Años 2010 y 2022
+nacida en
+esta provincia
+nacida en
+otra provincia
+nacida en
+otro país
+Mujeres/femenino
+Varones/masculino
+535.451
+52.948
+17.108
+88,4%
+8,7%
+Porcentaje
+Censos
+2010
+2022
+48,9%
+51,1%
+49,7%
+50,3%
+41,2%
+58,8%
+2,8%
+Países limítrofes
+Países no limítrofes
+de América
+Bolivia, Brasil, Chile, 
+Paraguay y Uruguay.
+Colombia, Ecuador, 
+Perú, Venezuela y Resto 
+de América.
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+99,2
+0,8
+96,6
+3,4
+
+56
+56
+Cuadro 9.1
+En esta provincia
+En otra provincia
+Otro país
+605.507
+535.451
+52.948
+17.108
+15.600
+14.048
+1.404
+148
+268.572
+237.792
+22.745
+8.035
+19.275
+17.149
+1.676
+450
+17.017
+15.072
+1.858
+87
+81.600
+73.761
+6.781
+1.058
+19.089
+17.401
+1.026
+662
+94.116
+80.348
+8.038
+5.730
+72.560
+63.031
+8.649
+880
+17.678
+16.849
+771
+58
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Total
+Bermejo
+Formosa
+Laishi
+Matacos
+Patiño
+Pilagás
+Pirané
+Ramón Lista
+Provincia de Formosa. Población en viviendas particulares por lugar de nacimiento, según 
+departamento. Año 2022
+Departamento
+Población
+en viviendas
+particulares
+Lugar de nacimiento
+Pilcomayo
+
+57
+57
+CNPHV 2022 - Migraciones. Resultados definitivos 
+Cuadro 9.2
+Hasta 1999
+De 2000 a 2009 De 2010 a 2019 De 2020 a 2022
+Ignorado(1)
+17.108
+8.812
+1.976
+2.214
+206
+3.900
+15.795
+8.606
+1.921
+2.137
+201
+2.930
+15.261
+8.558
+1.879
+1.831
+166
+2.827
+179
+60
+8
+34
+5
+72
+104
+36
+24
+23
+1
+20
+82
+35
+1
+12
+3
+31
+14.778
+8.377
+1.838
+1.752
+154
+2.657
+118
+50
+8
+10
+3
+47
+534
+48
+42
+306
+35
+103
+279
+2
+17
+179
+20
+61
+86
+31
+17
+15
+2
+21
+72
+4
+1
+44
+6
+17
+97
+11
+7
+68
+7
+4
+116
+64
+5
+24
+0
+23
+43
+20
+2
+15
+0
+6
+33
+20
+2
+6
+0
+5
+40
+24
+1
+3
+0
+12
+49
+14
+6
+14
+0
+15
+13
+1
+2
+7
+1
+2
+1
+1
+0
+0
+0
+0
+1.134
+126
+42
+32
+4
+930
+Europa
+España
+Italia
+Perú
+Venezuela
+Resto de América
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+África
+Oceanía
+Ignorado(1)
+(1) La categoría Ignorado incluye a las personas no nativas cuyo país de nacimiento y/o año de llegada no fue especificado.
+Nota: No incluye hogares donde la única persona migrante es servicio doméstico o sus familiares
+Resto de Europa
+Asia
+Provincia de Formosa. Población en viviendas particulares nacida en otro país, por año de 
+llegada al país, según lugar de nacimiento. Año 2022
+Lugar de Nacimiento
+Población
+en viviendas
+particulares
+nacida en
+otro país
+Año de llegada al país
+Total
+América
+Países limítrofes
+Bolivia
+Brasil
+Chile
+Paraguay
+Países no limítrofes
+Colombia
+Uruguay
+
+58
+58
+Nota: de acuerdo con la evaluación de calidad y consistencia de los resultados definitivos, y para cumplir con los estándares de calidad 
+estadística requeridos por el INDEC, la categoría X de las respuestas a la pregunta por sexo registrado al nacer se distribuye entre las 
+categorías Mujer/femenino y Varón/masculino.
+Fuente: INDEC, Censos nacionales de población 2010 y 2022.
+Jujuy
+Población en viviendas particulares por lugar de nacimiento, según sexo
+registrado al nacer. Año 2022
+Distribución de la población no nativa en viviendas particulares, según grupo
+de países seleccionados. Años 2010 y 2022
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+98,3
+1,7
+94,6
+5,4
+nacida en
+esta provincia
+nacida en
+otra provincia
+nacida en
+otro país
+Mujeres/femenino
+Varones/masculino
+659.681
+119.366
+30.317
+81,5%
+14,7%
+Porcentaje
+Censos
+2010
+2022
+48,7%
+51,3%
+47,9%
+52,1%
+44,4%
+55,6%
+3,7%
+Países limítrofes
+Países no limítrofes
+de América
+Bolivia, Brasil, Chile, 
+Paraguay y Uruguay.
+Colombia, Ecuador, 
+Perú, Venezuela y Resto 
+de América.
+
+59
+59
+CNPHV 2022 - Migraciones. Resultados definitivos 
+Cuadro 10.1
+En esta provincia
+En otra provincia
+Otro país
+809.364
+659.681
+119.366
+30.317
+14.998
+13.619
+1.123
+256
+319.469
+264.212
+45.003
+10.254
+122.259
+91.153
+24.013
+7.093
+20.877
+16.995
+3.260
+622
+94.132
+76.766
+13.563
+3.803
+65.522
+54.812
+9.212
+1.498
+1.797
+1.639
+118
+40
+6.729
+5.395
+1.137
+197
+88.237
+74.342
+11.512
+2.383
+20.497
+17.081
+2.728
+688
+2.641
+1.873
+449
+319
+3.966
+3.573
+349
+44
+14.621
+12.450
+1.645
+526
+5.298
+4.559
+620
+119
+2.490
+2.171
+242
+77
+25.831
+19.041
+4.392
+2.398
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Total
+Cochinoca
+Dr. Manuel Belgrano
+El Carmen
+Humahuaca
+Ledesma
+Palpalá
+San Antonio
+San Pedro
+Santa Bárbara
+Santa Catalina
+Susques
+Tilcara
+Tumbaya
+Valle Grande
+Yavi
+Provincia de Jujuy. Población en viviendas particulares por lugar de nacimiento, según 
+departamento. Año 2022
+Departamento
+Población
+en viviendas
+particulares
+Lugar de nacimiento
+Rinconada
+
+60
+60
+Cuadro 10.2
+Hasta 1999
+De 2000 a 2009 De 2010 a 2019 De 2020 a 2022
+Ignorado(1)
+30.317
+13.532
+3.234
+3.147
+358
+10.046
+26.090
+13.083
+3.154
+2.977
+334
+6.542
+24.682
+12.944
+3.040
+2.470
+241
+5.987
+23.373
+12.597
+2.941
+2.356
+210
+5.269
+212
+19
+21
+19
+3
+150
+421
+149
+15
+35
+11
+211
+361
+125
+52
+45
+10
+129
+315
+54
+11
+15
+7
+228
+1.408
+139
+114
+507
+93
+555
+478
+8
+17
+135
+13
+305
+400
+104
+67
+66
+8
+155
+339
+4
+3
+196
+52
+84
+191
+23
+27
+110
+20
+11
+266
+147
+22
+70
+7
+20
+131
+71
+11
+36
+3
+10
+69
+50
+4
+10
+1
+4
+66
+26
+7
+24
+3
+6
+82
+47
+4
+18
+6
+7
+24
+3
+2
+16
+2
+1
+1
+0
+1
+0
+0
+0
+3.854
+252
+51
+66
+9
+3.476
+Oceanía
+Ignorado(1)
+(1) La categoría Ignorado incluye a las personas no nativas cuyo país de nacimiento y/o año de llegada no fue especificado.
+Nota: No incluye hogares donde la única persona migrante es servicio doméstico o sus familiares
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Colombia
+Perú
+Total
+América
+Países limítrofes
+Bolivia
+Brasil
+Asia
+África
+Resto de Europa
+Provincia de Jujuy. Población en viviendas particulares nacida en otro país, por año de llegada 
+al país, según lugar de nacimiento. Año 2022
+Lugar de Nacimiento
+Población
+en viviendas
+particulares
+nacida en
+otro país
+Uruguay
+Año de llegada al país
+Venezuela
+Resto de América
+Europa
+España
+Italia
+Chile
+Paraguay
+Países no limítrofes
+
+61
+61
+CNPHV 2022 - Migraciones. Resultados definitivos 
+Nota: de acuerdo con la evaluación de calidad y consistencia de los resultados definitivos, y para cumplir con los estándares de calidad 
+estadística requeridos por el INDEC, la categoría X de las respuestas a la pregunta por sexo registrado al nacer se distribuye entre las 
+categorías Mujer/femenino y Varón/masculino.
+Fuente: INDEC, Censos nacionales de población 2010 y 2022.
+Población en viviendas particulares por lugar de nacimiento, según sexo
+registrado al nacer. Año 2022
+Distribución de la población no nativa en viviendas particulares, según grupo
+de países seleccionados. Años 2010 y 2022
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+75,0
+25,0
+67,9
+32,1
+nacida en
+esta provincia
+nacida en
+otra provincia
+nacida en
+otro país
+Mujeres/femenino
+Varones/masculino
+280.377
+75.315
+3.501
+78,1%
+21,0%
+Porcentaje
+Censos
+2010
+2022
+49,2%
+50,8%
+48,9%
+51,1%
+47,4%
+52,6%
+1,0%
+Países limítrofes
+Países no limítrofes
+de América
+Bolivia, Brasil, Chile, 
+Paraguay y Uruguay.
+Colombia, Ecuador, 
+Perú, Venezuela y Resto 
+de América.
+La Pampa
+
+62
+62
+Cuadro 11.1
+En esta provincia
+En otra provincia
+Otro país
+359.193
+280.377
+75.315
+3.501
+11.053
+8.475
+2.487
+91
+2.611
+774
+1.810
+27
+118.504
+95.816
+21.602
+1.086
+8.225
+6.265
+1.896
+64
+2.868
+2.126
+729
+13
+12.277
+8.829
+3.366
+82
+1.461
+1.001
+458
+2
+15.094
+12.892
+2.124
+78
+1.103
+668
+403
+32
+9.397
+6.792
+2.222
+383
+7.713
+5.991
+1.672
+50
+428
+266
+153
+9
+413
+371
+41
+1
+9.243
+8.133
+1.063
+47
+69.067
+53.290
+15.108
+669
+11.636
+6.536
+4.785
+315
+8.404
+6.947
+1.403
+54
+11.090
+8.715
+2.323
+52
+17.356
+12.964
+4.288
+104
+17.927
+14.097
+3.691
+139
+5.637
+4.676
+921
+40
+17.686
+14.753
+2.770
+163
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Total
+Atreucó
+Caleu Caleu
+Capital
+Catriló
+Chalileo
+Chapaleufú
+Conhelo
+Curacó
+Guatraché
+Hucal
+Lihuel Calel
+Limay Mahuida
+Realicó
+Toay
+Provincia de La Pampa. Población en viviendas particulares por lugar de nacimiento, según 
+departamento. Año 2022
+Departamento
+Población
+en viviendas
+particulares
+Lugar de nacimiento
+Chical Co
+Trenel
+Utracán
+Loventué
+Maracó
+Puelén
+Quemú Quemú
+Rancul
+
+63
+63
+CNPHV 2022 - Migraciones. Resultados definitivos 
+Cuadro 11.2
+Hasta 1999
+De 2000 a 2009 De 2010 a 2019 De 2020 a 2022
+Ignorado(1)
+3.501
+1.601
+596
+819
+136
+349
+2.820
+1.312
+498
+693
+114
+203
+1.914
+1.010
+376
+333
+41
+154
+483
+137
+151
+137
+17
+41
+93
+38
+18
+27
+6
+4
+766
+613
+41
+31
+9
+72
+414
+120
+151
+109
+6
+28
+158
+102
+15
+29
+3
+9
+906
+302
+122
+360
+73
+49
+100
+2
+16
+63
+13
+6
+86
+36
+24
+21
+0
+5
+268
+4
+1
+216
+46
+1
+452
+260
+81
+60
+14
+37
+370
+232
+45
+59
+15
+19
+194
+112
+25
+43
+5
+9
+106
+80
+9
+8
+3
+6
+70
+40
+11
+8
+7
+4
+137
+28
+37
+49
+2
+21
+12
+5
+3
+2
+2
+0
+1
+0
+1
+0
+0
+0
+161
+24
+12
+16
+3
+106
+Europa
+Nota: No incluye hogares donde la única persona migrante es servicio doméstico o sus familiares
+Total
+América
+Países limítrofes
+Bolivia
+Brasil
+Chile
+Paraguay
+Países no limítrofes
+Oceanía
+Uruguay
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Provincia de La Pampa. Población en viviendas particulares nacida en otro país, por año de 
+llegada al país, según lugar de nacimiento. Año 2022
+Lugar de Nacimiento
+Población
+en viviendas
+particulares
+nacida en
+otro país
+España
+Italia
+Resto de Europa
+Asia
+África
+Ignorado(1)
+Año de llegada al país
+(1) La categoría Ignorado incluye a las personas no nativas cuyo país de nacimiento y/o año de llegada no fue especificado.
+Colombia
+Perú
+Venezuela
+Resto de América
+
+64
+64
+Nota: de acuerdo con la evaluación de calidad y consistencia de los resultados definitivos, y para cumplir con los estándares de calidad 
+estadística requeridos por el INDEC, la categoría X de las respuestas a la pregunta por sexo registrado al nacer se distribuye entre las 
+categorías Mujer/femenino y Varón/masculino.
+Fuente: INDEC, Censos nacionales de población 2010 y 2022.
+Población en viviendas particulares por lugar de nacimiento, según sexo
+registrado al nacer. Año 2022
+Distribución de la población no nativa en viviendas particulares, según grupo
+de países seleccionados. Años 2010 y 2022
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+85,4
+14,6
+82,8
+17,2
+nacida en
+esta provincia
+nacida en
+otra provincia
+nacida en
+otro país
+Mujeres/femenino
+Varones/masculino
+307.154
+69.527
+5.772
+80,3%
+18,2%
+Porcentaje
+Censos
+2010
+2022
+48,9%
+51,1%
+48,0%
+52,0%
+48,0%
+52,0%
+1,5%
+Países limítrofes
+Países no limítrofes
+de América
+Bolivia, Brasil, Chile, 
+Paraguay y Uruguay.
+Colombia, Ecuador, 
+Perú, Venezuela y Resto 
+de América.
+La Rioja
+
+65
+65
+CNPHV 2022 - Migraciones. Resultados definitivos 
+Cuadro 12.1
+En esta provincia
+En otra provincia
+Otro país
+382.453
+307.154
+69.527
+5.772
+16.251
+13.458
+2.618
+175
+3.184
+2.906
+272
+6
+210.507
+165.746
+41.579
+3.182
+5.810
+4.168
+1.381
+261
+15.630
+12.904
+2.661
+65
+58.681
+47.141
+9.838
+1.702
+6.984
+6.019
+926
+39
+7.615
+6.153
+1.409
+53
+11.371
+10.013
+1.298
+60
+4.013
+3.436
+550
+27
+1.885
+1.637
+237
+11
+7.347
+6.184
+1.128
+35
+5.017
+4.213
+791
+13
+2.399
+2.147
+247
+5
+15.764
+12.454
+3.246
+64
+4.306
+3.654
+615
+37
+2.994
+2.434
+531
+29
+2.695
+2.487
+200
+8
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Total
+Arauco
+Ángel Vicente Peñaloza
+Capital
+Castro Barros
+Chamical
+Chilecito
+General Belgrano
+General Felipe Varela
+General Juan Facundo Quiroga
+General Lamadrid
+General Ortiz de Ocampo
+General San Martín
+Independencia
+Rosario Vera Peñaloza
+San Blas de los Sauces
+Sanagasta
+Vinchina
+Provincia de La Rioja. Población en viviendas particulares por lugar de nacimiento, según 
+departamento. Año 2022
+Departamento
+Población
+en viviendas
+particulares
+Lugar de nacimiento
+Famatina
+
+66
+66
+Cuadro 12.2
+Hasta 1999
+De 2000 a 2009 De 2010 a 2019 De 2020 a 2022
+Ignorado(1)
+5.772
+1.102
+938
+1.633
+553
+1.546
+4.787
+980
+911
+1.577
+542
+777
+3.962
+861
+779
+1.233
+452
+637
+2.372
+519
+712
+694
+47
+400
+953
+21
+23
+461
+394
+54
+338
+169
+15
+58
+7
+89
+144
+78
+21
+14
+0
+31
+155
+74
+8
+6
+4
+63
+825
+119
+132
+344
+90
+140
+336
+10
+10
+202
+54
+60
+271
+85
+102
+25
+5
+54
+87
+4
+2
+54
+10
+17
+131
+20
+18
+63
+21
+9
+137
+83
+9
+23
+4
+18
+60
+33
+6
+12
+1
+8
+42
+35
+0
+1
+0
+6
+35
+15
+3
+10
+3
+4
+64
+21
+11
+16
+1
+15
+13
+1
+2
+5
+3
+2
+1
+1
+0
+0
+0
+0
+770
+16
+5
+12
+3
+734
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Total
+América
+Países limítrofes
+Bolivia
+Brasil
+Chile
+Colombia
+Perú
+Venezuela
+(1) La categoría Ignorado incluye a las personas no nativas cuyo país de nacimiento y/o año de llegada no fue especificado.
+Nota: No incluye hogares donde la única persona migrante es servicio doméstico o sus familiares
+Oceanía
+Ignorado(1)
+Asia
+África
+Resto de Europa
+Provincia de La Rioja. Población en viviendas particulares nacida en otro país, por año de 
+llegada al país, según lugar de nacimiento. Año 2022
+Lugar de Nacimiento
+Población
+en viviendas
+particulares
+nacida en
+otro país
+Uruguay
+Año de llegada al país
+Paraguay
+Países no limítrofes
+Resto de América
+Europa
+España
+Italia
+
+67
+67
+CNPHV 2022 - Migraciones. Resultados definitivos 
+Nota: de acuerdo con la evaluación de calidad y consistencia de los resultados definitivos, y para cumplir con los estándares de calidad 
+estadística requeridos por el INDEC, la categoría X de las respuestas a la pregunta por sexo registrado al nacer se distribuye entre las 
+categorías Mujer/femenino y Varón/masculino.
+Fuente: INDEC, Censos nacionales de población 2010 y 2022.
+Población en viviendas particulares por lugar de nacimiento, según sexo
+registrado al nacer. Año 2022
+Distribución de la población no nativa en viviendas particulares, según grupo
+de países seleccionados. Años 2010 y 2022
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+83,7
+16,3
+77,4
+22,6
+nacida en
+esta provincia
+nacida en
+otra provincia
+nacida en
+otro país
+Mujeres/femenino
+Varones/masculino
+1.716.654
+247.529
+66.590
+84,5%
+12,2%
+Porcentaje
+Censos
+2010
+2022
+48,6%
+51,4%
+47,1%
+52,9%
+45,9%
+54,1%
+3,3%
+Países limítrofes
+Países no limítrofes
+de América
+Bolivia, Brasil, Chile, 
+Paraguay y Uruguay.
+Colombia, Ecuador, 
+Perú, Venezuela y Resto 
+de América.
+Mendoza
+
+68
+68
+Cuadro 13.1
+En esta provincia
+En otra provincia
+Otro país
+2.030.773
+1.716.654
+247.529
+66.590
+123.715
+95.432
+21.695
+6.588
+52.379
+44.739
+6.815
+825
+194.557
+167.662
+21.636
+5.259
+320.871
+269.901
+37.107
+13.863
+46.472
+40.423
+5.333
+716
+12.018
+10.820
+1.076
+122
+233.839
+197.341
+29.618
+6.880
+47.086
+40.826
+4.831
+1.429
+171.883
+141.267
+23.552
+7.064
+218.887
+182.590
+27.794
+8.503
+32.596
+29.608
+2.632
+356
+63.589
+57.649
+5.139
+801
+39.752
+33.775
+3.722
+2.255
+139.406
+120.153
+16.619
+2.634
+213.204
+183.599
+24.948
+4.657
+19.379
+17.728
+1.503
+148
+59.972
+49.902
+8.416
+1.654
+41.168
+33.239
+5.093
+2.836
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Total
+Capital
+General Alvear
+Godoy Cruz
+Guaymallén
+Junín
+La Paz
+Lavalle
+Luján de Cuyo
+Maipú
+Malargüe
+Rivadavia
+San Carlos
+San Martín
+San Rafael
+Santa Rosa
+Tunuyán
+Tupungato
+Provincia de Mendoza. Población en viviendas particulares por lugar de nacimiento, según 
+departamento. Año 2022
+Departamento
+Población
+en viviendas
+particulares
+Lugar de nacimiento
+Las Heras
+
+69
+69
+CNPHV 2022 - Migraciones. Resultados definitivos 
+Cuadro 13.2
+Hasta 1999
+De 2000 a 2009 De 2010 a 2019 De 2020 a 2022
+Ignorado(1)
+66.590
+27.374
+11.013
+12.090
+1.765
+14.348
+51.689
+22.351
+9.703
+10.496
+1.558
+7.581
+40.027
+20.191
+6.876
+5.756
+773
+6.431
+24.371
+9.268
+5.917
+4.630
+414
+4.142
+664
+140
+93
+178
+51
+202
+13.530
+10.261
+682
+753
+275
+1.559
+599
+218
+111
+104
+7
+159
+863
+304
+73
+91
+26
+369
+11.662
+2.160
+2.827
+4.740
+785
+1.150
+1.463
+61
+169
+744
+105
+384
+4.786
+1.542
+1.624
+1.081
+100
+439
+2.703
+68
+33
+2.046
+390
+166
+2.710
+489
+1.001
+869
+190
+161
+5.440
+3.526
+524
+893
+111
+386
+2.762
+1.651
+317
+579
+45
+170
+1.888
+1.532
+82
+120
+13
+141
+790
+343
+125
+194
+53
+75
+408
+231
+47
+75
+12
+43
+101
+25
+12
+55
+2
+7
+45
+19
+13
+9
+1
+3
+8.907
+1.222
+714
+562
+81
+6.328
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Total
+América
+Países limítrofes
+Bolivia
+Brasil
+Chile
+Colombia
+Perú
+Venezuela
+(1) La categoría Ignorado incluye a las personas no nativas cuyo país de nacimiento y/o año de llegada no fue especificado.
+Nota: No incluye hogares donde la única persona migrante es servicio doméstico o sus familiares
+Oceanía
+Ignorado(1)
+Asia
+África
+Resto de Europa
+Provincia de Mendoza. Población en viviendas particulares nacida en otro país, por año de 
+llegada al país, según lugar de nacimiento. Año 2022
+Lugar de Nacimiento
+Población
+en viviendas
+particulares
+nacida en
+otro país
+Uruguay
+Año de llegada al país
+Paraguay
+Países no limítrofes
+Resto de América
+Europa
+España
+Italia
+
+70
+70
+Nota: de acuerdo con la evaluación de calidad y consistencia de los resultados definitivos, y para cumplir con los estándares de calidad 
+estadística requeridos por el INDEC, la categoría X de las respuestas a la pregunta por sexo registrado al nacer se distribuye entre las 
+categorías Mujer/femenino y Varón/masculino.
+Fuente: INDEC, Censos nacionales de población 2010 y 2022.
+Población en viviendas particulares por lugar de nacimiento, según sexo
+registrado al nacer. Año 2022
+Distribución de la población no nativa en viviendas particulares, según grupo
+de países seleccionados. Años 2010 y 2022
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+98,3
+1,7
+94,2
+5,8
+nacida en
+esta provincia
+nacida en
+otra provincia
+nacida en
+otro país
+Mujeres/femenino
+Varones/masculino
+1.119.570
+114.750
+39.027
+87,9%
+9,0%
+Porcentaje
+Censos
+2010
+2022
+48,9%
+51,1%
+49,6%
+50,4%
+44,6%
+55,4%
+3,1%
+Países limítrofes
+Países no limítrofes
+de América
+Bolivia, Brasil, Chile, 
+Paraguay y Uruguay.
+Colombia, Ecuador, 
+Perú, Venezuela y Resto 
+de América.
+Misiones
+
+71
+71
+CNPHV 2022 - Migraciones. Resultados definitivos 
+Cuadro 14.1
+En esta provincia
+En otra provincia
+Otro país
+1.273.347
+1.119.570
+114.750
+39.027
+50.503
+42.985
+7.072
+446
+59.875
+55.527
+3.566
+782
+34.945
+30.537
+3.460
+948
+391.498
+332.180
+46.512
+12.806
+10.303
+9.271
+916
+116
+91.133
+79.817
+7.179
+4.137
+45.456
+40.855
+2.943
+1.658
+77.075
+71.679
+3.726
+1.670
+99.838
+82.608
+11.446
+5.784
+49.391
+45.707
+3.085
+599
+52.166
+45.982
+4.088
+2.096
+38.620
+33.581
+2.889
+2.150
+120.703
+110.620
+8.245
+1.838
+63.194
+57.077
+4.585
+1.532
+23.080
+20.848
+1.713
+519
+34.690
+32.195
+1.879
+616
+30.877
+28.101
+1.446
+1.330
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Total
+Apóstoles
+Cainguás
+Candelaria
+Capital
+Concepción
+Eldorado
+Guaraní
+Iguazú
+Leandro N. Alem
+Libertador General San Martín
+Montecarlo
+Oberá
+San Ignacio
+San Javier
+San Pedro
+25 de Mayo
+Provincia de Misiones. Población en viviendas particulares por lugar de nacimiento, según 
+departamento. Año 2022
+Departamento
+Población
+en viviendas
+particulares
+Lugar de nacimiento
+General Manuel Belgrano
+
+72
+72
+Cuadro 14.2
+Hasta 1999
+De 2000 a 2009 De 2010 a 2019 De 2020 a 2022
+Ignorado(1)
+39.027
+18.422
+5.125
+6.535
+999
+7.946
+34.579
+17.096
+4.659
+5.926
+861
+6.037
+32.582
+16.920
+4.498
+4.668
+671
+5.825
+254
+100
+30
+29
+12
+83
+8.584
+5.543
+450
+800
+186
+1.605
+341
+173
+30
+33
+25
+80
+22.944
+10.846
+3.959
+3.755
+433
+3.951
+459
+258
+29
+51
+15
+106
+1.997
+176
+161
+1.258
+190
+212
+1.054
+13
+46
+796
+81
+118
+230
+92
+43
+43
+9
+43
+359
+11
+8
+265
+46
+29
+354
+60
+64
+154
+54
+22
+883
+421
+117
+186
+74
+85
+180
+76
+23
+55
+13
+13
+116
+70
+11
+18
+11
+6
+587
+275
+83
+113
+50
+66
+500
+235
+89
+77
+8
+91
+22
+7
+3
+11
+1
+0
+8
+1
+2
+2
+0
+3
+3.035
+662
+255
+333
+55
+1.730
+Ignorado(1)
+(1) La categoría Ignorado incluye a las personas no nativas cuyo país de nacimiento y/o año de llegada no fue especificado.
+Nota: No incluye hogares donde la única persona migrante es servicio doméstico o sus familiares
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Países no limítrofes
+Colombia
+Perú
+África
+Oceanía
+Resto de Europa
+Asia
+Venezuela
+Resto de América
+Europa
+España
+Italia
+Provincia de Misiones. Población en viviendas particulares nacida en otro país, por año de 
+llegada al país, según lugar de nacimiento. Año 2022
+Lugar de Nacimiento
+Población
+en viviendas
+particulares
+nacida en
+otro país
+Uruguay
+Año de llegada al país
+Chile
+Paraguay
+Total
+América
+Países limítrofes
+Bolivia
+Brasil
+
+73
+73
+CNPHV 2022 - Migraciones. Resultados definitivos 
+Nota: de acuerdo con la evaluación de calidad y consistencia de los resultados definitivos, y para cumplir con los estándares de calidad 
+estadística requeridos por el INDEC, la categoría X de las respuestas a la pregunta por sexo registrado al nacer se distribuye entre las 
+categorías Mujer/femenino y Varón/masculino.
+Fuente: INDEC, Censos nacionales de población 2010 y 2022.
+Neuquén
+Población en viviendas particulares por lugar de nacimiento, según sexo
+registrado al nacer. Año 2022
+Distribución de la población no nativa en viviendas particulares, según grupo
+de países seleccionados. Años 2010 y 2022
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+96,2
+3,8
+81,9
+18,1
+nacida en
+esta provincia
+nacida en
+otra provincia
+nacida en
+otro país
+Mujeres/femenino
+Varones/masculino
+481.134
+188.077
+39.367
+67,9%
+26,5%
+Porcentaje
+Censos
+2010
+2022
+49,2%
+50,8%
+49,2%
+50,8%
+46,6%
+53,4%
+5,6%
+Países limítrofes
+Países no limítrofes
+de América
+Bolivia, Brasil, Chile, 
+Paraguay y Uruguay.
+Colombia, Ecuador, 
+Perú, Venezuela y Resto 
+de América.
+
+74
+74
+Cuadro 15.1
+En esta provincia
+En otra provincia
+Otro país
+708.578
+481.134
+188.077
+39.367
+10.173
+7.766
+2.060
+347
+18.150
+9.508
+7.526
+1.116
+2.641
+2.339
+219
+83
+18.289
+15.457
+2.534
+298
+4.832
+3.617
+1.083
+132
+467.217
+313.263
+123.668
+30.286
+20.853
+15.090
+5.112
+651
+39.567
+22.475
+14.992
+2.100
+7.696
+7.110
+486
+100
+15.502
+6.027
+8.500
+975
+9.267
+8.289
+870
+108
+5.572
+5.014
+501
+57
+29.721
+16.607
+11.810
+1.304
+5.087
+4.126
+819
+142
+8.471
+7.212
+1.108
+151
+45.540
+37.234
+6.789
+1.517
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Total
+Aluminé
+Añelo
+Catán Lil
+Chos Malal
+Collón Curá
+Confluencia
+Lácar
+Loncopué
+Los Lagos
+Minas
+Ñorquín
+Pehuenches
+Picún Leufú
+Picunches
+Zapala
+Provincia de Neuquén. Población en viviendas particulares por lugar de nacimiento, según 
+departamento. Año 2022
+Departamento
+Población
+en viviendas
+particulares
+Lugar de nacimiento
+Huiliches
+
+75
+75
+CNPHV 2022 - Migraciones. Resultados definitivos 
+Cuadro 15.2
+Hasta 1999
+De 2000 a 2009 De 2010 a 2019 De 2020 a 2022
+Ignorado(1)
+39.367
+19.663
+3.084
+6.577
+1.069
+8.974
+34.620
+18.553
+2.865
+6.090
+990
+6.122
+28.337
+18.237
+2.419
+2.164
+215
+5.302
+4.093
+1.059
+1.137
+1.005
+63
+829
+368
+80
+54
+121
+14
+99
+21.353
+16.391
+612
+454
+72
+3.824
+1.803
+324
+557
+531
+52
+339
+720
+383
+59
+53
+14
+211
+6.283
+316
+446
+3.926
+775
+820
+771
+22
+69
+385
+64
+231
+514
+138
+110
+114
+18
+134
+4.104
+37
+72
+3.013
+635
+347
+894
+119
+195
+414
+58
+108
+1.050
+658
+90
+176
+29
+97
+435
+235
+51
+99
+8
+42
+312
+251
+9
+21
+3
+28
+303
+172
+30
+56
+18
+27
+314
+68
+64
+113
+17
+52
+43
+21
+5
+7
+2
+8
+8
+1
+2
+5
+0
+0
+3.332
+362
+58
+186
+31
+2.695
+Oceanía
+Ignorado(1)
+(1) La categoría Ignorado incluye a las personas no nativas cuyo país de nacimiento y/o año de llegada no fue especificado.
+Nota: No incluye hogares donde la única persona migrante es servicio doméstico o sus familiares
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Colombia
+Perú
+Total
+América
+Países limítrofes
+Bolivia
+Brasil
+Asia
+África
+Resto de Europa
+Provincia de Neuquén. Población en viviendas particulares nacida en otro país, por año de 
+llegada al país, según lugar de nacimiento. Año 2022
+Lugar de Nacimiento
+Población
+en viviendas
+particulares
+nacida en
+otro país
+Uruguay
+Año de llegada al país
+Venezuela
+Resto de América
+Europa
+España
+Italia
+Chile
+Paraguay
+Países no limítrofes
+
+76
+76
+Nota: de acuerdo con la evaluación de calidad y consistencia de los resultados definitivos, y para cumplir con los estándares de calidad 
+estadística requeridos por el INDEC, la categoría X de las respuestas a la pregunta por sexo registrado al nacer se distribuye entre las 
+categorías Mujer/femenino y Varón/masculino.
+Fuente: INDEC, Censos nacionales de población 2010 y 2022.
+Población en viviendas particulares por lugar de nacimiento, según sexo
+registrado al nacer. Año 2022
+Distribución de la población no nativa en viviendas particulares, según grupo
+de países seleccionados. Años 2010 y 2022
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+97,0
+3,0
+92,2
+7,8
+nacida en
+esta provincia
+nacida en
+otra provincia
+nacida en
+otro país
+Mujeres/femenino
+Varones/masculino
+519.593
+187.278
+40.826
+69,5%
+25,0%
+Porcentaje
+Censos
+2010
+2022
+49,0%
+51,0%
+48,7%
+51,3%
+46,3%
+53,7%
+5,5%
+Países limítrofes
+Países no limítrofes
+de América
+Bolivia, Brasil, Chile, 
+Paraguay y Uruguay.
+Colombia, Ecuador, 
+Perú, Venezuela y Resto 
+de América.
+Río Negro
+
+77
+77
+CNPHV 2022 - Migraciones. Resultados definitivos 
+Cuadro 16.1
+En esta provincia
+En otra provincia
+Otro país
+747.697
+519.593
+187.278
+40.826
+63.845
+45.630
+16.457
+1.758
+41.160
+31.823
+7.090
+2.247
+161.443
+99.519
+51.382
+10.542
+7.398
+5.575
+1.339
+484
+6.960
+3.087
+3.499
+374
+379.627
+267.674
+88.793
+23.160
+3.682
+3.308
+351
+23
+1.452
+1.222
+225
+5
+16.493
+12.155
+3.484
+854
+9.309
+6.323
+2.660
+326
+35.473
+25.127
+9.533
+813
+4.300
+3.924
+343
+33
+16.555
+14.226
+2.122
+207
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Total
+Adolfo Alsina
+Avellaneda
+Bariloche
+Conesa
+El Cuy
+General Roca
+Ñorquinco
+Pichi Mahuida
+Pilcaniyeu
+San Antonio
+Valcheta
+25 de Mayo
+Provincia de Río Negro. Población en viviendas particulares por lugar de nacimiento, según 
+departamento. Año 2022
+Departamento
+Población
+en viviendas
+particulares
+Lugar de nacimiento
+9 de Julio
+
+78
+78
+Cuadro 16.2
+Hasta 1999
+De 2000 a 2009 De 2010 a 2019 De 2020 a 2022
+Ignorado(1)
+40.826
+26.325
+3.002
+4.653
+702
+6.144
+35.804
+24.202
+2.661
+4.059
+624
+4.258
+33.009
+23.912
+2.338
+2.417
+269
+4.073
+4.110
+1.200
+1.085
+1.189
+86
+550
+428
+119
+79
+152
+34
+44
+26.219
+21.848
+566
+468
+98
+3.239
+1.652
+335
+556
+535
+47
+179
+600
+410
+52
+73
+4
+61
+2.795
+290
+323
+1.642
+355
+185
+571
+17
+71
+343
+76
+64
+338
+112
+73
+85
+21
+47
+1.187
+32
+26
+898
+191
+40
+699
+129
+153
+316
+67
+34
+2.169
+1.492
+195
+296
+43
+143
+695
+455
+62
+126
+12
+40
+768
+652
+16
+38
+5
+57
+706
+385
+117
+132
+26
+46
+372
+161
+49
+112
+8
+42
+57
+17
+8
+27
+0
+5
+13
+5
+2
+4
+1
+1
+2.411
+448
+87
+155
+26
+1.695
+Oceanía
+Ignorado(1)
+(1) La categoría Ignorado incluye a las personas no nativas cuyo país de nacimiento y/o año de llegada no fue especificado.
+Nota: No incluye hogares donde la única persona migrante es servicio doméstico o sus familiares
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+España
+Italia
+Resto de Europa
+Asia
+África
+Provincia de Río Negro. Población en viviendas particulares nacida en otro país, por año de 
+llegada al país, según lugar de nacimiento. Año 2022
+Lugar de Nacimiento
+Población
+en viviendas
+particulares
+nacida en
+otro país
+Año de llegada al país
+Total
+América
+Países limítrofes
+Bolivia
+Brasil
+Chile
+Resto de América
+Europa
+Uruguay
+Paraguay
+Países no limítrofes
+Colombia
+Perú
+Venezuela
+
+79
+79
+CNPHV 2022 - Migraciones. Resultados definitivos 
+Nota: de acuerdo con la evaluación de calidad y consistencia de los resultados definitivos, y para cumplir con los estándares de calidad 
+estadística requeridos por el INDEC, la categoría X de las respuestas a la pregunta por sexo registrado al nacer se distribuye entre las 
+categorías Mujer/femenino y Varón/masculino.
+Fuente: INDEC, Censos nacionales de población 2010 y 2022.
+Salta
+Población en viviendas particulares por lugar de nacimiento, según sexo
+registrado al nacer. Año 2022
+Distribución de la población no nativa en viviendas particulares, según grupo
+de países seleccionados. Años 2010 y 2022
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+96,4
+3,6
+91,2
+8,8
+nacida en
+esta provincia
+nacida en
+otra provincia
+nacida en
+otro país
+Mujeres/femenino
+Varones/masculino
+1.250.229
+154.499
+29.497
+87,2%
+10,8%
+Porcentaje
+Censos
+2010
+2022
+48,7%
+51,3%
+48,1%
+51,9%
+45,7%
+54,3%
+2,1%
+Países limítrofes
+Países no limítrofes
+de América
+Bolivia, Brasil, Chile, 
+Paraguay y Uruguay.
+Colombia, Ecuador, 
+Perú, Venezuela y Resto 
+de América.
+
+80
+80
+Cuadro 17.1
+En esta provincia
+En otra provincia
+Otro país
+1.434.225
+1.250.229
+154.499
+29.497
+69.442
+60.679
+7.125
+1.638
+8.928
+8.500
+395
+33
+17.822
+15.786
+1.903
+133
+624.003
+530.603
+78.513
+14.887
+55.713
+49.876
+4.522
+1.315
+24.715
+22.952
+1.608
+155
+55.746
+46.006
+8.243
+1.497
+177.448
+159.923
+13.914
+3.611
+3.491
+3.317
+159
+15
+6.116
+5.090
+919
+107
+12.246
+10.196
+1.810
+240
+7.182
+5.371
+1.786
+25
+1.789
+1.658
+130
+1
+8.888
+8.132
+689
+67
+7.182
+6.506
+665
+11
+48.028
+41.761
+5.932
+335
+5.808
+5.659
+139
+10
+159.715
+140.452
+15.127
+4.136
+38.062
+36.492
+1.439
+131
+33.750
+30.256
+3.323
+171
+50.961
+45.556
+4.708
+697
+7.779
+7.298
+462
+19
+9.411
+8.160
+988
+263
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Total
+Anta
+Cachi
+Cafayate
+Capital
+Cerrillos
+Chicoana
+General José de San Martín
+Guachipas
+Iruya
+La Caldera
+La Candelaria
+La Poma
+La Viña
+Los Andes
+Provincia de Salta. Población en viviendas particulares por lugar de nacimiento, según 
+departamento. Año 2022
+Departamento
+Población
+en viviendas
+particulares
+Lugar de nacimiento
+General Güemes
+Rosario de Lerma
+San Carlos
+Santa Victoria
+Metán
+Molinos
+Orán
+Rivadavia
+Rosario de la Frontera
+
+81
+81
+CNPHV 2022 - Migraciones. Resultados definitivos 
+Cuadro 17.2
+Hasta 1999
+De 2000 a 2009 De 2010 a 2019 De 2020 a 2022
+Ignorado(1)
+29.497
+12.791
+3.624
+4.630
+792
+7.660
+24.754
+11.708
+3.298
+4.147
+699
+4.902
+22.566
+11.451
+3.055
+3.053
+504
+4.503
+20.271
+10.349
+2.816
+2.740
+418
+3.948
+273
+67
+35
+73
+25
+73
+1.037
+621
+59
+103
+36
+218
+608
+257
+113
+100
+15
+123
+377
+157
+32
+37
+10
+141
+2.188
+257
+243
+1.094
+195
+399
+737
+19
+47
+406
+57
+208
+448
+145
+101
+85
+9
+108
+548
+19
+8
+397
+66
+58
+455
+74
+87
+206
+63
+25
+1.017
+548
+137
+198
+28
+106
+415
+250
+38
+76
+4
+47
+224
+148
+20
+27
+5
+24
+378
+150
+79
+95
+19
+35
+505
+183
+93
+160
+29
+40
+37
+16
+6
+10
+4
+1
+11
+4
+1
+2
+3
+1
+3.173
+332
+89
+113
+29
+2.610
+Uruguay
+(1) La categoría Ignorado incluye a las personas no nativas cuyo país de nacimiento y/o año de llegada no fue especificado.
+Nota: No incluye hogares donde la única persona migrante es servicio doméstico o sus familiares
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Venezuela
+Resto de América
+Ignorado(1)
+Total
+América
+Países limítrofes
+Bolivia
+Brasil
+Provincia de Salta. Población en viviendas particulares nacida en otro país, por año de llegada 
+al país, según lugar de nacimiento. Año 2022
+Lugar de Nacimiento
+Población
+en viviendas
+particulares
+nacida en
+otro país
+Año de llegada al país
+Oceanía
+Europa
+España
+Italia
+África
+Resto de Europa
+Asia
+Chile
+Paraguay
+Países no limítrofes
+Colombia
+Perú
+
+82
+82
+Nota: de acuerdo con la evaluación de calidad y consistencia de los resultados definitivos, y para cumplir con los estándares de calidad 
+estadística requeridos por el INDEC, la categoría X de las respuestas a la pregunta por sexo registrado al nacer se distribuye entre las 
+categorías Mujer/femenino y Varón/masculino.
+Fuente: INDEC, Censos nacionales de población 2010 y 2022.
+San Juan
+Población en viviendas particulares por lugar de nacimiento, según sexo
+registrado al nacer. Año 2022
+Distribución de la población no nativa en viviendas particulares, según grupo
+de países seleccionados. Años 2010 y 2022
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+83,4
+16,6
+69,5
+30,5
+nacida en
+esta provincia
+nacida en
+otra provincia
+nacida en
+otro país
+Mujeres/femenino
+Varones/masculino
+739.212
+71.973
+8.260
+90,2%
+8,8%
+Porcentaje
+Censos
+2010
+2022
+48,7%
+51,3%
+47,9%
+52,1%
+49,2%
+50,8%
+1,0%
+Países limítrofes
+Países no limítrofes
+de América
+Bolivia, Brasil, Chile, 
+Paraguay y Uruguay.
+Colombia, Ecuador, 
+Perú, Venezuela y Resto 
+de América.
+
+83
+83
+CNPHV 2022 - Migraciones. Resultados definitivos 
+Cuadro 18.1
+En esta provincia
+En otra provincia
+Otro país
+819.445
+739.212
+71.973
+8.260
+31.281
+29.177
+1.953
+151
+10.172
+9.732
+394
+46
+10.667
+9.327
+1.245
+95
+114.849
+99.655
+12.949
+2.245
+44.017
+41.013
+2.852
+152
+103.772
+94.537
+8.648
+587
+8.826
+8.174
+604
+48
+25.269
+23.441
+1.709
+119
+12.498
+11.422
+948
+128
+72.879
+66.685
+5.315
+879
+136.582
+125.413
+9.980
+1.189
+101.334
+88.296
+11.803
+1.235
+15.037
+13.987
+914
+136
+62.697
+54.291
+7.620
+786
+27.188
+24.908
+1.952
+328
+6.454
+6.050
+379
+25
+8.425
+7.527
+855
+43
+20.824
+19.572
+1.212
+40
+6.674
+6.005
+641
+28
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Total
+Albardón
+Angaco
+Calingasta
+Capital
+Caucete
+Chimbas
+Jáchal
+9 de Julio
+Pocito
+Rawson
+Rivadavia
+San Martín
+Zonda
+Santa Lucía
+Sarmiento
+Ullum
+Valle Fértil
+25 de Mayo
+Provincia de San Juan. Población en viviendas particulares por lugar de nacimiento, según 
+departamento. Año 2022
+Departamento
+Población
+en viviendas
+particulares
+Lugar de nacimiento
+Iglesia
+
+84
+84
+Cuadro 18.2
+Hasta 1999
+De 2000 a 2009 De 2010 a 2019 De 2020 a 2022
+Ignorado(1)
+8.260
+2.499
+800
+1.476
+284
+3.201
+4.666
+1.648
+607
+1.094
+217
+1.100
+3.244
+1.459
+469
+487
+73
+756
+1.146
+230
+334
+285
+28
+269
+166
+36
+25
+36
+9
+60
+1.544
+1.056
+84
+129
+27
+248
+145
+59
+17
+16
+3
+50
+243
+78
+9
+21
+6
+129
+1.422
+189
+138
+607
+144
+344
+408
+14
+23
+152
+34
+185
+252
+79
+45
+42
+22
+64
+404
+13
+6
+272
+47
+66
+358
+83
+64
+141
+41
+29
+1.040
+637
+95
+190
+23
+95
+727
+435
+70
+152
+5
+65
+210
+155
+9
+14
+7
+25
+103
+47
+16
+24
+11
+5
+122
+41
+20
+39
+7
+15
+48
+6
+5
+30
+2
+5
+5
+0
+2
+3
+0
+0
+2.379
+167
+71
+120
+35
+1.986
+Ignorado(1)
+Nota: No incluye hogares donde la única persona migrante es servicio doméstico o sus familiares
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+(1) La categoría Ignorado incluye a las personas no nativas cuyo país de nacimiento y/o año de llegada no fue especificado.
+Venezuela
+Resto de América
+Europa
+Oceanía
+España
+Resto de Europa
+Asia
+África
+Provincia de San Juan. Población en viviendas particulares nacida en otro país, por año de 
+llegada al país, según lugar de nacimiento. Año 2022
+Lugar de Nacimiento
+Población
+en viviendas
+particulares
+nacida en
+otro país
+Año de llegada al país
+Italia
+Chile
+Paraguay
+Países no limítrofes
+Colombia
+Perú
+Total
+América
+Países limítrofes
+Bolivia
+Brasil
+Uruguay
+
+85
+85
+CNPHV 2022 - Migraciones. Resultados definitivos 
+Nota: de acuerdo con la evaluación de calidad y consistencia de los resultados definitivos, y para cumplir con los estándares de calidad 
+estadística requeridos por el INDEC, la categoría X de las respuestas a la pregunta por sexo registrado al nacer se distribuye entre las 
+categorías Mujer/femenino y Varón/masculino.
+Fuente: INDEC, Censos nacionales de población 2010 y 2022.
+San Luis
+Población en viviendas particulares por lugar de nacimiento, según sexo
+registrado al nacer. Año 2022
+Distribución de la población no nativa en viviendas particulares, según grupo
+de países seleccionados. Años 2010 y 2022
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+83,4
+16,6
+67,0
+33,0
+nacida en
+esta provincia
+nacida en
+otra provincia
+nacida en
+otro país
+Mujeres/femenino
+Varones/masculino
+383.105
+149.224
+8.219
+70,9%
+27,6%
+Porcentaje
+Censos
+2010
+2022
+49,1%
+50,9%
+48,4%
+51,6%
+47,5%
+52,5%
+1,5%
+Países limítrofes
+Países no limítrofes
+de América
+Bolivia, Brasil, Chile, 
+Paraguay y Uruguay.
+Colombia, Ecuador, 
+Perú, Venezuela y Resto 
+de América.
+
+86
+86
+Cuadro 19.1
+En esta provincia
+En otra provincia
+Otro país
+540.548
+383.105
+149.224
+8.219
+23.653
+17.534
+5.903
+216
+5.575
+4.114
+1.377
+84
+26.522
+18.319
+7.900
+303
+16.044
+12.749
+3.157
+138
+148.671
+113.083
+34.242
+1.346
+14.334
+9.840
+4.043
+451
+260.769
+184.786
+71.079
+4.904
+40.289
+18.509
+21.016
+764
+4.691
+4.171
+507
+13
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Total
+Ayacucho
+Belgrano
+Chacabuco
+Coronel Pringles
+General Pedernera
+Gobernador Dupuy
+Junín
+Libertador General San Martín
+Provincia de San Luis. Población en viviendas particulares por lugar de nacimiento, según 
+departamento. Año 2022
+Departamento
+Población
+en viviendas
+particulares
+Lugar de nacimiento
+Juan Martín de Pueyrredón
+
+87
+87
+CNPHV 2022 - Migraciones. Resultados definitivos 
+Cuadro 19.2
+Hasta 1999
+De 2000 a 2009 De 2010 a 2019 De 2020 a 2022
+Ignorado(1)
+8.219
+3.035
+1.022
+1.765
+228
+2.169
+5.846
+2.481
+825
+1.490
+197
+853
+3.919
+2.228
+571
+410
+58
+652
+1.211
+478
+303
+189
+32
+209
+162
+37
+30
+30
+7
+58
+1.630
+1.232
+59
+96
+11
+232
+491
+212
+148
+63
+6
+62
+425
+269
+31
+32
+2
+91
+1.927
+253
+254
+1.080
+139
+201
+370
+7
+36
+217
+13
+97
+488
+180
+131
+93
+22
+62
+406
+6
+8
+331
+36
+25
+663
+60
+79
+439
+68
+17
+611
+369
+66
+115
+14
+47
+220
+111
+30
+55
+8
+16
+200
+159
+12
+15
+2
+12
+191
+99
+24
+45
+4
+19
+212
+45
+56
+83
+2
+26
+27
+10
+6
+7
+1
+3
+4
+1
+1
+1
+0
+1
+1.519
+129
+68
+69
+14
+1.239
+Europa
+España
+Italia
+Perú
+Venezuela
+Resto de América
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+África
+Oceanía
+Ignorado(1)
+(1) La categoría Ignorado incluye a las personas no nativas cuyo país de nacimiento y/o año de llegada no fue especificado.
+Nota: No incluye hogares donde la única persona migrante es servicio doméstico o sus familiares
+Resto de Europa
+Asia
+Provincia de San Luis. Población en viviendas particulares nacida en otro país, por año de 
+llegada al país, según lugar de nacimiento. Año 2022
+Lugar de Nacimiento
+Población
+en viviendas
+particulares
+nacida en
+otro país
+Año de llegada al país
+Total
+América
+Países limítrofes
+Bolivia
+Brasil
+Chile
+Paraguay
+Países no limítrofes
+Colombia
+Uruguay
+
+88
+88
+Nota: de acuerdo con la evaluación de calidad y consistencia de los resultados definitivos, y para cumplir con los estándares de calidad 
+estadística requeridos por el INDEC, la categoría X de las respuestas a la pregunta por sexo registrado al nacer se distribuye entre las 
+categorías Mujer/femenino y Varón/masculino.
+Fuente: INDEC, Censos nacionales de población 2010 y 2022.
+Santa Cruz
+Población en viviendas particulares por lugar de nacimiento, según sexo
+registrado al nacer. Año 2022
+Distribución de la población no nativa en viviendas particulares, según grupo
+de países seleccionados. Años 2010 y 2022
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+4,1
+92,7
+95,9
+7,3
+nacida en
+esta provincia
+nacida en
+otra provincia
+nacida en
+otro país
+Mujeres/femenino
+Varones/masculino
+182.642
+130.924
+22.111
+54,4%
+39,0%
+Porcentaje
+Censos
+2010
+2022
+49,5%
+50,5%
+50,4%
+49,6%
+43,2%
+56,8%
+6,6%
+Países limítrofes
+Países no limítrofes
+de América
+Bolivia, Brasil, Chile, 
+Paraguay y Uruguay.
+Colombia, Ecuador, 
+Perú, Venezuela y Resto 
+de América.
+
+89
+89
+CNPHV 2022 - Migraciones. Resultados definitivos 
+Cuadro 20.1
+En esta provincia
+En otra provincia
+Otro país
+335.677
+182.642
+130.924
+22.111
+15.035
+7.162
+7.257
+616
+126.266
+69.767
+48.972
+7.527
+137.309
+79.319
+47.468
+10.522
+25.384
+9.644
+14.324
+1.416
+12.584
+6.428
+5.213
+943
+12.828
+6.747
+5.415
+666
+6.271
+3.575
+2.275
+421
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Total
+Corpen Aike
+Deseado
+Güer Aike
+Lago Argentino
+Lago Buenos Aires
+Magallanes
+Provincia de Santa Cruz. Población en viviendas particulares por lugar de nacimiento, según 
+departamento. Año 2022
+Departamento
+Población
+en viviendas
+particulares
+Lugar de nacimiento
+Río Chico
+
+90
+90
+Cuadro 20.2
+Hasta 1999
+De 2000 a 2009 De 2010 a 2019 De 2020 a 2022
+Ignorado(1)
+22.111
+12.396
+2.903
+2.720
+272
+3.820
+19.898
+11.939
+2.751
+2.524
+252
+2.432
+18.440
+11.804
+2.481
+1.755
+151
+2.249
+3.910
+961
+1.449
+1.004
+84
+412
+163
+46
+32
+35
+6
+44
+12.616
+10.289
+442
+274
+26
+1.585
+1.469
+353
+525
+428
+32
+131
+282
+155
+33
+14
+3
+77
+1.458
+135
+270
+769
+101
+183
+193
+2
+18
+99
+10
+64
+338
+97
+111
+79
+12
+39
+383
+5
+7
+287
+55
+29
+544
+31
+134
+304
+24
+51
+295
+183
+25
+56
+6
+25
+142
+79
+10
+33
+4
+16
+74
+61
+6
+3
+1
+3
+79
+43
+9
+20
+1
+6
+54
+16
+5
+16
+3
+14
+8
+1
+2
+5
+0
+0
+3
+2
+1
+0
+0
+0
+1.853
+255
+119
+119
+11
+1.349
+(1) La categoría Ignorado incluye a las personas no nativas cuyo país de nacimiento y/o año de llegada no fue especificado.
+Nota: No incluye hogares donde la única persona migrante es servicio doméstico o sus familiares
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Resto de Europa
+Asia
+África
+Oceanía
+Ignorado(1)
+Italia
+Provincia de Santa Cruz. Población en viviendas particulares nacida en otro país, por año de 
+llegada al país, según lugar de nacimiento. Año 2022
+Lugar de Nacimiento
+Población
+en viviendas
+particulares
+nacida en
+otro país
+Año de llegada al país
+Total
+América
+Países limítrofes
+Bolivia
+Brasil
+Chile
+Paraguay
+Uruguay
+Venezuela
+Países no limítrofes
+Colombia
+Perú
+Resto de América
+Europa
+España
+
+91
+91
+CNPHV 2022 - Migraciones. Resultados definitivos 
+Nota: de acuerdo con la evaluación de calidad y consistencia de los resultados definitivos, y para cumplir con los estándares de calidad 
+estadística requeridos por el INDEC, la categoría X de las respuestas a la pregunta por sexo registrado al nacer se distribuye entre las 
+categorías Mujer/femenino y Varón/masculino.
+Fuente: INDEC, Censos nacionales de población 2010 y 2022.
+Población en viviendas particulares por lugar de nacimiento, según sexo
+registrado al nacer. Año 2022
+Distribución de la población no nativa en viviendas particulares, según grupo
+de países seleccionados. Años 2010 y 2022
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+44,9
+55,1
+64,6
+35,4
+nacida en
+esta provincia
+nacida en
+otra provincia
+nacida en
+otro país
+Mujeres/femenino
+Varones/masculino
+3.024.215
+445.982
+48.862
+85,9%
+12,7%
+Porcentaje
+Censos
+2010
+2022
+48,4%
+51,6%
+46,5%
+53,5%
+46,9%
+53,1%
+1,4%
+Países limítrofes
+Países no limítrofes
+de América
+Bolivia, Brasil, Chile, 
+Paraguay y Uruguay.
+Colombia, Ecuador, 
+Perú, Venezuela y Resto 
+de América.
+Santa Fe
+
+92
+92
+Cuadro 21.1
+En esta provincia
+En otra provincia
+Otro país
+3.519.059
+3.024.215
+445.982
+48.862
+48.544
+41.096
+6.919
+529
+86.261
+73.035
+12.622
+604
+189.464
+158.447
+29.993
+1.024
+93.000
+76.680
+15.483
+837
+24.853
+22.796
+1.843
+214
+200.455
+165.777
+32.812
+1.866
+197.533
+180.943
+15.548
+1.042
+73.636
+64.569
+8.560
+507
+568.259
+506.872
+55.798
+5.589
+114.730
+103.306
+10.738
+686
+30.942
+27.221
+3.652
+69
+1.337.958
+1.115.199
+190.263
+32.496
+72.593
+60.918
+11.390
+285
+33.180
+31.069
+2.016
+95
+84.617
+74.635
+9.506
+476
+46.486
+42.688
+3.627
+171
+193.786
+169.008
+23.001
+1.777
+67.299
+58.435
+8.447
+417
+55.463
+51.521
+3.764
+178
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Total
+Belgrano
+Caseros
+Castellanos
+Constitución
+Garay
+General López
+Iriondo
+La Capital
+Las Colonias
+9 de Julio
+Rosario
+San Cristóbal
+Vera
+San Javier
+San Jerónimo
+San Justo
+San Lorenzo
+San Martín
+Provincia de Santa Fe. Población en viviendas particulares por lugar de nacimiento, según 
+departamento. Año 2022
+Departamento
+Población
+en viviendas
+particulares
+Lugar de nacimiento
+General Obligado
+
+93
+93
+CNPHV 2022 - Migraciones. Resultados definitivos 
+Cuadro 21.2
+Hasta 1999
+De 2000 a 2009 De 2010 a 2019 De 2020 a 2022
+Ignorado(1)
+48.862
+13.809
+7.118
+13.562
+2.886
+11.487
+32.358
+8.471
+5.771
+11.392
+2.538
+4.186
+20.889
+6.307
+3.934
+6.000
+1.715
+2.933
+3.269
+1.056
+592
+801
+111
+709
+4.716
+413
+229
+2.490
+1.238
+346
+1.886
+1.075
+107
+226
+73
+405
+8.713
+2.450
+2.812
+2.280
+227
+944
+2.305
+1.313
+194
+203
+66
+529
+11.469
+2.164
+1.837
+5.392
+823
+1.253
+2.171
+53
+209
+1.245
+204
+460
+3.988
+1.469
+1.000
+961
+111
+447
+2.906
+88
+65
+2.171
+352
+230
+2.404
+554
+563
+1.015
+156
+116
+6.100
+4.116
+516
+898
+105
+465
+1.991
+1.037
+276
+504
+42
+132
+3.248
+2.679
+125
+182
+17
+245
+861
+400
+115
+212
+46
+88
+1.286
+313
+319
+420
+18
+216
+97
+17
+26
+38
+4
+12
+80
+48
+11
+11
+2
+8
+8.941
+844
+475
+803
+219
+6.600
+Ignorado(1)
+Nota: No incluye hogares donde la única persona migrante es servicio doméstico o sus familiares
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+(1) La categoría Ignorado incluye a las personas no nativas cuyo país de nacimiento y/o año de llegada no fue especificado.
+Venezuela
+Resto de América
+Europa
+Oceanía
+España
+Resto de Europa
+Asia
+África
+Provincia de Santa Fe. Población en viviendas particulares nacida en otro país, por año de 
+llegada al país, según lugar de nacimiento. Año 2022
+Lugar de Nacimiento
+Población
+en viviendas
+particulares
+nacida en
+otro país
+Año de llegada al país
+Italia
+Chile
+Paraguay
+Países no limítrofes
+Colombia
+Perú
+Total
+América
+Países limítrofes
+Bolivia
+Brasil
+Uruguay
+
+94
+94
+Nota: de acuerdo con la evaluación de calidad y consistencia de los resultados definitivos, y para cumplir con los estándares de calidad 
+estadística requeridos por el INDEC, la categoría X de las respuestas a la pregunta por sexo registrado al nacer se distribuye entre las 
+categorías Mujer/femenino y Varón/masculino.
+Fuente: INDEC, Censos nacionales de población 2010 y 2022.
+Población en viviendas particulares por lugar de nacimiento, según sexo
+registrado al nacer. Año 2022
+Distribución de la población no nativa en viviendas particulares, según grupo
+de países seleccionados. Años 2010 y 2022
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+53,0
+47,0
+53,5
+46,5
+nacida en
+esta provincia
+nacida en
+otra provincia
+nacida en
+otro país
+Mujeres/femenino
+Varones/masculino
+929.370
+123.102
+5.280
+87,9%
+11,6%
+Porcentaje
+Censos
+2010
+2022
+49,1%
+50,9%
+49,2%
+50,8%
+50,6%
+49,4%
+0,5%
+Países limítrofes
+Países no limítrofes
+de América
+Bolivia, Brasil, Chile, 
+Paraguay y Uruguay.
+Colombia, Ecuador, 
+Perú, Venezuela y Resto 
+de América.
+Santiago del Estero
+
+95
+95
+CNPHV 2022 - Migraciones. Resultados definitivos 
+Cuadro 22.1
+En esta provincia
+En otra provincia
+Otro país
+1.057.752
+929.370
+123.102
+5.280
+8.959
+7.412
+1.496
+51
+20.104
+18.040
+1.962
+102
+14.894
+13.601
+1.218
+75
+25.462
+23.404
+1.946
+112
+170.401
+155.445
+14.262
+694
+10.809
+8.122
+2.565
+122
+328.824
+295.578
+31.058
+2.188
+43.692
+37.104
+6.370
+218
+35.653
+29.634
+5.863
+156
+20.246
+18.701
+1.527
+18
+46.304
+42.092
+3.979
+233
+9.251
+7.351
+1.859
+41
+18.622
+12.501
+5.945
+176
+20.567
+19.006
+1.497
+64
+24.047
+22.000
+1.940
+107
+1.440
+1.240
+199
+1
+40.352
+36.036
+4.243
+73
+15.008
+11.803
+3.177
+28
+26.193
+19.544
+6.556
+93
+12.336
+9.136
+3.052
+148
+66.637
+54.646
+11.805
+186
+5.314
+2.530
+2.775
+9
+53.879
+48.361
+5.231
+287
+12.775
+11.762
+995
+18
+11.183
+10.329
+802
+52
+5.034
+4.735
+281
+18
+9.766
+9.257
+499
+10
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Total
+Aguirre
+Alberdi
+Atamisqui
+Avellaneda
+Banda
+Belgrano
+Choya
+Copo
+Figueroa
+General Taboada
+Guasayán
+Jiménez
+Juan Felipe Ibarra
+Loreto
+Provincia de Santiago del Estero. Población en viviendas particulares por lugar de nacimiento, 
+según departamento. Año 2022
+Departamento
+Población
+en viviendas
+particulares
+Lugar de nacimiento
+Capital
+Mitre
+Moreno
+Ojo de Agua
+Salavina
+San Martín
+Sarmiento
+Silípica
+Pellegrini
+Quebrachos
+Río Hondo
+Rivadavia
+Robles
+
+96
+96
+Cuadro 22.2
+Hasta 1999
+De 2000 a 2009 De 2010 a 2019 De 2020 a 2022
+Ignorado(1)
+5.280
+1.144
+399
+795
+90
+2.852
+2.674
+770
+276
+561
+72
+995
+1.430
+443
+133
+163
+21
+670
+345
+78
+30
+47
+8
+182
+187
+28
+13
+45
+3
+98
+253
+90
+19
+14
+2
+128
+374
+152
+59
+47
+5
+111
+271
+95
+12
+10
+3
+151
+1.244
+327
+143
+398
+51
+325
+372
+8
+14
+169
+21
+160
+245
+71
+55
+32
+3
+84
+211
+2
+1
+132
+19
+57
+416
+246
+73
+65
+8
+24
+309
+173
+35
+78
+6
+17
+119
+55
+12
+42
+3
+7
+102
+84
+4
+10
+1
+3
+88
+34
+19
+26
+2
+7
+244
+83
+37
+92
+2
+30
+26
+1
+4
+18
+2
+1
+2
+0
+1
+1
+0
+0
+2.025
+117
+46
+45
+8
+1.809
+Nota: No incluye hogares donde la única persona migrante es servicio doméstico o sus familiares
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Venezuela
+Resto de América
+Resto de Europa
+Asia
+Ignorado(1)
+Países limítrofes
+Bolivia
+Brasil
+Uruguay
+(1) La categoría Ignorado incluye a las personas no nativas cuyo país de nacimiento y/o año de llegada no fue especificado.
+Provincia de Santiago del Estero. Población en viviendas particulares nacida en otro país, por 
+año de llegada al país, según lugar de nacimiento. Año 2022
+Lugar de Nacimiento
+Población
+en viviendas
+particulares
+nacida en
+otro país
+Año de llegada al país
+Oceanía
+Europa
+España
+Italia
+África
+Chile
+Paraguay
+Países no limítrofes
+Colombia
+Perú
+Total
+América
+
+97
+97
+CNPHV 2022 - Migraciones. Resultados definitivos 
+Nota: de acuerdo con la evaluación de calidad y consistencia de los resultados definitivos, y para cumplir con los estándares de calidad 
+estadística requeridos por el INDEC, la categoría X de las respuestas a la pregunta por sexo registrado al nacer se distribuye entre las 
+categorías Mujer/femenino y Varón/masculino.
+Fuente: INDEC, Censos nacionales de población 2010 y 2022.
+Tierra del Fuego, Antártida e Islas
+del Atlántico Sur
+Población en viviendas particulares por lugar de nacimiento, según sexo
+registrado al nacer. Año 2022
+Distribución de la población no nativa en viviendas particulares, según grupo
+de países seleccionados. Años 2010 y 2022
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+93,0
+7,0
+87,7
+12,3
+nacida en
+esta provincia
+nacida en
+otra provincia
+nacida en
+otro país
+Mujeres/femenino
+Varones/masculino
+78.510
+94.197
+12.251
+42,4%
+50,9%
+Porcentaje
+Censos
+2010
+2022
+49,9%
+50,1%
+49,9%
+50,1%
+45,5%
+54,5%
+6,6%
+Países limítrofes
+Países no limítrofes
+de América
+Bolivia, Brasil, Chile, 
+Paraguay y Uruguay.
+Colombia, Ecuador, 
+Perú, Venezuela y Resto 
+de América.
+
+98
+98
+Cuadro 23.1
+En esta provincia
+En otra provincia
+Otro país
+184.958
+78.510
+94.197
+12.251
+///
+///
+///
+///
+///
+///
+///
+///
+///
+///
+///
+///
+98.922
+43.481
+48.693
+6.748
+6.027
+2.317
+3.290
+420
+80.009
+32.712
+42.214
+5.083
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Total
+Antártida Argentina e Islas
+del Atlántico Sur
+Antártida Argentina
+Islas del Atlántico Sur
+Río Grande
+Tolhuin
+Ushuaia
+Provincia de Tierra del Fuego, Antártida e Islas del Atlántico Sur. Población en viviendas 
+particulares por lugar de nacimiento, según departamento. Año 2022
+Departamento
+Población
+en viviendas
+particulares
+Lugar de nacimiento
+Nota: las Islas Malvinas, Georgias del Sur, Sandwich del Sur y los espacios marítimos circundantes forman parte integrante del territorio 
+nacional argentino. Debido a que dichos territorios se encuentran sometidos a la ocupación ilegal del Reino Unido de Gran Bretaña e 
+Irlanda del Norte, la República Argentina se vio impedida de llevar a cabo el Censo 2022 en esa área. Estas islas pertenecen al 
+departamento Islas del Atlántico Sur. Del departamento Antártida Argentina fueron censadas las bases antárticas permanentes que 
+pertenecen a la República Argentina.
+
+99
+99
+CNPHV 2022 - Migraciones. Resultados definitivos 
+Cuadro 23.2
+Hasta 1999
+De 2000 a 2009 De 2010 a 2019 De 2020 a 2022
+Ignorado(1)
+12.251
+6.756
+1.397
+1.667
+154
+2.277
+10.268
+6.353
+1.236
+1.487
+138
+1.054
+9.010
+6.226
+930
+861
+82
+911
+1.889
+712
+507
+452
+32
+186
+171
+39
+20
+51
+23
+38
+5.939
+5.016
+203
+153
+15
+552
+735
+270
+190
+184
+11
+80
+276
+189
+10
+21
+1
+55
+1.258
+127
+306
+626
+56
+143
+229
+5
+26
+111
+19
+68
+374
+81
+141
+109
+4
+39
+178
+5
+4
+132
+13
+24
+477
+36
+135
+274
+20
+12
+231
+131
+38
+46
+5
+11
+90
+42
+9
+32
+2
+5
+46
+41
+3
+1
+0
+1
+95
+48
+26
+13
+3
+5
+52
+24
+4
+12
+3
+9
+12
+3
+5
+4
+0
+0
+3
+2
+0
+0
+1
+0
+1.685
+243
+114
+118
+7
+1.203
+(1) La categoría Ignorado incluye a las personas no nativas cuyo país de nacimiento y/o año de llegada no fue especificado.
+Nota: No incluye hogares donde la única persona migrante es servicio doméstico o sus familiares
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Resto de Europa
+Asia
+África
+Oceanía
+Ignorado(1)
+Italia
+Provincia de Tierra del Fuego, Antártida e Islas del Atlántico Sur. Población en viviendas 
+particulares nacida en otro país, por año de llegada al país, según lugar de nacimiento. Año 
+2022
+Lugar de Nacimiento
+Población
+en viviendas
+particulares
+nacida en
+otro país
+Año de llegada al país
+Total
+América
+Países limítrofes
+Bolivia
+Brasil
+Chile
+Paraguay
+Uruguay
+Venezuela
+Países no limítrofes
+Colombia
+Perú
+Resto de América
+Europa
+España
+
+100
+100
+Nota: de acuerdo con la evaluación de calidad y consistencia de los resultados definitivos, y para cumplir con los estándares de calidad 
+estadística requeridos por el INDEC, la categoría X de las respuestas a la pregunta por sexo registrado al nacer se distribuye entre las 
+categorías Mujer/femenino y Varón/masculino.
+Fuente: INDEC, Censos nacionales de población 2010 y 2022.
+Población en viviendas particulares por lugar de nacimiento, según sexo
+registrado al nacer. Año 2022
+Distribución de la población no nativa en viviendas particulares, según grupo
+de países seleccionados. Años 2010 y 2022
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+71,9
+28,1
+63,4
+36,6
+nacida en
+esta provincia
+nacida en
+otra provincia
+nacida en
+otro país
+Mujeres/femenino
+Varones/masculino
+1.531.726
+183.286
+12.325
+88,7%
+10,6%
+Porcentaje
+Censos
+2010
+2022
+48,6%
+51,4%
+46,7%
+53,3%
+49,7%
+50,3%
+0,7%
+Países limítrofes
+Países no limítrofes
+de América
+Bolivia, Brasil, Chile, 
+Paraguay y Uruguay.
+Colombia, Ecuador, 
+Perú, Venezuela y Resto 
+de América.
+Tucumán
+
+101
+101
+CNPHV 2022 - Migraciones. Resultados definitivos 
+Cuadro 24.1
+En esta provincia
+En otra provincia
+Otro país
+1.727.337
+1.531.726
+183.286
+12.325
+45.459
+39.960
+5.307
+192
+587.289
+510.047
+71.811
+5.431
+92.308
+84.328
+7.526
+454
+227.688
+207.123
+19.743
+822
+42.669
+38.008
+4.521
+140
+15.539
+13.851
+1.618
+70
+34.745
+31.917
+2.660
+168
+21.196
+18.540
+2.571
+85
+66.352
+59.567
+6.536
+249
+93.464
+83.359
+9.176
+929
+77.469
+71.692
+5.512
+265
+64.927
+60.038
+4.587
+302
+36.946
+32.606
+4.177
+163
+22.382
+16.769
+5.444
+169
+172.877
+155.029
+16.720
+1.128
+23.438
+19.775
+2.867
+796
+102.589
+89.117
+12.510
+962
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Total
+Burruyacú
+Capital
+Chicligasta
+Cruz Alta
+Famaillá
+Graneros
+La Cocha
+Leales
+Lules
+Monteros
+Río Chico
+Simoca
+Tafí del Valle
+Tafí Viejo
+Trancas
+Yerba Buena
+Provincia de Tucumán. Población en viviendas particulares por lugar de nacimiento, según 
+departamento. Año 2022
+Departamento
+Población
+en viviendas
+particulares
+Lugar de nacimiento
+Juan Bautista Alberdi
+
+102
+102
+Cuadro 24.2
+Hasta 1999
+De 2000 a 2009 De 2010 a 2019 De 2020 a 2022
+Ignorado(1)
+12.325
+3.348
+1.083
+1.829
+298
+5.767
+7.247
+2.495
+864
+1.423
+247
+2.218
+4.596
+1.845
+581
+528
+109
+1.533
+2.736
+1.183
+420
+350
+47
+736
+306
+72
+27
+60
+24
+123
+576
+252
+41
+50
+19
+214
+435
+184
+77
+43
+10
+121
+543
+154
+16
+25
+9
+339
+2.651
+650
+283
+895
+138
+685
+637
+15
+41
+229
+15
+337
+1.014
+536
+126
+126
+10
+216
+653
+18
+25
+404
+94
+112
+347
+81
+91
+136
+19
+20
+849
+457
+88
+196
+21
+87
+374
+178
+50
+114
+4
+28
+228
+170
+7
+19
+2
+30
+247
+109
+31
+63
+15
+29
+300
+128
+43
+76
+6
+47
+37
+9
+7
+18
+2
+1
+14
+5
+3
+3
+1
+2
+3.878
+254
+78
+113
+21
+3.412
+Ignorado(1)
+(1) La categoría Ignorado incluye a las personas no nativas cuyo país de nacimiento y/o año de llegada no fue especificado.
+Nota: No incluye hogares donde la única persona migrante es servicio doméstico o sus familiares
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Países no limítrofes
+Colombia
+Perú
+África
+Oceanía
+Resto de Europa
+Asia
+Venezuela
+Resto de América
+Europa
+España
+Italia
+Provincia de Tucumán. Población en viviendas particulares nacida en otro país, por año de 
+llegada al país, según lugar de nacimiento. Año 2022
+Lugar de Nacimiento
+Población
+en viviendas
+particulares
+nacida en
+otro país
+Uruguay
+Año de llegada al país
+Chile
+Paraguay
+Total
+América
+Países limítrofes
+Bolivia
+Brasil
+
+103
+103
+CNPHV 2022 - Migraciones. Resultados definitivos 
+5. Glosario
+Cédula o cuestionario censal
+Instrumento de medición que se utiliza en el relevamiento censal y sirve para sistematizar la recolección de 
+datos. El cuestionario censal recaba información a partir de variables precodificadas (derivadas de preguntas 
+con opciones de respuesta predefinidas en el formulario censal) y también de preguntas abiertas, sin opciones 
+de respuesta predefinidas, que deben pasar por un proceso de codificación en el formulario censal para 
+obtener datos de las características habitacionales del hogar, los atributos demográficos básicos, la percepción 
+de jubilación o pensión y de cobertura de salud, la migración, la asistencia escolar, el nivel y el máximo nivel 
+de instrucción, la organización familiar, la fecundidad de las mujeres, la condición de actividad económica, la 
+categoría ocupacional, y la actividad del establecimiento en el que la persona trabaja.
+Censo 
+Operativo que tiene por objetivo enumerar el total de unidades o elementos que conforma una población 
+objetivo y medir una o más características sobre ellos. Como abarca al cien por ciento de la población objeto 
+de estudio, los resultados que se obtienen están libres de error muestral. Sin embargo, como en cualquier 
+otra operación estadística, están presentes los errores ajenos al muestreo, tales como los de no respuesta, de 
+cobertura, de medición, de procesamiento u otras fuentes. Un censo puede estar dirigido a personas, hogares, 
+viviendas, empresas locales y establecimientos agropecuarios, pesqueros, mineros, entre otros.
+ 
+Condición migratoria
+Permite clasificar a la población entre no migrante y migrante, indistintamente de si es migrante internacional 
+o interno y diferenciar entre migración del período o de toda la vida.
+Confiabilidad 
+Grado o nivel de confianza que puede depositarse en un producto estadístico en base a estándares de calidad 
+y prácticas transparentes.
+Edad
+Años cumplidos al momento de referencia del censo.
+Edad mediana
+Edad central que divide a la población en dos grupos numéricamente iguales, ordenados por edades de menor 
+a mayor.
+Grupo de edad
+Cohorte o grupo poblacional que comparte una característica o evento de origen en común, por ejemplo, 
+haber nacido en un año o período determinado. En este caso se clasifica a un grupo de individuos en conjuntos 
+determinados por la edad.
+Grupo poblacional
+También denominado subpoblación, hace referencia a un colectivo o grupo de personas que comparte 
+características similares entre sí dentro de la población en estudio.
+Lugar de nacimiento
+Lugar en el que el censado nació (la provincia en el caso de los nacidos en Argentina y el país en el caso de los 
+extranjeros).
+Migración
+Movimiento de personas a través de una división política para establecer una nueva  residencia permanente.
+Migración del período
+Cambio de jurisdicción de un país o una provincia para adoptar una residencia permanente en una fecha 
+posterior a 2017.
+
+104
+104
+Migración de toda la vida 
+Cambio de jurisdicción de un país o una provincia para adoptar una residencia permanente en una fecha 
+anterior a 2017.
+Migración interna
+Cambio de jurisdicción de una subdivisión administrativa de un país (por ejemplo, provincia) a otra, para 
+adoptar residencia en ella.
+Migración interna del período
+Cambio de jurisdicción de una provincia a otra para adoptar una residencia permanente en una fecha posterior 
+a 2017.
+Migración interna de toda la vida
+Cambio de jurisdicción de una provincia a otra para adoptar una residencia permanente en una fecha anterior 
+a 2017.
+Migración internacional
+Cambio de jurisdicción de un país a otro para adoptar una residencia definitiva.
+Migración internacional del período
+Cambio de jurisdicción de un país a otro para adoptar una residencia permanente en una fecha posterior a 2017.
+Migración internacional de toda la vida
+Cambio de jurisdicción de un país a otro para adoptar una residencia permanente en una fecha anterior a 2017.
+Migrante del período
+Persona que cambia de país o provincia de residencia para adoptar una residencia permanente en una fecha 
+posterior a 2017.
+Migrante de toda la vida
+Persona que cambia de país o provincia de residencia para adoptar una residencia permanente en una fecha 
+anterior al 2017.
+Migrante internacional del período
+Persona que cambia de país de residencia para adoptar una residencia permanente en una fecha posterior a 2017.
+Migrante internacional de toda la vida
+Persona que cambia de país de residencia para adoptar una residencia permanente en una fecha anterior a 2017.
+Migrante interno del período
+Persona que cambia de provincia de residencia para adoptar una residencia permanente en una fecha posterior 
+a 2017.
+Migrante interno de toda la vida
+Persona que cambia de provincia de residencia para adoptar una residencia permanente en una fecha anterior 
+a 2017.
+No migrante
+Persona censada que habiendo nacido en una jurisdicción determinada (provincia) no cambió de jurisdicción 
+de residencia habitual.
+Residencia habitual
+Lugar donde el censado reside habitualmente la mayor parte del tiempo, o el lugar donde esté decidido a fijar 
+su residencia.
+
+105
+105
+CNPHV 2022 - Migraciones. Resultados definitivos 
+Resultados/datos definitivos
+Los datos que se presentan en esa instancia corresponden a la totalidad de las variables para las tres unidades de 
+empadronamiento (población, hogares y viviendas). Esta información es definitiva porque se han completado 
+los procesos de estructura jerárquica, evaluación de calidad, validación e imputación, elaboración de variables 
+complejas e integración de las bases papel y digital.
+Sexo registrado al nacer
+Refiere al sexo con que fue registrada la persona al nacer en la partida de nacimiento o documento de 
+identidad. Si la persona no tiene documentación, refiere al sexo asignado por la partera, el médico, el familiar o la 
+sociedad. Puede ser mujer/femenino, varón/masculino, o bien haber sido rectificada mediante la nomenclatura 
+X/ninguna de las anteriores. La nomenclatura X –que comprende las acepciones no binaria, indeterminada, 
+no especificada, indefinida, no informada, autopercibida, no consignada, u otra acepción con la que pudiera 
+identificarse la persona que no se sienta comprendida en el binomio masculino/femenino– está vigente en la 
+Argentina a partir del Decreto 476/2021. De acuerdo con la evaluación de calidad y consistencia de los resultados 
+definitivos, y para cumplir con los estándares de calidad estadística requeridos por el INDEC, la categoría X de 
+las respuestas a la pregunta por sexo registrado al nacer se distribuye entre las categorías Mujer/femenino y 
+Varón/masculino.

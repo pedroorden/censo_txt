@@ -1,0 +1,3091 @@
+Censo Nacional de Población, Hogares y Viviendas 2022
+Comunas | Partidos | Localidades | Entidades | Zona rural
+Región
+Metropolitana
+Buenos
+Aires
+Ciudad Autónoma de Buenos Aires
+y 39 partidos de la provincia
+de Buenos Aires
+
+7
+CNPHV 2022 -  Región Metropolitana Buenos Aires
+7
+Introducción
+El Instituto Nacional de Estadística y Censos (INDEC) pre-
+senta una edición digital de indicadores seleccionados del 
+Censo Nacional de Población, Hogares y Viviendas 2022 
+–en adelante Censo 2022– para la Región Metropolitana 
+Buenos Aires. Se trata del área conformada por la Ciudad 
+Autónoma de Buenos Aires y 39 partidos de la provincia 
+de Buenos Aires1: Almirante Brown, Avellaneda, Beraza-
+tegui, Berisso, Brandsen, Campana, Cañuelas, Ensenada, 
+Escobar, Esteban Echeverría, Exaltación de la Cruz, Ezeiza, 
+Florencio Varela, General Rodríguez, General San Martín, 
+Hurlingham, Ituzaingó, José C. Paz, La Matanza, Lanús, 
+La Plata, Lomas de Zamora, Luján, Malvinas Argentinas, 
+Marcos Paz, Merlo, Moreno, Morón, Pilar, Presidente Perón, 
+Quilmes, San Fernando, San Isidro, San Miguel, San Vicen-
+te, Tigre, Tres de Febrero, Vicente López y Zárate. 
+La delimitación territorial se realizó con base en los an-
+tecedentes históricos del INDEC, que utilizó el criterio de 
+continuidad física para determinar el aglomerado urba-
+no, considerando las distancias entre los bordes de las 
+áreas edificadas y no edificadas –distantes a menos de 
+1.500 metros– y que conforman un continuo urbano o 
+“mancha urbana”. En forma complementaria, se utilizó el 
+criterio de división político-administrativa para determi-
+nar la inclusión de los partidos que son abarcados por 
+dicho continuo urbano, sea en forma total o parcial; es 
+decir, incluye a la población de la zona rural amanzanada 
+y dispersa de los partidos.
+La primera vez que se utilizó la expresión Región Metro-
+politana en los censos argentinos fue para la presenta-
+ción de los resultados del Censo 1980, que circunscribió 
+al conjunto conformado por la Capital Federal –actual 
+Ciudad Autónoma de Buenos Aires– y 19 partidos de la 
+provincia de Buenos Aires. También cabe recordar que la 
+regionalización para la exposición de resultados censales 
+se remonta a la década del 60 del siglo pasado.2 
+Para la difusión de los resultados seleccionados se 
+trabajó en conjunto con la Dirección Provincial de 
+Estadística de la Provincia de Buenos Aires y el Ins-
+tituto de Estadística y Censos de la Ciudad Autóno-
+ma de Buenos Aires, que realizaron la tarea de de-
+limitación de localidades, entidades y barrios que 
+conforman los partidos y las comunas, respectivamente.
+Con esta desagregación espacial se puede caracterizar a 
+las unidades territoriales menores3 en base a su estruc-
+tura demográfica, las condiciones habitacionales de los 
+hogares, la salud y la previsión social de la población, y su 
+condición de asistencia escolar y de actividad económica. 
+1 Se exponen en orden alfabético, tanto a lo largo de esta edición 
+como en los tabulados que se difunden en simultáneo en los sitios 
+web institucionales.	
+2 Se puede consultar más información sobre la regionalización 
+estadística en el Anexo II de esta edición.
+3 Se pueden consultar las definiciones espaciales en el glosario de 
+esta edición.	
+Antecedentes históricos
+La Región Metropolitana Buenos Aires ha ocupado his-
+tóricamente un lugar de primacía indiscutible. Este terri-
+torio se caracteriza por una gran concentración de edifi-
+cios y la mayor densidad de población del país, lo que la 
+convierte en la segunda mayor aglomeración urbana de 
+América del Sur y la 18ª del mundo. 
+En 1914 albergaba casi un cuarto (23,2%) de la población 
+del territorio nacional; en 1960, un tercio (33,3%); llegó al 
+35,8% en 1970; y osciló entre el 34,9% en 1980 y el 35,9% en 
+2022, este último de acuerdo con la expansión del conti-
+nuo urbano a 39 partidos de la provincia de Buenos Aires.
+Figura 1. Reproducción gráfica de la expansión urbana utilizada 
+para la difusión de estimaciones de población. Año 1939
+ 
+ 
+A fines de la década del 30, el director general de Estadís-
+ticas de la Nación, Alejandro Bunge, y sus colaboradores 
+fueron quienes emplearon por primera vez el concepto 
+“población de la Gran Buenos Aires” –hoy Región Me-
+tropolitana– para designar “a la ciudad que desbordaba 
+ya ampliamente los límites del municipio, uniéndose en 
+un aglomerado urbano continuo la Capital Federal con 
+varias de las localidades de sus alrededores”4. En 1939, 
+la denominación se aplicó a la Capital de la Argentina y 
+4 García-Mata, R. y Llorens, E. (1940). Argentina Económica, 2ª. edición.
+Compañía Impresora Argentina S.A., pp. 16-17.	
+Fuente: García-Mata, R. y Llorens, E. (1940). Argentina Económica, 
+2a. edición.
+
+8
+siete partidos completos (Avellaneda, Lomas de Zamora, 
+Morón, San Martín, Vicente López, San Isidro y San Fer-
+nando) más otros cuatro partidos en forma parcial (Almi-
+rante Brown, Matanza, Quilmes y Tigre). Se estimó su po-
+blación en 3.498.000 habitantes, de los cuales 2.470.000 
+correspondían a la Capital y 1.028.000 a los 11 partidos cir-
+cundantes en una superficie de 669 km2. 
+En verdad, la expansión había comenzado a consolidarse 
+desde 1869 luego de la creación de [General] San Martín 
+en el norte, La Paz –actual Lomas de Zamora– en el sur, y 
+Merlo y Moreno en el centro. En ese entonces, las líneas 
+férreas hacia Tigre, Chivilcoy y Chascomús fueron un im-
+portante factor del asentamiento poblacional. El ferroca-
+rril se transformó en la vía de acceso predominante hacia 
+y desde la ciudad de Buenos Aires: surgían pueblos nue-
+vos alrededor de las estaciones y se expandían los exis-
+tentes gracias a la facilidad de comunicación.
+En paralelo, con el auge de la inmigración, muchos ex-
+tranjeros se radicaron en estos partidos vecinos a la me-
+trópoli. Las dos décadas transcurridas desde 1895 hasta 
+1914 fueron las de más rápido crecimiento de los parti-
+dos del Gran Buenos Aires: se cuadriplicó su población y 
+concentraron el equivalente a casi la tercera parte de la 
+población de la ciudad de Buenos Aires.
+En las décadas siguientes el crecimiento de estos parti-
+dos fue más pausado, pero el desarrollo del transporte 
+automotor comenzó a conformar un nuevo patrón de 
+asentamiento. En algunos casos fue paralelo al ferro-
+carril, pero también fue trasversal, con el fomento de la 
+ocupación de los espacios entre las vías de comunica-
+ción tradicionales. Entre 1960 y 1980, el crecimiento se 
+concentró en la zona central, cuyos partidos –General 
+Sarmiento, La Matanza, Merlo, Moreno y Morón– aumen-
+taron su población vigorosamente y superaron a la de los 
+partidos de la zona norte.5 
+En los resultados del Censo 2010 se expusieron agregados 
+por región para dar cuenta de la distribución relativa de la 
+población del país, y se utilizó la denominación Región Me-
+tropolitana para la aglomeración de la Ciudad Autónoma 
+de Buenos Aires más los 24 partidos del continuo urbano.
+Posteriormente, producto de la expansión física detecta-
+da en el Censo 2010, se actualizó su extensión a 31 partidos 
+de la provincia de Buenos Aires. Así, a los 24 partidos se 
+sumaron Cañuelas, Escobar, General Rodríguez, Marcos 
+Paz, Pilar, Presidente Perón y San Vicente.
+A partir de una nueva detección del crecimiento físico 
+del Gran Buenos Aires, el INDEC incorporó en 2022 ocho 
+nuevos partidos a la Región Metropolitana Buenos Ai-
+res. La expansión de los aglomerados Gran Buenos Aires 
+y Gran La Plata determinó la unión de ambos.
+5 INDEC (1981). Censo Nacional de Población y Vivienda 1980. 
+Serie B, Características generales. Partidos del Gran Buenos Aires. 
+https://biblioteca.indec.gob.ar/bases/minde/1c1980b2.pdf	
+En la siguiente tríada podría sintetizarse la magnitud de 
+la principal aglomeración urbana del país, previo a la pre-
+sentación de la información estadística que contienen 
+las siguientes páginas de esta publicación: 
+•	 Cuando se realizó el Primer Censo de la República Argen-
+tina, en 1869, solo el 18% de la población del Gran Buenos 
+Aires estaba asentada en 11 partidos circundantes; y con 
+el gran crecimiento de la Capital Federal6 en el período 
+siguiente, ese porcentaje bajó al 15% en 1895. A partir de la 
+expansión inmigratoria, los partidos vecinos se poblaron 
+cada vez más, mientras la población de la metrópoli se 
+estabilizó en aproximadamente 3 millones de habitantes 
+desde 1947. En 2022, la Ciudad Autónoma de Buenos Ai-
+res contenía casi el 19%; y los 39 partidos que la circun-
+dan, el 81% de la población de la Región Metropolitana 
+Buenos Aires.
+•	 Con respecto a la distribución de la población de la pro-
+vincia de Buenos Aires, en 1869, el Gran Buenos Aires 
+contenía al 14% de la población bonaerense, proporción 
+que se mantuvo relativamente estable hasta 1895. Desde 
+1914 su crecimiento fue mayor que en el resto de la pro-
+vincia hasta registrar que, en 2022, aproximadamente 76 
+de cada 100 habitantes de la provincia vivían en los 39 
+partidos de la Región Metropolitana Buenos Aires.
+•	 Si se considera a la región en su conjunto, la proporción 
+de población que representaba con respecto al total del 
+país en 1869 era del 13%, mientras que en 1895 se había 
+elevado al 20%. Luego vino el período de más rápido cre-
+cimiento, y en 1914 ya residían en el área más de 2 millo-
+nes de personas, una cuarta parte de los habitantes del 
+país. El crecimiento se desaceleró a partir de entonces, 
+pero siguió siendo importante: fueron casi 5 millones en 
+1947, casi 7 millones en 1960, más de 8 millones en 1970, 
+casi 10 millones en 1980, más de 11 millones en 2001 y su-
+peró los 12 millones y medio en 2010. En 2022, la Región 
+Metropolitana Buenos Aires rebasó los 16 millones de 
+habitantes en una superficie de 13.267 km2.
+Una vez más cabe destacar la relevancia del Censo 
+2022 para el estudio de la evolución demográfica de la 
+Argentina y la comprensión integral de los fenómenos 
+socioeconómicos de la población. En este sentido, 
+aspiramos a que la presente publicación constituya un 
+instrumento útil para la planificación y para el diseño de 
+políticas basadas en información robusta, acordes a las 
+demandas recibidas.
+6 A partir de la sanción de la Constitución de la Ciudad de Buenos 
+Aires, el 1º de octubre de 1996, es “Ciudad Autónoma de Buenos 
+Aires”. El nombre oficial comenzó a utilizarse desde el Censo 2010 y 
+posteriores operaciones estadísticas.	
+
+9
+CNPHV 2022 - Región Metropolitana Buenos Aires
+9
+1. División territorial de la Región Metropolitana Buenos Aires. Año 2022
+Censo Nacional de Población, Hogares y Viviendas 2022
+Nota: las entidades, localidades y zonas rurales correspondientes a las comunas y los partidos se pueden consultar en el Anexo I de esta edición.
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Mapa 1. Delimitación político-administrativa de la Región Metropolitana Buenos Aires. Año 2022
+La Región Metropolitana Buenos Aires es un área conformada por la Ciudad Autónoma de Buenos Aires y 
+39 partidos de la provincia de Buenos Aires. Ocupa una superficie total de 13.267 km2, el 0,4% de la superficie total de 
+la República Argentina.
+Escobar
+Campana
+Zárate
+Exaltación
+de la Cruz
+Luján
+Marcos
+Paz
+Pilar
+General
+Rodríguez
+Moreno
+Merlo
+Cañuelas
+Esteban
+Echeverría
+Almirante
+Brown
+San
+Miguel
+José
+C. Paz
+Malvinas
+Argentinas
+Ezeiza
+San 
+Vicente
+Presidente
+Perón
+Florencio
+Varela
+Brandsen
+La Plata
+Ensenada
+Berisso
+Berazategui
+Tigre
+Morón
+Ituzaingó
+San 
+Fernando
+Avellaneda
+Hurlingham
+San Fernando
+San
+Isidro
+La
+Matanza
+Lanús
+Lomas
+de
+Zamora
+Quilmes
+San
+Martín
+Vicente
+López
+Tres de
+Febrero
+Comunas de la Ciudad
+Autónoma de Buenos Aires
+C1
+C2
+C14
+C13
+C12
+C15
+C11
+C6
+C3
+C10
+C9
+C8
+C4
+C7
+C5
+0
+5
+10 km
+(Arg.)
+Límite de partido/comuna
+Límite interprovincial
+Límite internacional 
+Delimitación 
+político-administrativa
+Ciudad Autónoma
+de Buenos Aires
+
+10
+2. Participación de la población en viviendas particulares de la Región 
+Metropolitana Buenos Aires con respecto a la provincia de Buenos Aires 
+y al total del país. Año 2022
+Censo Nacional de Población, Hogares y Viviendas 2022
+45.618.787
+22.010.881
+Varones/masculino
+23.607.906
+Mujeres/femenino
+7.823.884
+Varones/masculino
+1.428.781
+Varones/masculino
+1.666.673
+Mujeres/femenino
+Total del país
+personas en viviendas
+particulares
+76,2%
+de la población en viviendas 
+particulares de la provincia
+de Buenos Aires habita en
+los 39 partidos de la
+Región Metropolitana
+18,9%
+3.095.454
+Ciudad Autónoma
+de Buenos Aires 
+Región Metropolitana
+Buenos Aires
+16.366.641 
+personas en viviendas particulares
+personas en viviendas particulares
+8.393.419
+Varones/masculino
+9.015.487
+Mujeres/femenino
+17.408.906
+Provincia de Buenos Aires 
+personas en viviendas particulares
+6.395.103
+Varones/masculino
+6.876.084
+Mujeres/femenino
+81,1%
+13.271.187 
+39 partidos de la provincia
+de Buenos Aires 
+personas en viviendas particulares
+35,9%
+de la población en viviendas 
+particulares de la Argentina
+habita en la Región
+Metropolitana
+8.542.757
+Mujeres/femenino
+Nota: de acuerdo con la evaluación de calidad y consistencia de los resultados definitivos, y para cumplir con los estándares de calidad 
+estadística requeridos por el INDEC, la categoría X de las respuestas a la pregunta por sexo registrado al nacer se distribuye entre las categorías 
+Mujer/femenino y Varón/masculino.
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+
+Censo Nacional de Población, Hogares y Viviendas 2022
+3. Distribución de la población en viviendas particulares de la Región 
+Metropolitana Buenos Aires. Año 2022
+En la Región Metropolitana Buenos Aires habitan 16.366.641 personas en viviendas particulares. El 18,9% del total reside 
+en la Ciudad Autónoma de Buenos Aires y el 81,1% se distribuye en los 39 partidos de la provincia de Buenos Aires 
+que circundan la metrópoli. Las entidades con más de 250.000 habitantes son José C. Paz (José C. Paz), Merlo (Merlo), 
+González Catán y Gregorio de Laferrere (La Matanza).
+Mapa 2. Distribución de la población en viviendas particulares de la Región Metropolitana Buenos Aires. Año 2022
+Nota: todos los mapas temáticos presentados en esta publicación representan las variables en base a la desagregación geográfica de entidades, 
+localidades y zonas rurales; excepto que se indique otra unidad geográfica.
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+0
+5
+10 km
+(Arg.)
+Ciudad Autónoma
+de Buenos Aires
+Total de población
+1 - 22.061
+22.062 - 55.242
+55.243 - 101.615
+101.616 - 187.922
+187.923 - 295.236
+personas
+
+12
+4. Principales indicadores demográficos
+Censo Nacional de Población, Hogares y Viviendas 2022
+4.1 Estructura de la población en viviendas particulares, por sexo registrado al nacer y 
+grupo de edad. Total del país y Región Metropolitana Buenos Aires. Año 2022
+4.2 Indicadores comparativos del total del país y de la Región Metropolitana Buenos Aires. 
+Año 2022
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Nota: de acuerdo con la evaluación de calidad y consistencia de los resultados definitivos, y para cumplir con los estándares de calidad 
+estadística requeridos por el INDEC, la categoría X de las respuestas a la pregunta por sexo registrado al nacer se distribuye entre las categorías 
+Mujer/femenino y Varón/masculino. 
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+0,0
+1,0
+1,0
+2,0
+2,0
+3,0
+3,0
+4,0
+4,0
+5,0
+5,0
+1,0
+1,0
+2,0
+2,0
+3,0
+3,0
+4,0
+4,0
+5,0
+5,0
+0,0
+1,0
+1,0
+2,0
+2,0
+3,0
+3,0
+4,0
+4,0
+5,0
+5,0
+0,0
+Región Metropolitana
+Buenos Aires
+Grupo de edad
+Total del país
+Total 
+del país
+Porcentaje
+Varón/masculino 
+Mujer/femenino
+0-4
+5-9
+10-14
+15-19
+20-24
+25-29
+30-34
+35-39
+40-44
+45-49
+50-54
+55-59
+60-64
+65-69
+70-74
+75-79
+80-84
+85+
+Región
+Metropolitana
+Buenos Aires
+Región Metropolitana 
+Buenos Aires
+50
+1.241 hab.
+x km2
+51
+Total del país
+12,5 hab.
+x km2
+Densidad de población
+Es la relación que se establece entre la cantidad
+de habitantes por unidad de superﬁcie.
+Índice de dependencia potencial
+Es la relación entre la población potencialmente 
+inactiva (grupos de 0 a 14 y 65 años y más)
+y la población en edades teóricamente activas
+(15 a 64 años).
+Índice de feminidad
+Indica la cantidad de mujeres por cada cien varones.
+109
+107
+
+13
+CNPHV 2022 - Región Metropolitana Buenos Aires
+13
+4.3 Densidad de la población en viviendas particulares de la Región Metropolitana Buenos 
+Aires, por partido y comuna. Año 2022
+Mapa 3. Densidad de la población en viviendas particulares de la Región Metropolitana Buenos Aires, por partido y comuna. 
+Año 2022
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+La Región Metropolitana Buenos Aires es el área de mayor densidad de población del país. En una superficie total de 
+13.267 km2, el Censo 2022 registró un promedio de 1.241 habitantes por km2. La Ciudad Autónoma de Buenos Aires lidera 
+el espacio más densamente poblado (15.161 hab/km2), seguida por los partidos bonaerenses de Lanús (9.189 hab/km2), 
+Vicente López (8.182 hab/km2), Tres de Febrero (8.021 hab/km2) y General San Martín (7.975 hab/km2).
+0
+5
+10 km
+(Arg.)
+Ciudad Autónoma
+de Buenos Aires
+29 - 645
+646 - 3.147
+3.148 - 6.535
+6.536 - 12.489
+12.490 - 30.663
+Densidad de población
+personas x km2
+
+14
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Mapa 4. Índice de dependencia potencial de la Región Metropolitana Buenos Aires. Año 2022
+4.4 Dependencia potencial de la población en viviendas particulares de la Región 
+Metropolitana Buenos Aires. Año 2022
+El índice de dependencia potencial da cuenta de la relación entre los grupos de población potencialmente inactivos 
+(de 0 a 14 años y de 65 años y más) y la población teóricamente activa (de 15 a 64 años). Cuanto mayor es el índice, 
+también es mayor el número de personas dependiente de cada individuo en edad de trabajar. 
+Se observa que el rango superior de dependencia potencial se ubica en la zona de islas del partido San Fernando y 
+entidades de los partidos Vicente López, San Vicente y General Rodríguez. Los índices más bajos, en cambio, se registran 
+en las entidades Altos del Cañadón (Exaltación de la Cruz), Campo de Mayo (San Miguel), y San Nicolás (Comuna 1) de 
+la Ciudad Autónoma de Buenos Aires.
+0
+5
+10 km
+(Arg.)
+Ciudad Autónoma
+de Buenos Aires
+22,73 - 43,51
+43,52 - 51,73
+51,74 - 59,51
+59,52 - 76,71
+76,72 - 105,26
+Índice de dependencia
+potencial
+índice
+
+15
+CNPHV 2022 - Región Metropolitana Buenos Aires
+15
+Mapa 5. Índice de feminidad de la Región Metropolitana Buenos Aires. Año 2022
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+4.5 Índice de feminidad de la Región Metropolitana Buenos Aires. Año 2022
+El índice de feminidad es una medida demográfica que expresa el número de mujeres por cada 100 varones. Este 
+indicador es utilizado para analizar la distribución por sexo de una población determinada. Un índice de feminidad 
+superior a 100 indica que hay más mujeres que varones, mientras que un índice inferior a 100 indica lo contrario.
+La localidad Altamirano (Brandsen) registra el mayor índice de feminidad de la región, como así también gran parte de 
+las comunas de la Ciudad Autónoma de Buenos Aires, donde sobresalen los barrios de Recoleta, Palermo y Belgrano. En 
+el otro extremo, la cantidad de mujeres inferior a la de varones se observa en las entidades Campo de Mayo (San Miguel), 
+y en algunas entidades de General Rodríguez y Exaltación de la Cruz.
+0
+5
+10 km
+(Arg.)
+Índice de feminidad
+mujeres cada 100 varones
+61,54 - 71,43
+71,44 - 96,38
+96,39 - 106,16
+106,17 - 113,23
+113,24 - 128,83
+Ciudad Autónoma
+de Buenos Aires
+
+16
+5. Condiciones habitacionales
+Censo Nacional de Población, Hogares y Viviendas 2022
+5.1 Condiciones habitacionales de los hogares en viviendas particulares. Total del país y 
+Región Metropolitana Buenos Aires. Año 2022
+(1) El material predominante del revestimiento interior, es decir, la cobertura del techo del lado de adentro de una vivienda, es de revoque, yeso, 
+madera o placas de polietileno expandido.
+(2) El material predominante de los pisos es cerámica, mosaico, baldosa, alfombra, madera, flotante, vinílico, microcemento, cemento alisado o mármol.
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+95,3%
+93,9%
+Hogares en viviendas particulares 
+con acceso al agua por cañería 
+dentro de la vivienda. 
+   
+79,1%
+85,0%
+Hogares en viviendas particulares 
+con provisión de agua por red 
+pública.     
+61,3%
+65,3% 
+Hogares en viviendas particulares 
+en las que el desagüe es a cloaca.   
+65,7%
+64,6%
+Hogares en viviendas particulares 
+cuya vivienda es propia. 
+62,5%
+52,7%
+Hogares en viviendas particulares 
+que utilizan principalmente
+gas de red. 
+ 
+28,5%
+38,9%
+Hogares en viviendas particulares 
+que utilizan principalmente gas 
+de garrafa. 
+94,5%
+91,4%
+Hogares en viviendas particulares 
+con internet en la vivienda o 
+celular con internet.
+68,3%
+67,1%
+Hogares en viviendas particulares
+con techos con revestimiento
+interior o cielorraso(1). 
+87,3%
+85,3%
+Hogares en viviendas particulares 
+con pisos con revestimiento(2). 
+58,2%
+Hogares en viviendas particulares 
+con documentación de vivienda 
+propia. 
+57,6%
+Hogares en viviendas particulares 
+cuya vivienda es alquilada. 
+22,8%
+21,0%
+Indicadores seleccionados
+Total del país
+Región Metropolitana
+Buenos Aires
+
+17
+CNPHV 2022 - Región Metropolitana Buenos Aires
+17
+5.2 Indicadores seleccionados de los hogares en viviendas particulares de la Región 
+Metropolitana Buenos Aires. Año 2022
+Mapa 6. Hogares en viviendas particulares con acceso al agua por cañería dentro de la vivienda. Año 2022
+La información básica que se obtiene del censo incluye si las unidades de vivienda tienen o no una instalación de agua 
+entubada, es decir, “si el agua es suministrada o no a la unidad de vivienda por tuberías de un sistema comunitario o 
+una instalación privada, como un tanque de presión o una bomba” (NU, 2017, p. 259). En otras palabras, si se cuenta 
+con una instalación que permita a los ocupantes de la vivienda obtener agua para las necesidades del hogar sin estar 
+sujetos a esfuerzos extremos.
+En la Ciudad Autónoma de Buenos Aires, los hogares en viviendas particulares de las comunas 10 y 13 registran los más 
+altos porcentajes de acceso al agua por cañería dentro de la vivienda, al igual que Vicente López y San Isidro entre los 
+39 partidos de la provincia de Buenos Aires.
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+0
+5
+10 km
+(Arg.)
+41 - 48
+49 - 82
+83 - 90
+91 - 96
+97 - 100
+Hogares con acceso al 
+agua por cañería 
+dentro de la vivienda
+porcentaje
+Ciudad Autónoma
+de Buenos Aires
+
+18
+Mapa 7. Hogares en viviendas particulares con provisión de agua por red pública. Año 2022
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+0
+5
+10 km
+(Arg.)
+0 - 18
+19 - 41
+42 - 64
+65 - 86
+87 - 100
+Hogares con provisión 
+de agua por red 
+pública
+porcentaje
+Ciudad Autónoma
+de Buenos Aires
+La red pública es el sistema de captación, tratamiento y distribución de agua mediante una red de tuberías comunal 
+sometida a inspección y control por las autoridades públicas. El sistema puede estar a cargo de un organismo público, 
+una cooperativa o una empresa privada.
+En la Ciudad Autónoma de Buenos Aires la provisión de agua por red pública (agua corriente) es prácticamente universal, 
+donde el barrio Villa Real presenta el porcentaje más elevado de cobertura de los hogares en viviendas particulares. 
+Algo similar ocurre con los partidos de la provincia de Buenos Aires que la rodean, como General San Martín, San 
+Fernando, Tres de Febrero, Avellaneda, Lanús y los linderos al Río de la Plata. El porcentaje de acceso al agua corriente 
+disminuye en las áreas de menor densidad de población. En los partidos de Pilar, Cañuelas, General Rodríguez, José C. 
+Paz y Malvinas Argentinas se registra un menor acceso relativo de los hogares en viviendas particulares al servicio de 
+agua por red pública.
+
+19
+CNPHV 2022 - Región Metropolitana Buenos Aires
+19
+Mapa 8. Hogares en viviendas particulares en las que el desagüe es a cloaca. Año 2022
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+El desagüe del inodoro forma parte del sistema de cañerías interno de la vivienda que enlaza con una red de tuberías 
+comunal y que permite el arrastre de aguas residuales. Junto a la disponibilidad de inodoro, el censo releva sobre el 
+sistema de canalización de los residuos que permite determinar la calidad de las instalaciones de saneamiento de las 
+viviendas particulares en las que habitan los hogares. 
+En la Ciudad Autónoma de Buenos Aires, todas las comunas registran un 96% o más de hogares en viviendas 
+particulares con desagües a cloaca. En el caso de los partidos, se destacan con más del 90% San Isidro, Tres de Febrero 
+y San Fernando. En cambio, en los partidos José C. Paz y Malvinas Argentinas solo el 8,2% y el 9,2% de los hogares en 
+viviendas particulares tienen conexión al sistema cloacal.
+0
+5
+10 km
+(Arg.)
+0 - 15
+16 - 38
+39 - 63
+64 - 85
+86 - 100
+Hogares en los que el 
+desagüe es a cloaca
+porcentaje
+Ciudad Autónoma
+de Buenos Aires
+
+20
+Mapa 9. Hogares en viviendas particulares cuya vivienda es propia. Año 2022
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+El régimen de tenencia de la vivienda se refiere a la relación de posesión jurídica o de hecho del hogar con respecto 
+a “la unidad de vivienda y no de la tierra donde está construida” (NU, 2017, p. 257). El censo considera que la vivienda 
+es propia cuando pertenece a alguna de las personas que integran el hogar, aun cuando se encuentre pendiente 
+de pago, tenga solo boleto de compraventa o no se haya escriturado. Incluye aquellos casos en los que el hogar es 
+propietario de una parte de la vivienda o la vivienda está hipotecada. 
+Las comunas de la Ciudad Autónoma de Buenos Aires presentan, en términos generales, una menor proporción de 
+hogares en viviendas propias con respecto a los de los 39 partidos de la provincia de Buenos Aires. La Comuna 8 es la 
+que registra mayor cantidad de hogares propietarios. En el caso de la provincia de Buenos Aires, General Rodríguez 
+(75,9%), Presidente Perón (77,4%) y San Vicente (78,0%) son los partidos con mayor proporción de hogares en viviendas 
+particulares de su propiedad. 
+0
+5
+10 km
+(Arg.)
+Ciudad Autónoma
+de Buenos Aires
+0 - 7
+8 - 49
+50 - 65
+66 - 75
+76 - 94
+Hogares cuya 
+vivienda es propia
+porcentaje
+
+21
+CNPHV 2022 - Región Metropolitana Buenos Aires
+21
+Mapa 10. Hogares en viviendas particulares con documentación de vivienda propia. Año 2022
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Dentro del universo de los hogares que declararon que la vivienda es propia, el censo indagó sobre la documentación 
+de posesión.
+En la Ciudad Autónoma de Buenos Aires, la Comuna 1 presenta el menor porcentaje de hogares en viviendas particulares 
+con documentación de vivienda propia. Entre los 39 partidos de la provincia de Buenos Aires, San Fernando y San 
+Miguel son los que presentan los valores más bajos.
+0
+5
+10 km
+(Arg.)
+Ciudad Autónoma
+de Buenos Aires
+0 - 39
+40 - 55
+56 - 64
+65 - 74
+75 - 87
+Hogares con 
+documentación de 
+vivienda propia
+porcentaje
+
+22
+Mapa 11. Hogares en viviendas particulares cuya vivienda es alquilada. Año 2022
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+El censo considera que la vivienda es alquilada cuando el hogar paga por la utilización de toda la vivienda o una parte, 
+exista o no un contrato de alquiler. 
+La mayor cantidad de hogares en viviendas particulares que alquilan la vivienda en la que habitan se registran en San 
+Nicolás (59,0%), Constitución (54,4%) y Montserrat (53,8%) de la Ciudad Autónoma de Buenos Aires; y en las localidades 
+Estancia Las Lilas (70,0%) y Puerto Panal (58,7%) de los partidos Luján y Zárate, respectivamente, y Casco Urbano de La 
+Plata (46,8%).
+0
+5
+10 km
+(Arg.)
+0 - 11
+12 - 18
+19 - 27
+28 - 43
+44 - 70
+Hogares cuya vivienda 
+es alquilada
+porcentaje
+Ciudad Autónoma
+de Buenos Aires
+
+23
+CNPHV 2022 - Región Metropolitana Buenos Aires
+23
+Mapa 12. Hogares en viviendas particulares que utilizan principalmente gas de red. Año 2022
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+El gas de red es la fuente de energía que se distribuye a través de una red de tuberías comunales, llega directamente 
+a la vivienda para su uso y los hogares declararon que utilizan en mayor proporción para la cocción de los alimentos. 
+Su disponibilidad es una medida aproximada de demanda energética y está considerado un servicio básico, junto al 
+acceso al agua, saneamiento y energía eléctrica (CEPAL, 2017, p. 70).
+Dentro de la Ciudad Autónoma de Buenos Aires, la Comuna 10 y la Comuna 11 son las que presentan la mayor proporción 
+de hogares en viviendas particulares que utilizan gas de red como combustible principal para cocinar: los barrios Villa 
+Real y Villa del Parque encabezan el uso en cada comuna, respectivamente. En cambio, las comunas 1 y 8 son las 
+que presentan los valores más bajos, con Retiro y Villa Soldati entre los de menor cobertura. Entre los 39 partidos de 
+la provincia de Buenos Aires, Vicente López, Tres de Febrero y Morón registraron más del 80% de uso de gas de red, 
+con Carapachay (87,4%), Ciudad Jardín Lomas del Palomar (89,4%) y Haedo (86,2%) como las entidades con valores 
+más altos. Los partidos de Moreno (30,9%), Cañuelas (28,9%) y General Rodríguez (23,4%) son los que presentan los 
+porcentajes más bajos.
+0
+5
+10 km
+(Arg.)
+0 - 13
+14 - 34
+35 - 52
+53 - 70
+71 - 92
+Hogares que utilizan 
+principalmente gas 
+de red
+porcentaje
+Ciudad Autónoma
+de Buenos Aires
+
+24
+Mapa 13. Hogares en viviendas particulares que utilizan principalmente gas de garrafa. Año 2022
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+El gas de garrafa refiere al gas licuado de petróleo (GLP) que se almacena en recipientes metálicos, y los hogares 
+declararon que es la fuente de energía que utilizan con mayor frecuencia para la cocción de los alimentos. 
+Los partidos de la provincia de Buenos Aires con la cantidad más baja de hogares en viviendas particulares que utilizan 
+principalmente gas de red como combustible para cocinar son, a su vez, los que usan en mayor proporción gas de 
+garrafa: en General Rodríguez, Cañuelas y Moreno, más del 60% lo utiliza. En cambio, Tres de Febrero (11,2%), Morón 
+(9,3%) y Vicente López (5,4%) son los partidos con los porcentajes más bajos, incluso por debajo del 2% para algunas 
+localidades, como Florida (1,6%) en Vicente López. En la mayoría de las comunas de la Ciudad Autónoma de Buenos 
+Aires, el porcentaje de hogares que usa gas de garrafa como combustible principal para cocinar es inferior al 10%, con 
+excepción de la Comuna 1 (13,1%), la Comuna 4 (21,7%) y la Comuna 8 (34,4%).
+0
+5
+10 km
+(Arg.)
+1 - 19
+20 - 40
+41 - 59
+60 - 77
+78 - 100
+Hogares que utilizan 
+principalmente gas 
+de garrafa
+porcentaje
+Ciudad Autónoma
+de Buenos Aires
+
+25
+CNPHV 2022 - Región Metropolitana Buenos Aires
+25
+Mapa 14. Hogares en viviendas particulares con techos con revestimiento interior o cielorraso. Año 2022
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+El cielorraso es el aislamiento del techo de la vivienda que sirve para proteger a los habitantes de los ruidos y de la 
+condensación de la humedad. El material predominante de la cubierta exterior del techo con revestimiento interior 
+o cielorraso puede ser de baldosa, membrana, pintura asfáltica, pizarra o teja, losa o carpeta a la vista (sin cubierta), 
+y chapa de metal. En las Cuentas Nacionales es un indicador de la valuación de la vivienda. Además, se utiliza para 
+el cálculo del Indicador de Calidad de los Materiales (INMAT) y del Indicador de Calidad Constructiva de la Vivienda 
+(INCALCONS).
+Entre los partidos de la provincia de Buenos Aires, Luján (83,7%), Brandsen (83,4%) y Vicente López (80,6%) muestran 
+los porcentajes más elevados de hogares en viviendas particulares con techos con revestimiento interior o cielorraso, 
+mientras que Florencio Varela, José C. Paz y Presidente Perón presentan valores en torno al 55%. Dentro de la Ciudad 
+Autónoma de Buenos Aires, las comunas 11 (80,2%), 13 (79,6%) y 12 (79,5%) son las que presentan los valores más altos, 
+en tanto la Comuna 8 (59,9%) registró el porcentaje más bajo.
+0
+5
+10 km
+(Arg.)
+26 - 50
+51 - 63
+64 - 73
+74 - 82
+83 - 100
+Hogares con techos 
+con revestimiento 
+interior o cielorraso
+porcentaje
+Ciudad Autónoma
+de Buenos Aires
+
+26
+Mapa 15. Hogares en viviendas particulares con pisos con revestimiento. Año 2022
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Los pisos son la superficie de base sólida sobre la cual se asienta la estructura de la vivienda. El censo indagó sobre 
+el material predominante –es decir, “el hallado en mayor proporción o el de mejor calidad, en el caso en que existan 
+dos tipos de materiales en la misma proporción– y sirve para evaluar la calidad constructiva y de materiales de las 
+viviendas” (NU, 2017, p. 270). El revestimiento es una capa adicional de la superficie base cuyo material puede ser 
+cerámica, mosaico, baldosa, madera, alfombra, microcemento, cemento alisado, mármol, o vinílico, entre otros.
+En la Ciudad Autónoma de Buenos Aires, las comunas 11, 12 y 13 registraron aproximadamente un 98% de hogares en 
+viviendas particulares con pisos revestidos, porcentaje similar al de los partidos Vicente López (97,3%), Morón (95,5%) y 
+Tres de Febrero (95,3%). Por el contrario, Florencio Varela (70,7%), San Vicente (69,9%) y Presidente Perón (66,6%) son los 
+partidos con menor cantidad de hogares en viviendas particulares con pisos construidos con revestimiento. En este 
+último, tienen mucha incidencia el Barrio América Unida (60,6%) y Guernica (66,2%).
+0
+5
+10 km
+(Arg.)
+23 - 62
+63 - 74
+75 - 83
+84 - 92
+93 - 100
+Hogares en viviendas 
+con pisos con 
+revestimiento
+porcentaje
+Ciudad Autónoma
+de Buenos Aires
+
+27
+CNPHV 2022 - Región Metropolitana Buenos Aires
+27
+Este indicador da cuenta de la disponibilidad de tecnologías de la información y las comunicaciones (TIC) en los 
+hogares, como también el acceso a las TIC y su uso por los miembros del hogar (NU, 2017, p. 273). Permite evaluar el 
+impacto de las TIC en el hogar y que esa información sea útil a las actividades de planificación de prestaciones más 
+amplias y mejoradas de servicios. El censo indagó sobre la disponibilidad de internet en la vivienda, que puede ser 
+fija (alámbrica) o a través de un punto de acceso de red inalámbrica (Wi-Fi). El mapa que se presenta a continuación 
+incluye los abonos de uso exclusivo de los teléfonos celulares móviles.
+La región registra en los hogares en viviendas particulares una conectividad de casi el 95% promedio, con picos de 
+97,7% y 97,4% en las comunas 14 y 2 de la Ciudad Autónoma de Buenos Aires, respectivamente. Siete partidos de la 
+provincia de Buenos Aires liderados por Vicente López se encuentran por encima del promedio de la región, con más 
+del 95% de hogares en viviendas particulares con acceso a internet. En cambio, los hogares con menos conectividad 
+se encuentran en Brandsen (89,7%).
+Mapa 16. Hogares en viviendas particulares con tenencia de internet en la vivienda o en el celular. Año 2022
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+0
+5
+10 km
+(Arg.)
+55 - 56
+57 - 86
+87 - 93
+94 - 96
+97 - 100
+Hogares con tenencia 
+de internet
+porcentaje
+Ciudad Autónoma
+de Buenos Aires
+
+28
+6. Salud y previsión social
+Censo Nacional de Población, Hogares y Viviendas 2022
+6.1 Distribución de la población en viviendas particulares, por tipo de cobertura de salud. 
+Total del país y Región Metropolitana Buenos Aires. Año 2022
+6.2 Población en viviendas particulares beneficiaria de jubilación o pensión. Total del país y 
+Región Metropolitana Buenos Aires. Año 2022
+Obra social o prepaga (incluye PAMI)
+Obra social o prepaga (incluye PAMI)
+Programas o planes estatales de salud
+Solo sistema público
+Solo sistema público
+Programas o planes estatales de salud
+Total del país
+Región Metropolitana Buenos Aires
+35,8%
+60,9%
+3,3%
+33,1%
+64,4%
+2,5%
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+56,6%
+solo jubilación
+6,9%
+solo pensión por 
+fallecimiento
+13,2%
+jubilación y pensión 
+por fallecimiento
+23,3%
+solo pensión de 
+otro tipo
+8.845.985
+personas que perciben
+algún tipo de beneﬁcio
+del Sistema Nacional
+de Jubilaciones
+y Pensiones
+59,5%
+solo jubilación
+7,4%
+solo pensión por 
+fallecimiento
+15,3%
+jubilación y pensión 
+por fallecimiento
+17,8%
+solo pensión de 
+otro tipo
+2.918.760
+personas que perciben
+algún tipo de beneﬁcio
+del Sistema Nacional
+de Jubilaciones
+y Pensiones
+Total del país
+Región Metropolitana Buenos Aires
+
+29
+CNPHV 2022 - Región Metropolitana Buenos Aires
+29
+6.3  Indicadores seleccionados de la población en viviendas particulares, por cobertura de 
+salud y percepción de jubilación o pensión. Año 2022
+Mapa 17. Distribución de la población en viviendas particulares con cobertura de salud por obra social o prepaga (incluye PAMI). 
+Año 2022
+En la Argentina, el acceso a la salud es un derecho constitucional y las personas que habitan el territorio nacional cuentan 
+con múltiples coberturas de salud que coexisten simultáneamente para garantizar ese derecho. El porcentaje de población 
+con cobertura de salud por obra social o prepaga (incluye PAMI) presenta diferencias a nivel territorial. En la Comuna 13 de 
+la Ciudad Autónoma de Buenos Aires el 92,8% de la población cuenta con dicha cobertura y, en el otro extremo, la Comuna 
+8 registra un 53,9%. Dentro de los partidos Vicente López, San Isidro y Morón, gran parte de las entidades supera el 75% de 
+cobertura, como en Acassuso (92,4%), La Lucila (91,7%) y Haedo (86,4%). Los menores porcentajes se observan en Moreno 
+(47,1%) y Presidente Perón (46,5%).
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+0
+5
+10 km
+(Arg.)
+12 - 46
+47 - 58
+59 - 69
+70 - 80
+81 - 99
+Población con cobertura 
+de salud por obra social o 
+prepaga (incluye PAMI)
+porcentaje
+Ciudad Autónoma
+de Buenos Aires
+
+30
+La previsión social refiere a los distintos regímenes vigentes cuyo principal objetivo es proteger a las personas que 
+salen del mercado laboral por haber alcanzado una edad determinada (vejez), por sufrir un menoscabo transitorio o 
+permanente en la posibilidad de trabajar (invalidez), o a los derechohabientes en caso de muerte de un trabajador o 
+del beneficiario de una prestación previsional.
+En la Ciudad Autónoma de Buenos Aires, los hogares en viviendas particulares con mayor cantidad de beneficiarios 
+se registran en la Comuna 11 (23,1% de su población percibe jubilación o pensión), la Comuna 6 (23,0%) y la Comuna 10 
+(22,9%). En los 39 partidos de la provincia de Buenos Aires, Vicente López (22,6%), Morón (21,6%) y San Isidro (21,6%) son 
+los partidos con población con mayor cobertura.
+Mapa 18. Distribución de la población en viviendas particulares que percibe jubilación o pensión. Año 2022
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+0
+5
+10 km
+(Arg.)
+2 - 10
+11 - 15
+16 - 19
+20 - 25
+26 - 35
+Población que recibe 
+jubilación o pensión
+porcentaje
+Ciudad Autónoma
+de Buenos Aires
+
+31
+CNPHV 2022 - Región Metropolitana Buenos Aires
+31
+7. Educación
+Censo Nacional de Población, Hogares y Viviendas 2022
+7.1 Población en viviendas particulares por condición de asistencia escolar, según grupo de 
+edad. Total del país y Región Metropolitana Buenos Aires. Año 2022
+Gráfico 1. Población en viviendas particulares que asiste a un establecimiento educativo, por grupo de edad. Total del 
+país y Región Metropolitana Buenos Aires. Año 2022
+Gráfico 2. Población en viviendas particulares que asistió a un establecimiento educativo, por grupo de edad. Total del 
+país y Región Metropolitana Buenos Aires. Año 2022
+Total del país
+Región Metropolitana Buenos Aires
+0-3
+4-5
+6-11
+12-14
+15-17
+18-24
+25-29
+65 y más
+30-64
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+32,9
+95,1
+97,4
+95,8
+90,2
+47,8
+23,8
+9,3
+10,5
+3,6
+3,7
+37,2
+94,9
+97,7
+96,2
+92,5
+50,1
+26,0
+Grupo de edad
+Porcentaje
+Total del país
+Región Metropolitana Buenos Aires
+0-3
+4-5
+6-11
+12-14
+15-17
+18-24
+25-29
+65 y más
+30-64
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+Grupo de edad
+Porcentaje
+5,1
+1,8
+1,8
+3,6
+9,1
+51,0
+74,5
+88,0 87,0
+90,5
+91,5
+4,7
+1,8
+1,7
+3,3
+7,0
+48,8
+72,3
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Gráfico 3. Población en viviendas particulares que nunca asistió a un establecimiento educativo, por grupo de edad. 
+Total del país y Región Metropolitana Buenos Aires. Año 2022
+Total del país
+Región Metropolitana Buenos Aires
+0-3
+4-5
+6-11
+12-14
+15-17
+18-24
+25-29
+65 y más
+30-64
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+62,0
+3,1
+0,8
+0,6
+0,7
+1,2
+1,7
+2,7
+2,5
+6,0
+3,7
+58,0
+3,3
+0,6
+0,5
+0,5
+1,1
+1,7
+Grupo de edad
+Porcentaje
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+
+32
+7.2 Indicadores seleccionados de condición educativa de la Región Metropolitana Buenos 
+Aires. Año 2022
+Mapa 19. Población en viviendas particulares que asiste o asistió a un establecimiento educativo. Año 2022
+La educación es un derecho consagrado en el Artículo 14 de la Constitución Nacional. El Censo 2022 da cuenta de las 
+dimensiones que reflejan la situación de la población en viviendas particulares con relación a la educación, según los 
+principales niveles y modalidades del Sistema Educativo Nacional. La Región Metropolitana Buenos Aires presenta 
+tasas de asistencia educativa –presente o pasada– de entre 97,8% (Comuna 13) y 92,8% (José C. Paz). A nivel de localidad 
+también se observan porcentajes elevados de asistencia, con entidades donde la totalidad de la población asiste o 
+asistió a un establecimiento educativo, como Barrio Cerrado El Retiro y Country Campos de Roca II del partido de 
+Brandsen; y localidades con hasta un 75,5% de asistencia, como Estancia Las Lilas, en el partido de Luján.
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+0
+5
+10 km
+(Arg.)
+75 - 76
+77 - 93
+94 - 95
+96 - 97
+98 - 100
+Población que asiste o asistió 
+a un establecimiento 
+educativo
+porcentaje
+Ciudad Autónoma
+de Buenos Aires
+
+33
+CNPHV 2022 - Región Metropolitana Buenos Aires
+33
+Mapa 20. Población en viviendas particulares de 5 a 29 años que asiste a algún establecimiento educativo. Año 2022
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+La proporción de personas de 5 a 29 años que asiste a un establecimiento educativo permite centrar el análisis en 
+el universo de la población con mayor asistencia esperada. El enfoque de este rango de edad ayuda a identificar 
+posibles desigualdades en el acceso –geográficas o socioeconómicas, entre otras– y diseñar políticas orientadas a 
+abordar las barreras que impiden la escolarización y la continuidad educativa. Se entiende como asistencia escolar: “(…) 
+la asistencia regular a cualquier institución o programa educativo regular acreditado ya sea público o privado, para la 
+enseñanza organizada a cualquier nivel de educación en el momento del censo (...)” (NU, 2017, p. 218).
+La Comuna 13 (76,4%) presenta el mayor porcentaje de asistencia de la población de 5 a 29 años. En el otro extremo, 
+la Comuna 1 (69,3%) presenta el menor porcentaje de asistencia a un establecimiento educativo para este grupo de 
+población. Dentro de los 39 partidos de la provincia de Buenos Aires, Vicente López (75,0%) y La Plata (74,9%) son los 
+que presentan los mayores porcentajes, mientras que La Matanza (65,0%) se encuentra entre los de menor, con la 
+localidad de Rafael Castillo con el porcentaje más bajo (63,4%).
+0
+5
+10 km
+(Arg.)
+29 - 50
+51 - 68
+69 - 73
+74 - 84
+85 - 100
+Población de 5 a 29 años 
+que asiste a algún 
+establecimiento educativo
+porcentaje
+Ciudad Autónoma
+de Buenos Aires
+
+34
+8. Características económicas
+Censo Nacional de Población, Hogares y Viviendas 2022
+8.1. Indicadores económicos seleccionados del total del país y de la Región Metropolitana 
+Buenos Aires. Año 2022
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Aunque la principal fuente de datos que se utiliza para estudiar el mercado de trabajo es la Encuesta Permanente de 
+Hogares (EPH) del INDEC, que permite analizar en forma frecuente su evolución durante el período intercensal,  el censo 
+caracteriza a la población en zonas que no son cubiertas por muestreo y brindan información sobre áreas pequeñas.
+Región Metropolitana 
+Buenos Aires
+Total del país
+Población
+económicamente activa
+Personas  de 14 años y 
+más que trabajan o 
+buscan trabajo 
+activamente
+Población no
+económicamente activa
+Personas de 14 años y 
+más que no trabajan ni 
+buscan trabajo 
+activamente
+63,6%
+23.051.957
+65,5%
+8.639.300
+36,4%
+13.207.419
+34,5%
+4.062.941
+
+35
+CNPHV 2022 - Región Metropolitana Buenos Aires
+35
+8.2 Población económicamente activa de 14 años y más de la Región Metropolitana Buenos 
+Aires. Año 2022
+Mapa 21. Población en viviendas particulares de 14 años y más que forma parte de la población económicamente activa. Año 2022
+La población económicamente activa (PEA) comprende a las personas de 14 años y más que trabajan o buscan 
+trabajo activamente.
+Para el conjunto de la región, la PEA registra valores de entre el 70,8% (Comuna 15) y 62,2% (Zárate). A nivel de 
+localidad, Santa Clara al Sur (88,9%), del partido de San Vicente, presenta la mayor proporción de población de 14 
+años y más que forma parte de la PEA, seguida de Chacras de Olivia (84,2%), del partido de Zárate. En este partido 
+se encuentra, asimismo, la localidad con menor porcentaje de población que conforma la PEA: en Ruta 9 Km 107, el 
+33,3% de la población de 14 años y más participa de la PEA.
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+0
+5
+10 km
+(Arg.)
+29 - 51
+52 - 69
+70 - 74
+75 - 85
+86 - 100
+Población 
+económicamente 
+activa
+porcentaje
+Ciudad Autónoma
+de Buenos Aires
+
+36
+Censo Nacional de Población, Hogares y Viviendas 2022
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Anexo I. Entidades, localidades y zona rural de la Región Metropolitana 
+Buenos Aires
+Escobar
+Campana
+Zárate
+Exaltación
+de la Cruz
+Luján
+Marcos
+Paz
+Pilar
+General
+Rodríguez
+Moreno
+Merlo
+Cañuelas
+Esteban
+Echeverría
+Almirante
+Brown
+San
+Miguel
+José
+C. Paz
+Malvinas
+Argentinas
+Ezeiza
+San 
+Vicente
+Presidente
+Perón
+Florencio
+Varela
+Brandsen
+La Plata
+Ensenada
+Berisso
+Berazategui
+Tigre
+Morón
+Ituzaingó
+San 
+Fernando
+Avellaneda
+Hurlingham
+San Fernando
+San
+Isidro
+La
+Matanza
+Lanús
+Lomas
+de
+Zamora
+Quilmes
+San
+Martín
+Vicente
+López
+Tres de
+Febrero
+Comunas de la Ciudad
+Autónoma de Buenos Aires
+C1
+C2
+C14
+C13
+C12
+C15
+C11
+C6
+C3
+C10
+C9
+C8
+C4
+C7
+C5
+0
+5
+10 km
+(Arg.)
+Límite de partido/comuna
+Límite interprovincial
+Límite internacional 
+Delimitación 
+político-administrativa
+Ciudad Autónoma
+de Buenos Aires
+Mapa 22. Delimitación político-administrativa de la Región Metropolitana Buenos Aires. Año 2022
+
+37
+CNPHV 2022 - Región Metropolitana Buenos Aires
+37
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Mapa 23. Delimitación territorial de la Región Metropolitana Buenos Aires. Año 2022
+0
+5
+10 km
+(Arg.)
+Localidad
+Zona rural
+Límite de partido/comuna
+Límite interprovincial
+Límite internacional 
+Delimitación territorial
+Límite de localidad
+Ciudad Autónoma
+de Buenos Aires
+
+38
+Delimitación territorial de Almirante Brown, Avellaneda, Berazategui y Berisso. Año 2022
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Localidad/entidad
+Zona rural
+Límite de partido/comuna
+Límite interprovincial
+Límite internacional 
+Resto de la provincia de Buenos Aires
+Resto de la Región Metropolitana Buenos Aires
+Límite de localidad
+Berazategui
+Plátanos
+Berazategui
+Oeste
+Guillermo
+Enrique Hudson
+Villa 
+España
+Ranelagh
+Carlos Tomás
+Sourigues
+Pereyra
+Juan María
+Gutiérrez
+El Pato
+San José
+José Mármol
+Adrogué
+Malvinas Argentinas
+Burzaco
+Rafael
+Calzada
+Claypole
+Don Orione
+Longchamps
+Glew
+Ministro Rivadavia
+San Francisco
+Solano
+Dock Sud
+Avellaneda
+Piñeyro
+Gerli
+Sarandí
+Villa Domínico
+Wilde
+Villa
+Porteña
+Berisso
+Villa
+Progreso
+El Carmen
+Villa San Carlos
+Los Talas-Villa Zula
+Zona rural
+Los Talas
+Villa Dolores
+Villa
+Independencia
+Villa
+Zula
+Barrio
+Banco Provincia
+Villa
+Nueva
+Villa
+Argüello
+Barrio
+Universitario
+Berazategui
+Almirante Brown
+Avellaneda
+Berisso
+
+39
+CNPHV 2022 - Región Metropolitana Buenos Aires
+39
+Zona rural
+Gobernador
+Udaondo
+Uribelarrea
+Barrio
+El Taladro
+Cañuelas
+Alejandro
+Petión
+Barrio Santa Rosa
+Barrio 
+San Esteban
+Chacras de
+La Trinidad
+Santa Anita
+Manuel
+Belgrano
+Máximo Paz
+Vicente Casares
+Barrio Los Pozos
+Gómez
+Barrio
+Las Golondrinas
+Barrio
+Los Bosquecitos
+Barrio
+Parque Las Acacias
+Coronel
+Brandsen
+Barrio Las
+Plantaciones
+Club de campo
+Las Malvinas
+Jeppener
+Altamirano
+El
+Mirador
+Country
+El Mirador
+Country
+Área 60
+Oliden
+Country
+Campos de Roca I
+Country
+Campos de Roca II
+Haras del Sur III
+Haras del Sur II
+Barrio
+cerrado
+El Retiro
+Posada
+de Los Lagos
+Zona rural
+Zona rural
+Campana
+Río
+Luján
+Chacras de
+Río Luján
+Barrio Los Pioneros
+(Barrio Tavella)
+Alto
+Los Cardales
+Retiro
+San
+Nicolás
+Monserrat
+Puerto
+Madero
+San 
+Telmo
+Constitución
+La
+Boca
+Barracas
+Parque
+Patricios
+Nueva
+Pompeya
+Villa
+Soldati
+Villa
+Lugano
+Villa
+Riachuelo
+Mataderos
+Parque
+Avellaneda
+Liniers
+Flores
+Parque
+Chacabuco
+Versalles
+Villa
+Real
+Montecastro
+Floresta
+Villa Luro
+Vélez
+Sarsﬁeld
+Villa del Parque
+Villa 
+General
+Mitre
+Villa 
+Santa
+Rita
+Villa
+Devoto
+Caballito
+Villa
+Crespo
+Chacarita
+Villa
+Ortúzar
+Paternal
+Parque
+Chas
+Agronomía
+Almagro
+Balvanera
+Boedo
+San
+Cristóbal
+Recoleta
+Belgrano
+Núñez
+Coghlan
+Colegiales
+Palermo
+Saavedra
+Villa
+Urquiza
+Villa
+Pueyrredón
+Cañuelas
+Brandsen
+Campana
+Ciudad Autónoma
+de Buenos Aires
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Delimitación territorial de Brandsen, Campana, Cañuelas y Ciudad Autónoma de Buenos Aires. Año 2022
+Localidad/entidad
+Zona rural
+Límite de partido/comuna
+Límite interprovincial
+Límite internacional 
+Resto de la provincia de Buenos Aires
+Resto de la Región Metropolitana Buenos Aires
+Límite de localidad
+
+40
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Delimitación territorial de Ensenada, Escobar, Esteban Echeverría y Exaltación de la Cruz. Año 2022
+Localidad/entidad
+Zona rural
+Límite de partido/comuna
+Límite interprovincial
+Límite internacional 
+Resto de la provincia de Buenos Aires
+Resto de la Región Metropolitana Buenos Aires
+Límite de localidad
+Canning
+El Jagüel
+Monte 
+Grande
+9 de Abril
+Luis
+Guillón
+Punta Lara
+Reserva Natural
+Isla
+Santiago
+Ensenada
+El Dique
+Zona rural
+Zona rural
+Belén de Escobar
+Loma
+Verde
+Matheu
+Ingeniero
+Maschwitz
+Garín
+Maquinista
+F. Savio
+ Este
+Paraná
+de Las Palmas
+El Chajá
+Zona rural
+Diego Gaynor
+Capilla del Señor
+La Macarena
+Las Vizcachas
+Los Cardales
+El Malacate
+Torres
+Barrio
+El Zorzal
+Barrio
+El Remanso
+Barrio 
+Los Pinos
+Pavón
+Pinares 
+Country Club
+Arroyo de 
+La Cruz
+Parada
+Orlando
+Altos del
+Cañadón
+Esteban Echeverría
+Ensenada
+Escobar
+Exaltación de la Cruz
+
+41
+CNPHV 2022 - Región Metropolitana Buenos Aires
+41
+Zona rural
+Aero 
+Country Club
+Barrio 
+Ruta 24 Km. 23,5
+Barrio 
+Ruta 24 Km.10
+General Rodríguez
+Country Club
+Bosque Real
+Barrio
+ Morabo
+General 
+Rodríguez
+Zona
+rural
+Ezeiza
+Norte
+La Unión
+Ezeiza
+Sur
+Tristán 
+Suárez
+El Trébol
+Canning
+Carlos 
+Spegazzini
+El
+Tropezón
+La
+Capilla
+Ingeniero Juan Allán
+Bosques
+Villa
+San Luis
+Villa
+Brown
+Villa
+Santa
+Rosa
+Villa
+Vatteone
+Gobernador
+Julio A. Costa
+San Juan
+Bautista
+Estanislao
+Severo Zeballos
+Villa
+Granaderos
+de San Martín
+Villa
+Marqués
+Alejandro 
+María de Aguado
+Villa
+Parque
+San
+Lorenzo
+Villa
+Lynch
+Villa Chacabuco
+Ciudad Jardín
+El Libertador
+Villa María Irene
+de los Remedios 
+de Escalada
+Villa Juan Martín
+de Pueyrredón
+Villa 
+José
+León 
+Suárez
+Villa Gral. Eugenio Necochea
+Villa Ballester
+Villa
+Gregoria Matorras
+Villa Maipú
+Villa
+Bernardo
+Monteagudo
+Villa Parque
+Presidente
+Figueroa Alcorta
+Ciudad del
+Libertador 
+Gral.
+San Martín
+Villa
+Ayacucho
+Villa
+Libertad
+Villa Juan
+Martín de
+Pueyrredón
+Billinghurst
+Barrio
+Parque
+General 
+San Martín
+Villa
+Godoy Cruz
+Villa
+Gral. José
+Tomás Guido Villa
+Gral.
+Juan G.
+Las Heras
+Villa
+Coronel José
+M. Zapiola
+Villa
+San
+Andrés
+Villa
+Yapeyú
+Villa
+José León 
+Suárez
+Villa
+Gral.
+Antonio J.
+de Sucre
+General Rodríguez
+Ezeiza
+Florencio Varela
+General San Martín
+Delimitación territorial de Ezeiza, Florencio Varela, General Rodríguez y General San Martín. Año 2022
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Localidad/entidad
+Zona rural
+Límite de partido/comuna
+Límite interprovincial
+Límite internacional 
+Resto de la provincia de Buenos Aires
+Resto de la Región Metropolitana Buenos Aires
+Límite de localidad
+
+42
+Delimitación territorial de Hurlingham, Ituzaingó, José C Paz y La Matanza. Año 2022
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Localidad/entidad
+Zona rural
+Límite de partido/comuna
+Límite interprovincial
+Límite internacional 
+Resto de la provincia de Buenos Aires
+Resto de la Región Metropolitana Buenos Aires
+Límite de localidad
+Hurlingham
+William C. Morris
+Villa Santos Tesei
+Ituzaingó
+Sur
+Ituzaingó Centro
+Villa Gobernador Udaondo
+Virrey del Pino
+20 de Junio
+González Catán
+Gregorio de
+Laferrere
+Rafael
+Castillo
+Isidro
+Casanova
+Ciudad
+Evita
+San Justo
+Villa General
+Luzuriaga
+Ramos
+Mejía
+Lomas
+del Mirador
+La
+Tablada
+Aldo
+Bonzi
+Villa
+Celina
+Villa
+Eduardo
+Madero
+Tapiales
+José C. Paz
+Tortuguitas
+Del Viso
+Hurlingham
+Ituzaingó
+La Matanza
+José C. Paz
+
+43
+CNPHV 2022 - Región Metropolitana Buenos Aires
+43
+Delimitación territorial de La Plata, Lanús, Lomas de Zamora y Luján. Año 2022
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Localidad/entidad
+Zona rural
+Límite de partido/comuna
+Límite interprovincial
+Límite internacional 
+Resto de la provincia de Buenos Aires
+Resto de la Región Metropolitana Buenos Aires
+Límite de localidad
+Villa
+Fiorito
+Ingeniero
+Budge
+Villa
+Lamadrid
+Santa
+Catarina
+Santa
+Albertina
+Santa
+Marta
+Villa
+Centenario
+Banﬁeld
+Lomas de Zamora
+Parque
+Barón
+Llavallol
+Turdera
+Temperley
+San José
+Villa Parque 
+Sicardi
+Arana
+Los Hornos
+Ángel
+Etcheverry
+Abasto
+Zona
+rural
+Zona
+rural
+Casco
+urbano
+Villa 
+Elvira
+Altos 
+de
+San
+Lorenzo
+El
+Peligro
+José
+Melchor
+Romero
+Lisandro
+Olmos
+Colonia
+Urquiza
+Arturo
+Seguí
+Los
+Porteños
+San Carlos
+El
+Rincón
+City Bell
+Villa
+Elisa
+Savoia
+Manuel
+B. Gonnet
+Joaquín
+Gorina
+José
+Hernández
+Tolosa
+Ringuelet
+Villa Castels
+(Arg.)
+Martín García
+Lanús Oeste
+Valentín Alsina
+Gerli
+Lanús Este
+Monte Chingolo
+Remedios de Escalada 
+de San Martín
+Zona
+rural
+Torres
+Loma
+Escondida
+Carlos
+Keen
+La Catalina
+Olivera
+Jáuregui
+Luján
+Cortínez
+Miralejos
+Barrio Estancia
+Golf Club
+Country Club 
+Las Praderas
+Open
+Door
+La
+Colina
+Club de Campo
+Los Puentes
+Santa
+Catalina
+Club de campo 
+La Ranita
+Lezica
+y
+Torrezuri
+Estancia
+Las Lilas
+Lomas de Zamora
+La Plata
+Lanús
+Luján
+
+44
+ Delimitación territorial de Malvinas Argentinas, Marcos Paz, Merlo y Moreno. Año 2022
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Localidad/entidad
+Zona rural
+Límite de partido/comuna
+Límite interprovincial
+Límite internacional 
+Resto de la provincia de Buenos Aires
+Resto de la Región Metropolitana Buenos Aires
+Límite de localidad
+Mariano Acosta
+Merlo
+San Antonio 
+de Padua
+Libertad
+Pontevedra
+Área de Promoción
+Tortuguitas
+Tierras 
+Altas
+Grand Bourg
+Ingeniero 
+Pablo Nogués
+Malvinas 
+Argentinas
+Los Polvorines
+Villa de Mayo
+Ingeniero Adolfo
+Sourdeaux
+Marcos Paz
+Zona Rural
+Villars
+/
+Barrio Santa 
+    Rosa
+\
+Barrio Lisandro de la 
+Torre y Santa Marta
+/
+Cuartel V
+Francisco Álvarez
+La Reja
+Moreno Norte 
+Moreno Centro
+Paso del Rey
+Trujui
+Moreno Sur
+Merlo
+Malvinas Argentinas
+Moreno
+Marcos Paz
+
+45
+CNPHV 2022 - Región Metropolitana Buenos Aires
+45
+Delimitación territorial de Morón, Pilar, Presidente Perón y Quilmes. Año 2022
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Localidad/entidad
+Zona rural
+Límite de partido/comuna
+Límite interprovincial
+Límite internacional 
+Resto de la provincia de Buenos Aires
+Resto de la Región Metropolitana Buenos Aires
+Límite de localidad
+/
+Guernica
+Residencial
+Extraurbano
+Sur
+Residencial
+Extraurbano
+Norte
+Barrio
+América
+Unida
+El Palomar
+Villa Sarmiento
+Haedo
+Morón
+Castelar
+Zelaya
+Villa Rosa
+Champagnat
+Fátima
+Manzanares
+San Francisco
+Pilar Sur
+Manzone
+Presidente
+Derqui
+La Lonja
+Villa
+Astolﬁ
+Pilar
+Del Viso
+Manuel 
+Alberti
+Luis Lagomarsino
+/
+Don
+Bosco
+Bernal
+Quilmes
+Bernal Oeste
+Quilmes Oeste
+Ezpeleta
+Ezpeleta 
+Oeste
+Villa La 
+Florida
+San Francisco
+  Solano
+Presidente Perón
+Morón
+Pilar
+Quilmes
+
+46
+Delimitación territorial de San Fernando, San Isidro, San Miguel y San Vicente. Año 2022
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Localidad/entidad
+Zona rural
+Límite de partido/comuna
+Límite interprovincial
+Límite internacional 
+Resto de la provincia de Buenos Aires
+Resto de la Región Metropolitana Buenos Aires
+Límite de localidad
+Santa María
+Campo de Mayo
+San Miguel
+Bella Vista
+Muñiz
+San Fernando
+Virreyes
+Victoria
+Zona rural
+Béccar
+San Isidro
+Acassuso
+Martínez
+Villa Adelina
+Boulogne Sur Mer
+Pincipado
+Ciudad
+Naútica
+—
+El Lauquen Club
+de Campo
+/
+Zona Rural
+Cruz del Sur
+—
+Santa Clara 
+      al Sur
+/
+Santa Rita
+—
+San Lucas
+/
+San Vicente
+Alejandro Korn
+Domselaar
+San Miguel
+San Fernando
+San Isidro
+San Vicente
+
+47
+CNPHV 2022 - Región Metropolitana Buenos Aires
+47
+Delimitación territorial de Tigre, Tres de Febrero, Vicente López y Zárate. Año 2022
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Localidad/entidad
+Zona rural
+Límite de partido/comuna
+Límite interprovincial
+Límite internacional 
+Resto de la provincia de Buenos Aires
+Resto de la Región Metropolitana Buenos Aires
+Límite de localidad
+La Lucila
+Olivos
+Munro
+Carapachay
+Villa 
+Adelina
+Florida Oeste
+Florida
+Vicente López
+Villa Martelli
+Dique Luján
+Benavídez
+Nordelta
+Rincón
+de
+Milberg
+Tigre
+Troncos 
+del Talar
+General
+Pacheco
+Ricardo 
+Rojas
+El Talar
+Don Torcuato
+Zona rural
+Zona rural
+El Libertador
+Churruca
+11 de Septiembre
+Pablo
+Podestá
+Remedios
+de Escalada
+Loma 
+Hermosa
+Villa
+Bosch
+Martín Coronado
+Ciudad Jardín
+Lomas del 
+Palomar
+Caseros
+Santos 
+Lugares
+Saenz 
+Peña
+Ciudadela
+José 
+Ingenieros
+\
+Villa
+Raffo
+\
+\
+Puente Urquiza
+\
+Zona rural
+Chacras
+del Paraná
+Chacras de 
+Olivia
+Ruta 9
+Km 107 
+/
+Lima
+Puerto
+Panal
+Acceso a Lima
+/
+Barrio el
+Mangrullo
+/
+Escalada
+/
+El Casco 
+Country Club
+/
+Zárate
+Barrio Saavedra-Barrio Bosch
+—Estancia
+Smithﬁeld
+/
+Vicente López
+Tigre
+Tres de Febrero
+Zárate
+
+48
+Censo Nacional de Población, Hogares y Viviendas 2022
+Anexo II. Regionalización de resultados censales
+Una de las divisiones geográficas que da cuenta de la 
+distribución y composición de la población en un territorio 
+determinado –útil para el análisis demográfico y el diseño 
+de políticas públicas y privadas– es la regionalización, 
+es decir, la delimitación de un determinado espacio 
+geográfico en grandes áreas, intentando que la superficie 
+cubierta sea internamente lo más homogénea posible.
+La adopción de este nivel geográfico también es valio-
+sa para la comparación internacional, en tanto las reco-
+mendaciones de organismos especializados en el dise-
+ño de los censos sugieren su especificación. Este es un 
+concepto con el cual se pretende captar el fenómeno de 
+concentración urbana derivado de la progresiva fusión 
+de localidades, aunque no se ciñe en forma estricta a a la 
+definición estadística de aglomerado7. 
+La planificación para el desarrollo del país requirió la sub-
+división del territorio nacional en grandes áreas geográ-
+ficas que registren la heterogeneidad demográfica y so-
+cioeconómica de la Argentina.
+El primer ensayo de regionalización del territorio argen-
+tino, a los efectos censales, se remonta a la planificación 
+del Censo 1947, cuando se agrupó por cercanía física a 
+las provincias y a los territorios nacionales en doce regio-
+nes para la creación del “Comisariato del Censo”: 
+•	 Región 1°. Capital Federal, partidos circunvecinos (Vi-
+cente López, San Isidro, San Fernando, Las Conchas, San 
+Martín, Morón, Matanza, Avellaneda, Cuatro de Junio, Al-
+mirante Brown, Lomas de Zamora y Quilmes) y Delta del 
+Paraná.
+•	 Región 2°. Provincia de Buenos Aires y territorio de La 
+Pampa.
+•	 Región 3°. Provincias de Santa Fe y Entre Ríos.
+•	 Región 4°. Provincia de Corrientes y territorio de Mi-
+siones.
+•	 Región 5°. Territorios de Chaco y Formosa.
+•	 Región 6°. Provincias de Tucumán y Santiago del Estero.
+•	 Región 7°. Provincias de Salta y Jujuy.
+•	 Región 8°. Provincias de Córdoba y San Luis.
+•	 Región 9°. Provincias de Catamarca y La Rioja.
+•	 Región 10°. Provincias de Mendoza y San Juan.
+•	 Región 11°. Territorios de Neuquén y Río Negro.
+•	 Región 12°. Territorios de Chubut, Santa Cruz y Tierra del 
+Fuego, islas jurisdiccionales e Islas Malvinas.
+7 Se puede consultar la definición de aglomerado en el Glosario de 
+esta edición.
+Sin embargo, la información resultante del operativo 
+fue publicada por provincias y territorios nacionales, no 
+por regiones. 
+Para el Censo 1960 se publicaron resultados censales 
+considerando a la región como división territorial.8 Fue 
+impreso en varios tomos, uno de ellos dedicado exclusi-
+vamente al Gran Buenos Aires.
+En aquellos tomos donde fueron publicados los resul-
+tados del operativo censal por provincia se le asignó el 
+nombre de “zona”, aunque no se difundieron datos tota-
+les para cada zona: 
+•	 Gran Buenos Aires: Capital Federal y 18 partidos conur-
+banos9.
+•	 Zona Central: Córdoba y Santa Fe.
+•	 Zona Cuyana: Mendoza, San Juan y San Luis.
+•	 Zona Chaqueña: Chaco, Formosa y Santiago del Estero.
+•	 	Zona Mesopotámica: Corrientes, Entre Ríos y Misiones.
+•	 Zona Noroeste: Catamarca, Jujuy, La Rioja, Salta 
+y Tucumán.
+•	 Zona Pampeana: Buenos Aires y La Pampa.
+•	 Zona Patagónica: Chubut, Neuquén, Río Negro, Santa 
+Cruz y Tierra del Fuego.
+A partir de la creación del Instituto Nacional de Estadís-
+tica y Censos (INDEC), en 1968, se comenzaron a adop-
+tar las recomendaciones de organismos internacionales 
+para la planificación y difusión de operativos censales 
+que incluyeron definiciones espaciales, tanto para la 
+operacionalización como para la difusión de resultados. 
+Para el Censo 1970 se planificó un barrido territorial por 
+provincias, cada una de ellas con responsabilidad opera-
+tiva mediante la creación de un comité censal provincial, 
+excepto para la Capital Federal, a cargo del INDEC.10
+Se había considerado adoptar una nueva regionalización 
+para actualizar las denominaciones que se usaron en 
+1960, como sigue:
+8 Toro Labbé, F. (1988). Distribución espacial de la población. 
+Recomendaciones para el Censo de 1990. Taller sobre diseño 
+conceptual del Censo de Población y Vivienda de 1990. Buenos Aires, 
+22 al 25 de noviembre de 1988, p. 19.
+https://biblioteca.indec.gob.ar/bases/minde/4si19_15.pdf
+9 El partido de Berazategui fue creado en 1960, después de la 
+realización del censo.
+10 Decreto 8.184 de 1969. [Secretaría del Consejo Nacional de 
+Desarrollo]. Censo Nacional de Población, Familias y Vivienda. 17 de 
+noviembre de 1969.
+https://www.boletinoficial.gob.ar/detalleAviso/
+primera/10786635/19691229?busqueda=1 	
+
+49
+CNPHV 2022 - Región Metropolitana Buenos Aires
+49
+•	 Región Metropolitana: Capital Federal y 19 partidos del 
+Gran Buenos Aires.
+•	 Región Pampeana: Resto de la provincia de Buenos Aires 
+y provincias de Santa Fe, Entre Ríos, Córdoba y La Pampa.
+•	 Región de Cuyo: Mendoza, San Juan y San Luis.
+•	 Región Nordeste: Corrientes, Chaco, Formosa y Misiones.
+•	 Región Noroeste: Catamarca, La Rioja, Salta, Jujuy, San-
+tiago del Estero y Tucumán.
+•	 Región Patagónica: Neuquén, Río Negro, Chubut, Santa 
+Cruz y Tierra del Fuego.
+Cabe mencionar que no se publicaron resultados con esa 
+agregación regional. Un motivo podría haber sido la reco-
+mendación de una Comisión de trabajo convocada por el 
+INDEC con el propósito de acordar un plan de tabulacio-
+nes para los resultados del censo. El objetivo era mantener 
+la comparabilidad con censos anteriores y que “brindara 
+una desagregación de los datos según características de 
+la población acorde con las necesidades y a niveles geo-
+gráficos suficientemente pequeños como para que hicie-
+ran posible su uso directo en la ejecución de los planes de 
+desarrollo o, por lo menos, que sirvieran de base para obte-
+ner estimaciones lo más ajustadas a la realidad”.11 
+También se previó “presentar por separado a la ciudad 
+Capital de la República (como jurisdicción aparte) inclui-
+dos los partidos del Gran Buenos Aires y cada una de las 
+ciudades importantes del país (capitales de provincia y 
+centros urbanos de especial gravitación”, pero finalmen-
+te no se difundió de acuerdo con el plan.
+A partir del Censo 1980, el INDEC difundió información 
+estadística según una división regional propia, basada 
+en dos premisas: 
+•	 Los operativos censales que lleva a cargo el INDEC to-
+man como unidad censal operativa a cada provincia. 
+•	 Para agrupar a cada región, se considera la acepción de 
+la Real Academia Española: 2. f. Cada una de las gran-
+des divisiones territoriales de una nación, definida por 
+características geográficas, históricas y sociales, y que 
+puede dividirse a su vez en provincias y departamentos.
+La división de 1980 segmentó al país en seis regiones:12
+•	 Región Metropolitana: Ciudad de Buenos Aires y 19 par-
+tidos del Gran Buenos Aires.
+•	 Región Cuyo: Mendoza, San Juan y San Luis.
+•	 Región Nordeste: Corrientes, Chaco, Formosa y 
+Misiones.
+•	 Región Noroeste: Catamarca, Jujuy, La Rioja, Salta, San-
+tiago del Estero y Tucumán.
+•	 Región Pampeana: Buenos Aires (excepto los 19 partidos 
+que formaban parte de la región Metropolitana), Córdo-
+ba, Entre Ríos, La Pampa y Santa Fe.
+11 CEPAL (14-19 de agosto de 1972). Seminario sobre la preparación y 
+uso de tabulaciones de censos de población y habitación. Documento 
+de referencia N° 3, Plan de tabulaciones del Censo Nacional de 
+Población, Familias y Viviendas de 1970, p. 1. 	
+12 En algunos cuadros del mismo censo se consignó Región Cuyana 
+en lugar de Cuyo y Región Patagónica en lugar de Patagonia.
+•	 Región Patagonia: Chubut, Neuquén, Río Negro, Santa 
+Cruz, y Tierra del Fuego, Antártida e Islas del Atlántico Sur.
+Así, de acuerdo con un criterio legal o jurisdiccional, 
+basado en la división político-administrativa de primer 
+orden de la República Argentina, se definieron regiones 
+conformadas por suma de provincias agrupadas, prin-
+cipalmente, en base a su localización geográfica y ca-
+racterísticas históricas y socioeconómicas.
+El Censo 1980 definió como “19 partidos del Gran Bue-
+nos Aires” al “conjunto de partidos vecinos a la Capital 
+Federal que integran total o casi totalmente el aglome-
+rado Gran Buenos Aires. Comprenden los partidos de Ge-
+neral San Martín, Lanús, Lomas de Zamora, Morón, San 
+Isidro, Tres de Febrero y Vicente López, todos los cuales 
+integran totalmente el aglomerado; más los de Almiran-
+te Brown, Avellaneda, Berazategui, Esteban Echeverría, 
+Florencio Varela, General Sarmiento, La Matanza, Merlo, 
+Moreno, Quilmes, San Fernando y Tigre, que integran el 
+aglomerado con no menos del 95% de su población”.13
+Además, se aclaró que “cuando aparecen en los cuadros 
+del Censo como '19 partidos del Gran Buenos Aires' abar-
+can la totalidad de su población, sin excluir la parte rural 
+que no está incluida en el aglomerado”. Los resultados 
+se presentaron como “Partidos del Gran Buenos Aires” y 
+“Resto de Buenos Aires”.
+El Censo 1991 continuó con la difusión de resultados por 
+región con la denominación Región Metropolitana, in-
+tegrada por Capital Federal y 19 partidos del Gran Bue-
+nos Aires. En este caso, el INDEC difundió datos censales 
+provisorios por regiones en donde se utilizó esa deno-
+minación. Se confeccionaron cuadros con resultados ab-
+solutos y en porcentaje de la población por región, com-
+parativos de 8 censos: 1869, 1895, 1914, 1947, 1960, 1970, 
+1980 y 1991.14
+Las regiones de 1991 estaban compuestas de la siguiente 
+manera: 
+•	 Región Metropolitana: Ciudad de Buenos Aires y 19 par-
+tidos del Gran Buenos Aires15. 
+•	 Región Cuyo: Mendoza, San Juan y San Luis.
+•	 Región Nordeste: Corrientes, Chaco, Formosa y Misiones.
+•	 Región Noroeste: Catamarca, Jujuy, La Rioja, Salta, San-
+tiago del Estero y Tucumán.
+•	 Región Pampeana: Resto de Buenos Aires (excepto los 19 
+partidos que formaban parte de la Región Metropolitana), 
+Córdoba, Entre Ríos, La Pampa y Santa Fe.
+•	 Región Patagonia: Chubut, Neuquén, Río Negro, Santa 
+Cruz y Tierra del Fuego.
+13 INDEC (1983). Definiciones y conceptos utilizados para las 
+tabulaciones. En Censo Nacional de Población y Vivienda 1980. Serie 
+D Población (pp. 164-167).
+https://biblioteca.indec.gob.ar/bases/minde/1c1980d2.pdf
+14 INDEC (1991). Censo Nacional de Población y Vivienda 1991. 
+Resultados Provisionales, pp. 34-40.
+https://biblioteca.indec.gob.ar/bases/minde/1c1991x8_1.pdf
+15 Los mismos 19 partidos que integraron la región en el censo anterior.
+
+50
+En cambio, los resultados del Censo 2001 no se presenta-
+ron por región sino agregados por jurisdicción, es decir, 
+de acuerdo con la división político-administrativa de pri-
+mer orden de la República Argentina. Para la provincia de 
+Buenos Aires se agruparon 24 partidos del Gran Buenos 
+Aires, por un lado, y Resto de la provincia de Buenos Ai-
+res –110 partidos–, por otro. Cabe recordar que, a partir de 
+1995, el aglomerado Gran Buenos Aires incrementó a 24 la 
+cantidad de partidos del conurbano bonaerense debido a 
+la subdivisión administrativa16  de los partidos de Esteban 
+Echeverría, General Sarmiento (que dejó de existir con esa 
+denominación) y Morón. Así, quedó conformado por:
+La Ciudad de Buenos Aires17 y 24 partidos de la provincia 
+de Buenos Aires: Almirante Brown, Avellaneda, Berazate-
+gui, Esteban Echeverría, Ezeiza, Florencio Varela, General 
+San Martín, Hurlingham, Ituzaingó, José C. Paz, La Matan-
+za, Lanús, Lomas de Zamora, Malvinas Argentinas, Merlo, 
+Moreno, Morón, Quilmes, San Fernando, San Isidro, San Mi-
+guel, Tigre, Tres de Febrero y Vicente López.
+Una década más tarde, los resultados del Censo 2010 
+se expusieron agregados por región para dar cuenta 
+de la distribución relativa de la población del país, y se 
+utilizó la denominación Región Metropolitana para la 
+aglomeración de la Ciudad Autónoma de Buenos Aires 
+más los 24 partidos del Gran Buenos Aires determina-
+dos en 1995. La nomenclatura regional fue la siguiente:
+•	 Región Metropolitana: Ciudad Autónoma de Buenos Ai-
+res y 24 partidos del Gran Buenos Aires.
+•	 Región Pampeana
+•	 Región Cuyo
+•	 Región Noroeste
+•	 Región Noreste
+•	 Región Patagónica
+Luego de la difusión de resultados del Censo 2010, el 
+Anuario Estadístico publicado en 2016 incluyó la división 
+regional que se había establecido para el Censo 1980, 
+con el mismo criterio de definición utilizado entonces. Se 
+unificó su nomenclatura y se adoptó una división region 
+que incluyó por primera vez a la Región Antártica18: 
+16 Esteban Echeverría cedió tierras a los partidos de Cañuelas y San 
+Vicente y para la creación de los partidos de Ezeiza y de Presidente 
+Perón (Leyes provinciales 11.550 del 20/10/1994 y 11.480 del 25/11/1993); 
+Ezeiza se creó con tierras del partido de Esteban Echeverría (Ley pro-
+vincial 11.550 del 20/10/1994); Florencio Varela cedió tierras para la 
+creación del partido de Presidente Perón (Ley provincial 11.480 del 
+25/11/1993); Hurlingham cedió la totalidad de sus tierras a los parti-
+dos de José C. Paz, Malvinas Argentinas, Pilar y San Miguel; Ituzain-
+gó se creó con tierras del partido de Morón (Ley provincial 11.610 del 
+28/12/1994); José C. Paz, con tierras del partido de Morón (Ley provin-
+cial 11.610 del 28/12/1994); Malvinas Argentinas, con tierras del partido 
+de General Sarmiento (Ley provincial 11.551 del 20/10/1994); Moreno, 
+con tierras del partido de General Sarmiento e incorporó un sector del 
+partido de Pilar (Ley provincial 11.551 del 20/10/1994)); San Miguel cedió 
+tierras para la creación de los partidos de Hurlingham e Ituzaingó.
+17 A partir de la sanción de la Constitución de la Ciudad de Buenos 
+Aires, el 1° de octubre de 1996, el nombre oficial es “Ciudad Autónoma 
+de Buenos Aires”, pero la denominación como tal comenzó a utilizarse 
+en el Censo 2010 y posteriores operaciones estadísticas.
+18 La inclusión de la Región Antártica que originalmente no fue 
+contemplada en 1980 tiene el objetivo de legitimar los derechos 
+de la República Argentina sobre los territorios antárticos, tal como 
+lo establece la Ley 26.651 sancionada en 2010, de obligatoriedad 
+del uso del mapa bicontinental. No se utiliza para la difusión de 
+resultados estadísticos.
+Regiones que corresponden al territorio americano de la 
+República Argentina: 
+•	 Región Gran Buenos Aires: Ciudad Autónoma de Bue-
+nos Aires y 31 partidos de la provincia de Buenos Aires19: 
+Almirante Brown, Avellaneda, Berazategui, Cañuelas, 
+Escobar, Esteban Echeverría, Ezeiza, Florencio Varela, 
+General Rodríguez, General San Martín, Hurlingham, 
+Ituzaingó, José C. Paz, La Matanza, Lanús, Lomas de Za-
+mora, Malvinas Argentinas, Marcos Paz, Merlo, Moreno, 
+Morón, Pilar, Presidente Perón, Quilmes, San Fernando, 
+San Isidro, San Miguel, San Vicente, Tigre, Tres de Febrero 
+y Vicente López. 
+•	 Región Cuyo: Mendoza, San Juan y San Luis. 
+•	 Región Noreste: Chaco, Corrientes, Formosa y Misiones. 
+•	 Región Noroeste: Catamarca, Jujuy, La Rioja, Salta, San-
+tiago del Estero y Tucumán. 
+•	 Región Pampeana: Buenos Aires (excepto los par-
+tidos que integran el aglomerado Gran Buenos Ai-
+res)20, Córdoba, Entre Ríos, La Pampa y Santa Fe.
+•	 Región Patagonia: Chubut, Neuquén, Río Negro, San-
+ta Cruz, y Tierra del Fuego, Antártida e Islas del Atlán-
+tico Sur21.
+Región que corresponde al territorio antártico de la Re-
+pública Argentina:
+•	 Región Antártica: integrada por el departamento Antárti-
+da Argentina, e Islas Aurora denominadas también Rocas 
+Cormorán y Roca Negra, Islas Georgias del Sur, Orcadas 
+del Sur y Sandwich del Sur del departamento Islas del 
+Atlántico Sur. Ambos departamentos corresponden a la 
+provincia de Tierra del Fuego, Antártida e Islas del Atlán-
+tico Sur. 
+Además, se explicitó que las denominaciones de las re-
+giones –desde el punto de vista gramatical– se corres-
+pondía con sustantivos y no con adjetivos, como en el 
+caso de los nombres de las provincias, departamentos, 
+gobiernos locales y localidades. Con ese criterio, los nom-
+bres de las regiones eran Noreste, Noroeste, Cuyo, Pata-
+gonia, aunque se exceptuaron en dos casos: para la re-
+gión de La Pampa y para la región de la Antártida. 
+En el primer caso, se la nombró Región Pampeana para no 
+confundir que se refiere solo a la provincia de La Pampa. En 
+el segundo, se la nombró Región Antártica para no malin-
+terpretar que se refiere solo al departamento Antártida Ar-
+gentina de la provincia de Tierra del Fuego, Antártida e Islas 
+del Atlántico Sur; o al continente antártico en su conjunto.
+Cabe resaltar que la región abarcó una cantidad de po-
+blación inferior a la del aglomerado Gran Buenos Aires, 
+dado que el conjunto de partidos que la conforman per-
+maneció inalterado entre censos, mientras que el aglome-
+rado se fue extendiendo de manera continua con el paso 
+del tiempo.
+19 Se consideraron 31 partidos de la provincia de Buenos Aires debi-
+do a la expansión de la localidad Gran Buenos Aires relevada en el 
+Censo 2010.	
+20 Para algunas publicaciones estadísticas, esta región incluyó al aglo-
+merado Gran Buenos Aires.	
+21 Solo los departamentos Río Grande, Tolhuin, Ushuaia y las Islas Mal-
+vinas del departamento Islas del Atlántico Sur.	
+
+51
+CNPHV 2022 - Región Metropolitana Buenos Aires
+51
+Glosario
+Censo Nacional de Población, Hogares y Viviendas 2022
+Aglomerado
+Unidad territorial que se extiende en dos o más áreas po-
+lítico-administrativas, ya sean de primer o segundo nivel, 
+o gobiernos locales. Si supera los 100.000 habitantes, se 
+lo designa con el nombre del componente principal del 
+aglomerado precedido del término "Gran". 
+Agua para beber y cocinar por red pública 
+(agua corriente) 
+Refiere a la procedencia y el sistema de abastecimiento del 
+agua que el hogar utiliza para beber y cocinar. Red públi-
+ca o agua corriente es el sistema de captación, tratamiento 
+y distribución de agua mediante una red de tuberías co-
+munal sometida a inspección y control por las autoridades 
+públicas. El sistema puede estar a cargo de un organismo 
+público, una cooperativa o una empresa privada. 
+Agua por cañería dentro de la vivienda 
+Acceso al agua a través de un sistema de suministro de 
+agua conectado a una red de tuberías por medio de la 
+cual se distribuye el agua en el interior de la vivienda. 
+Aporte jubilatorio
+Recurso monetario realizado directamente y en su totali-
+dad por la persona trabajadora, destinado a su jubilación 
+(autónomo o monotributista).
+Cédula o cuestionario censal
+Instrumento de medición que se utiliza en el releva-
+miento censal y sirve para sistematizar la recolección de 
+datos. El cuestionario censal recaba información a par-
+tir de variables precodificadas (derivadas de preguntas 
+con opciones de respuesta predefinidas en el formulario 
+censal) y también de preguntas abiertas, sin opciones de 
+respuesta predefinidas, que deben pasar por un proce-
+so de codificación en el formulario censal para obtener 
+datos de las características habitacionales del hogar, los 
+atributos demográficos básicos, la percepción de jubila-
+ción o pensión y de cobertura de salud, la migración, la 
+asistencia escolar, el nivel y el máximo nivel de instruc-
+ción, la organización familiar, la fecundidad de las mu-
+jeres, la condición de actividad económica, la categoría 
+ocupacional, y la actividad del establecimiento en el que 
+la persona trabaja.
+Censo
+Operativo que tiene por objetivo enumerar el total de 
+unidades o elementos que conforma una población 
+objetivo y medir una o más características sobre ellos. 
+Como abarca al cien por ciento de la población objeto 
+de estudio, los resultados que se obtienen están libres 
+de error muestral. Sin embargo, como en cualquier otra 
+operación estadística, están presentes los errores ajenos 
+al muestreo, tales como los de no respuesta, de cober-
+tura, de medición, de procesamiento u otras fuentes. Un 
+censo puede estar dirigido a personas, hogares, vivien-
+das, empresas locales y establecimientos agropecuarios, 
+pesqueros, mineros, entre otros.
+Censo digital 
+Sistema informático alojado en un dominio web a través 
+del cual se le ofreció a la población completar el cues-
+tionario censal del Censo 2022. Incluyó una serie de pa-
+ses (validaciones) para el autoempadronamiento de la 
+población, de los hogares y de las viviendas con el obje-
+tivo de obtener respuestas válidas y ahorrarle tiempo a 
+las personas y a la estructura censal que llevó a cabo los 
+operativos de barrido territorial. 
+Cobertura de salud
+Permite caracterizar a la población según el tipo de co-
+bertura: Obra social o prepaga (incluye PAMI); programas 
+o planes estatales de salud; y solo con cobertura del sis-
+tema público.
+Cobertura geográfica 
+Territorio al que refieren los datos de un operativo esta-
+dístico. 
+Componente de aglomerado
+Unidad territorial que identifica parte de un aglomerado, 
+ubicada sobre una sola área político-administrativa de 
+segundo nivel o sobre un solo gobierno local.
+Condición de actividad económica 
+Permite clasificar a la población entre económicamente 
+activa y económicamente inactiva, según sea si la per-
+sona trabaja (ocupada), no trabaja, pero busca trabajo 
+(desocupada) y no trabaja ni busca trabajo (persona no 
+económicamente activa). Las personas ocupadas y des-
+ocupadas corresponden a la población económicamen-
+te activa. Las personas que trabajan realizan cualquier 
+actividad (paga o no) que genera bienes o servicios para 
+el mercado. Corresponde al trabajo de las personas du-
+rante por lo menos una hora en la semana anterior al 
+momento del Censo, sin contar las tareas de su hogar. 
+Toda actividad laboral dirigida al mercado será conside-
+rada como trabajo independientemente de su retribu-
+ción. Las personas desocupadas son las que buscaban 
+trabajo activamente durante las cuatro semanas anterio-
+res al momento del Censo y declararon no haber trabaja-
+do durante la semana anterior. Esta búsqueda activa no 
+debe efectuarse necesariamente durante todo el perío-
+do; basta con que se haya realizado en algún momento 
+de las últimas 4 semanas. Las personas económicamen-
+te inactivas son quienes declararon no haber trabajado 
+
+52
+durante la semana anterior y tampoco buscaron trabajo 
+en algún momento de las últimas 4 semanas.
+Condición de asistencia escolar 
+Se refiere a las personas que, al momento del censo, 
+asisten, no asisten pero asistieron o nunca asistieron a 
+un establecimiento educativo reconocido del sistema de 
+enseñanza formal.
+Densidad de población
+Relación que se establece entre la cantidad de 
+habitantes por unidad de superficie. 
+Departamento, partido o comuna	 	
+Área territorial definida por una división político-admi-
+nistrativa de segundo nivel. Estas áreas político-territo-
+riales cubren en forma exhaustiva el territorio de cada 
+jurisdicción y, por ende, el territorio nacional. Se deno-
+minan partidos en la provincia de Buenos Aires, depar-
+tamentos en el resto de las provincias y comunas en la 
+Ciudad Autónoma de Buenos Aires.
+Desagregación geográfica 
+Nivel de apertura en divisiones territoriales con la cual se 
+producen las estadísticas. Por ejemplo: municipal, pro-
+vincial, regional o nacional. 
+Desagüe del inodoro del baño a red pública 
+Sistema de cañerías interno que permite la canalización del 
+arrastre de agua y la eliminación de excretas del inodoro y 
+que enlaza con una red pública de tuberías comunal (cloaca). 
+Descuento jubilatorio 
+Retenciones que la empresa o el organismo realiza a 
+quienes trabajan, dirigidas a pagar los aportes jubilato-
+rios establecidos legalmente.
+Edad
+Años cumplidos al momento de referencia del censo.
+Entidad	
+	
+	
+	
+	
+Unidad territorial que identifica una subdivisión de la lo-
+calidad dentro de una misma área político-administrati-
+va. Su conformación puede corresponder a una localidad 
+que en su origen fue simple y que se integró a otra locali-
+dad, o bien puede corresponder a subdivisiones internas 
+de localidades existentes. En algunos casos, la delimita-
+ción de una entidad puede estar establecida por la legis-
+lación local.	
+Estadísticas oficiales 
+Estadísticas producidas y difundidas como un bien pú-
+blico por las agencias estadísticas a nivel municipal, pro-
+vincial o nacional, o bien por organizaciones internacio-
+nales. Incluye solo información agregada como cuadros 
+o indicadores. Excluye productos estadísticos como ba-
+ses de datos, marcos de muestreo, nomencladores, clasi-
+ficadores y directorios. 
+Gas de red, garrafa o electricidad para cocinar 
+Combustible o fuente de energía que se utiliza con 
+mayor frecuencia para la cocción de los alimentos, como 
+electricidad, gas de red, gas en tubo o gas a granel 
+(zeppelin), gas en garrafa, leña o carbón u otro (por 
+ejemplo, alcohol).
+Grupo de edad
+Cohorte o grupo poblacional que comparte una caracte-
+rística o evento de origen en común, por ejemplo, haber 
+nacido en un año o período determinado. En este caso se 
+clasifica a un grupo de individuos en conjuntos determi-
+nados por la edad.
+Grupo poblacional
+También denominado subpoblación, hace referencia 
+a un colectivo o grupo de personas que comparte 
+características similares entre sí dentro de la población 
+en estudio.
+Hogar 
+Persona o grupo de personas, parientes o no, que viven 
+bajo el mismo techo y comparten los gastos de alimen-
+tación, aunque no todas aporten ingresos.
+Índice de dependencia potencial 
+Cantidad de personas de edad inactiva por cada 100 per-
+sonas de edad activa. Es una proporción que se calcula 
+de la siguiente forma: [(Total de personas de 0 a 14 años + 
+Total de personas de 65 años y más) ÷ (Total de personas 
+de 15 a 64 años)] × 100. 
+Índice de feminidad 
+Expresa la cantidad de mujeres por cada 100 varones. Es 
+una proporción que se calcula de la siguiente forma: (To-
+tal de mujeres ÷ Total de varones) × 100. 
+Internet en la vivienda o en el celular 
+Disponibilidad de internet de banda ancha fija o alám-
+brica. Puede tratarse también de una conexión a través 
+de un punto de acceso de red inalámbrica (Wi-Fi). Incluye 
+abonos de uso exclusivo de los teléfonos celulares móviles.
+Jubilación 
+Percepción de una prestación de tipo contributiva, es de-
+cir, a la que se accede a partir del retiro de la actividad 
+laboral y que es recibida de un sistema organizado de 
+participación obligatoria.
+Jurisdicción	
+Área territorial definida por una división político-adminis-
+trativa de primer nivel del país. Con base en el régimen fe-
+deral de gobierno, la República Argentina está constituida 
+por veintitrés provincias y una ciudad autónoma: la Ciu-
+dad Autónoma de Buenos Aires; y las provincias de Bue-
+nos Aires; Catamarca; Córdoba; Corrientes; Chaco; Chubut; 
+Entre Ríos, Formosa; Jujuy; La Pampa; La Rioja; Mendoza; 
+Misiones; Neuquén; Río Negro; Salta; San Juan; San Luis; 
+Santa Cruz; Santa Fe; Santiago del Estero; Tierra del Fuego, 
+Antártida e Islas del Atlántico Sur; y Tucumán.	
+Localidad censal
+Unidad territorial caracterizada por la concentración es-
+pacial de edificaciones conectadas entre sí a través de 
+
+53
+CNPHV 2022 - Región Metropolitana Buenos Aires
+53
+una red de vías de circulación, terrestres o navegables. 
+Se identifica por un nombre establecido por ley o cos-
+tumbre. La delimitación de la localidad censal se realiza 
+de acuerdo con el criterio de continuidad física. El criterio 
+físico para la detección y delimitación de una localidad 
+se basa en la consideración de elementos tangibles en el 
+territorio. El INDEC utiliza este criterio para definir locali-
+dades basándose en características visibles y permanen-
+tes, entre ellas, edificaciones y vías de circulación. Esto 
+facilita la recolección y el análisis de datos estadísticos 
+consistentes y comparables a lo largo del tiempo.
+Localidad simple
+Unidad territorial que se ubica en una sola área político-
+administrativa de segundo nivel o un solo gobierno local.
+Nivel educativo 
+Nivel que cursa o cursaba la persona censada al momen-
+to del relevamiento, en la Argentina o en el exterior. 
+Obra social (incluye PAMI) 
+Cobertura de salud que obtienen los trabajadores por el 
+descuento en sus salarios, en su haber previsional o a tra-
+vés de su aporte (para los monotributistas o autónomos). 
+Incluye a los familiares del titular. Este descuento les per-
+mite estar afiliados a obras sociales sindicales, de emplea-
+dos estatales nacionales, provinciales o municipales, del 
+poder judicial, del poder legislativo o del PAMI.
+PAMI 
+Programa de Asistencia Médica Integral que brinda el 
+Instituto Nacional de Servicios Sociales para Jubilados 
+y Pensionados (INSSJP) de la República Argentina a las 
+personas mayores, sus familiares a cargo, pensionados y 
+veteranos de Malvinas. 
+Pensión 
+Remuneración que reciben los herederos reconocidos 
+legalmente por muerte del afiliado en actividad o del ti-
+tular de la jubilación ordinaria. 
+Pirámide o histograma de la población 
+Clase especial de gráfico de barras que presenta la distri-
+bución de una población por edad y por sexo. La pobla-
+ción de la mayoría de los países puede representarse con 
+uno de los siguientes tipos de pirámides: 
+•	 Expansiva, con una base amplia, lo que indica una pro-
+porción elevada de niños y niñas, y una rápida tasa de 
+crecimiento de la población. 
+•	 Constrictiva, con una base más estrecha que el centro de 
+la pirámide, lo que generalmente ilustra un rápido des-
+censo en la fecundidad. 
+•	 Estacionaria, con una base estrecha y un número de per-
+sonas aproximadamente igual en cada grupo de edad, 
+que se vuelve más angosta en los grupos de más edad, lo 
+que indica una proporción moderada de niños y una tasa 
+de crecimiento lenta y nula.
+Pisos con revestimiento 
+Los pisos son la superficie de base sólida sobre la cual 
+se asienta la estructura de la vivienda. La referencia a 
+“predominante” corresponde al material hallado en ma-
+yor proporción o el de mejor calidad en el caso en que 
+existan dos tipos de materiales en la misma proporción. 
+El revestimiento refiere a: cerámica, mosaico, baldosa, 
+alfombra, madera, flotante, vinílico, microcemento, ce-
+mento alisando, mármol.
+Población económicamente activa 
+Comprende a la población de 14 o más años que, en el 
+período de referencia adoptado por el censo, estuvo: 
+•	 Ocupada: población que durante por lo menos una hora 
+en la semana anterior a la fecha de referencia del cen-
+so desarrolló cualquier actividad (paga o no) que genera 
+bienes o servicios para el “mercado”. Incluye a quienes 
+realizaron tareas regulares de ayuda en la actividad de un 
+familiar, reciban o no una remuneración por ello y a quie-
+nes se hallaron en uso de licencia por cualquier motivo. 
+Se excluye de la actividad económica los trabajos volun-
+tarios o comunitarios que no son retribuidos de ninguna 
+manera. 
+•	 Desocupada: es la población que, no hallándose en nin-
+guna de las situaciones descriptas, desarrolló, durante 
+las cuatro semanas anteriores al día del censo, acciones 
+tendientes a establecer una relación laboral o iniciar una 
+actividad empresaria (tales como responder o publicar 
+avisos en los diarios u otros medios solicitando empleo, 
+registrarse en bolsas de trabajo, buscar recursos finan-
+cieros o materiales para establecer una empresa, solici-
+tar permisos y licencias para iniciar una actividad laboral, 
+etcétera).
+Población objetivo 
+Conjunto de todas las unidades sobre los cuales se obser-
+va una o más características de interés con el fin de ob-
+tener información estadística. Por ejemplo, las unidades 
+pueden ser: personas, hogares, viviendas, empresas, lo-
+cales, explotaciones agropecuarias, etc. Además, las uni-
+dades deben estar situadas en tiempo (fecha) y espacio 
+(geográficamente). Por ejemplo, las personas de 18 años 
+o más que habitaban en CABA el 18 de mayo de 2022. 
+Población rural 
+Población en localidades de menos de 2.000 habitantes. 
+Incluye a la población rural dispersa que está conforma-
+da por las personas que residen en campo abierto, sin 
+constituir centros poblados. 
+Población urbana 
+Población que reside en localidades de 2.000 habitantes 
+y más. 
+Prepaga
+Pertenencia al sistema de medicina privada a través del 
+aporte a una obra social (derivación de aportes) o sistema 
+de salud privado contratado voluntariamente y pagado en 
+su totalidad por la persona titular. Excluye la contratación 
+de un servicio de emergencias médicas que solamente 
+preste servicio de traslado en ambulancia desde el domi-
+cilio particular a un centro de atención de salud.
+
+54
+Programas o planes estatales de salud 
+Programas o planes de salud estatales nacionales –como 
+el PROFE o el plan NACER–, provinciales, municipales 
+entre otros, que otorga derecho a atención médica me-
+diante la inscripción en un padrón.
+Régimen de tenencia
+Refiere a la relación de posesión jurídica o de hecho del 
+hogar respecto a la vivienda.
+Región Metropolitana Buenos Aires
+Territorio conformado por la Ciudad Autónoma de Bue-
+nos Aires y 39 partidos de la provincia de Buenos Aires 
+(Almirante Brown, Avellaneda, Berazategui, Berisso, 
+Brandsen, Campana, Cañuelas, Ensenada, Escobar, Es-
+teban Echeverría, Exaltación de la Cruz, Ezeiza, Floren-
+cio Varela, General Rodríguez, General San Martín, Hur-
+lingham, Ituzaingó, José C. Paz, La Matanza, Lanús, La 
+Plata, Lomas de Zamora, Luján, Malvinas Argentinas, 
+Marcos Paz, Merlo, Moreno, Morón, Pilar, Presidente Pe-
+rón, Quilmes, San Fernando, San Isidro, San Miguel, San 
+Vicente, Tigre, Tres de Febrero, Vicente López y Zárate). 
+Esta delimitación territorial se realizó con base en los an-
+tecedentes históricos del INDEC, que utilizó el criterio de 
+continuidad física para determinar el aglomerado urba-
+no, considerando las distancias entre los bordes de las 
+áreas edificadas y no edificadas —distantes a menos de 
+1.500 metros— y que conforman un continuo urbano o 
+“mancha urbana”. En forma complementaria, se utilizó 
+el criterio de división político-administrativa para deter-
+minar la inclusión de los partidos que son abarcados por 
+dicho continuo urbano, sea en forma total o parcial.
+Resultados definitivos
+Los datos que se presentan en esa instancia correspon-
+den a la totalidad de las variables para las tres unidades 
+de empadronamiento (población, hogares y viviendas). 
+Esta información es definitiva porque se han completa-
+do los procesos de estructura jerárquica, evaluación de 
+calidad, validación e imputación, elaboración de varia-
+bles complejas e integración de las bases papel y digital.
+Sexo registrado al nacer
+Refiere al sexo con que fue registrada la persona al nacer 
+en la partida de nacimiento o documento de identidad. Si 
+la persona no tiene documentación, refiere al sexo asig-
+nado por la partera, el médico, el familiar o la sociedad. 
+Puede ser mujer/femenino, varón/masculino, o bien ha-
+ber sido rectificada mediante la nomenclatura X/ninguna 
+de las anteriores. La nomenclatura X –que comprende las 
+acepciones no binaria, indeterminada, no especificada, 
+indefinida, no informada, autopercibida, no consignada, 
+u otra acepción con la que pudiera identificarse la per-
+sona que no se sienta comprendida en el binomio mas-
+culino/femenino– está vigente en la Argentina a partir 
+del Decreto 476/2021. De acuerdo con la evaluación de 
+calidad y consistencia de los resultados definitivos, y para 
+cumplir con los estándares de calidad estadística reque-
+ridos por el INDEC, la categoría X de las respuestas a la 
+pregunta por sexo registrado al nacer se distribuye entre 
+las categorías Mujer/femenino y Varón/masculino.
+Ubicación geográfica 
+Conjunto de información que permite la ubicación preci-
+sa de una vivienda o edificación en terreno. Está confor-
+mada por la identificación de provincia, departamento, 
+partido o comuna, número de manzana, lado de man-
+zana, código y nombre de calle, ruta o camino, número 
+o km, piso, departamento o pieza, edificio, monoblock o 
+tira, entrada o escalera, casa o lote y número de vivienda. 
+Unidad geoestadística 
+Cada una de las porciones de territorio que se utilizan 
+para referir información estadística. Con esta denomina-
+ción se contemplan tanto las diferentes divisiones polí-
+tico-administrativas (por ejemplo, provincias o depar-
+tamentos) como aquellas unidades establecidas por el 
+INDEC con fines operativos al Censo (por ejemplo, locali-
+dad censal, fracción censal, radio censal). 
+Vivienda 
+Espacio construido para que vivan personas. Se caracte-
+riza por estar cubierta por un techo y rodeada de paredes 
+u otro elemento de separación (para poder dormir, ali-
+mentarse y protegerse del medio ambiente); y por tener 
+una entrada independiente o compartida para que sus 
+ocupantes puedan entrar y salir sin pasar por el interior 
+de otras viviendas. Las viviendas se pueden clasificar en 
+particulares o colectivas. 
+Viviendas particulares 
+Viviendas destinadas al alojamiento de uno o más hoga-
+res en donde las personas viven bajo un régimen de tipo 
+familiar (sean o no parientes). Estas viviendas pueden 
+haber sido construidas con fines habitacionales o estar 
+adaptadas para alojar personas. Pueden estar habitadas 
+o deshabitadas.
+Zona rural
+Área comprendida entre el perímetro de la localidad 
+censal y el límite de partido, donde se asienta población 
+rural dispersa. 
+

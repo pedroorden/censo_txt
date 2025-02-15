@@ -1,0 +1,809 @@
+Viviendas colectivas y
+personas en situación de calle
+NOVIEMBRE | 2023 
+Censo Nacional de Población, Hogares y Viviendas 2022
+Resultados deﬁnitivos
+
+Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos 
+Viviendas colectivas y personas en situación de calle
+ 
+
+7
+CNPHV 2022 - Viviendas colectivas y personas en situación de calle
+1. Introducción
+Esta publicación presenta los resultados sobre la población censada en los operativos 
+de viviendas colectivas y de población en situación de calle.
+Por primera vez en la historia, el Censo Nacional de Población, Hogares y Viviendas 
+2022 (Censo 2022) se realizó bajo la definición de censo de derecho, es decir que 
+contabilizó a las personas según su lugar de residencia habitual. En cambio, los diez 
+censos anteriores se realizaron de acuerdo con la metodología de hecho, es decir 
+que se enumeraba a la población en el lugar donde había pasado la noche anterior 
+al Día del Censo.
+La ejecución completa del Censo 2022 contempló la realización de distintos 
+operativos:
+•	 Operativo de viviendas particulares urbanas y rurales: se implementó 
+para cuantificar y caracterizar a las personas que habitan en las viviendas 
+particulares de áreas urbanas y rurales del territorio nacional. 
+•	 Operativo de viviendas colectivas: incluyó el relevamiento de colegios 
+internados; cuarteles; establecimientos de salud; hogares de niñas, niños y 
+adolescentes; hogares de personas mayores; hogares de personas religiosas; 
+paradores y prisiones, entre otras. Se realizó un relevamiento presencial el día 
+previo al censo general, 17 de mayo, y se utilizaron cuestionarios en papel e 
+información de registros administrativos previamente seleccionados.
+•	 Operativo para población en situación de calle: por primera vez en la 
+historia de los censos argentinos, se realizó un relevamiento presencial de las 
+personas que viven en la vía pública durante la noche del lunes anterior al 
+Día del Censo, es decir la noche del 16 de mayo de 2022,y el instrumento de 
+recolección fue un cuestionario censal único.
+La nueva definición del relevamiento estableció que en las viviendas colectivas 
+debían censarse todas las personas que vivían cuatro días o más en la semana en 
+calidad de internas, internadas o huéspedes, como por ejemplo aquellas que se 
+encontraban internadas bajo largo tratamiento en hogares de personas mayores o 
+en hospitales; o alojadas en hogares de niñas, niños y adolescentes; o en prisiones, 
+entre otros. 
+Finalmente, el operativo de la población en situación de calle consideró a las personas 
+que se encontraban en la vía pública, en el marco del operativo especial que se 
+realizó durante la noche del 16 de mayo de 2022. En esta publicación se presentan los 
+resultados de la población en situación de calle enumerada en la vía pública junto 
+a la relevada en refugios y paradores a través del operativo de viviendas colectivas.  
+Se debe tener presente que las direcciones provinciales de estadística de las 
+jurisdicciones Formosa y Tierra del Fuego no implementaron el operativo en vía 
+pública y no relevaron personas en refugios o paradores en el de viviendas colectivas. 
+Por su parte, en las jurisdicciones La Rioja, Rio Negro y Santa Cruz, tampoco 
+implementaron el operativo en vía publica, pero sí se contabilizaron personas en 
+refugios o paradores.
+
+8
+Consideraciones referidas al operativo de viviendas colectivas
+Cabe mencionar algunos aspectos referidos a los resultados definitivos del operativo de viviendas colectivas, 
+que hacen a su vez a las diferencias observadas respecto a la cantidad total de viviendas colectivas de los 
+resultados provisionales ya difundidos.
+Estas diferencias se deben a que, por una parte, los resultados definitivos de las viviendas colectivas con 
+población provienen del relevamiento por entrevista directa con implementación de cuestionario y de registros 
+administrativos, a diferencia de los resultados provisionales que proceden del resumen de las planillas del 
+operativo censal.
+Como se mencionó anteriormente, la modalidad del operativo censal de viviendas colectivas 2022 fue de derecho, 
+e incluyó en el relevamiento a aquellas viviendas destinadas a alojar personas mayoritariamente de forma 
+temporal (alojamientos turísticos, campamentos u obradores y hospitales generales que tradicionalmente 
+se relevaban en los censos de hecho). Esto se realizó con el objetivo de incluir tanto a los residentes habituales 
+(quienes residen allí cuatro o más días en la semana en un período igual o mayor a seis meses) como también 
+a la población que se encontrara temporalmente en esa vivienda y no sería censada en ningún otro lugar.
+Ahora bien, en caso de no encontrarse residentes habituales en la vivienda visitada, esta fue listada en las planillas 
+operativas de relevamiento pero no se abrió cuestionario para la población, considerando que en los censos de 
+población de derecho solo se censan las viviendas colectivas que contienen al menos una o más personas con 
+residentes habituales. De esta manera, mientras que en los resultados provisionales se contabilizó la totalidad 
+de las viviendas colectivas (independientemente de si había residentes habituales o no), en esta oportunidad se 
+incluyen únicamente aquellas donde se registró población con residencia habitual. 
+
+9
+CNPHV 2022 - Viviendas colectivas y personas en situación de calle
+9
+2. Población en viviendas colectivas
+Al enumerar a la población según el lugar de residencia habitual, es decir, de carácter permanente, el Censo 2022 
+identificó que las personas que viven en viviendas colectivas se concentraron en tres tipos de establecimiento: las 
+prisiones (40,0%), los hogares de personas mayores/geriátricos (30,6%) y los establecimientos de salud/hospitales 
+(10,7%). En conjunto, esas tres viviendas colectivas nuclean al 81% del total de la población que allí habita.
+La población de refugios y paradores fue relevada en el operativo de viviendas colectivas. Se encuentra 
+contabilizada junto con la población en situación de calle, a partir de la página 13 de la presente publicación.
+Población en viviendas colectivas y distribución porcentual, según tipo de
+vivienda colectiva. Total del país. Año 2022
+0
+24.000
+48.000
+72.000
+96.000
+120.000
+Campamento
+/obrador
+Hogar de religiosas
+o religiosos
+Hogar de ñinas,
+niños y adolescentes
+Cuartel
+Colegio internado
+Otro (1)
+Alojamiento turístico
+/hotel turístico
+Establecimiento de
+salud/hospital
+Hogar de personas
+mayores/geriátrico
+Prisión
+ׂ׈خ׆׆׀ش10,7%
+12.869 / 4,8%
+10.052 / 3,8% 
+7.749 / 2,9%
+6.805 / 2,5%
+6.650 / 2,5%
+ׄخ׀ׁ׈ش1,5%
+1.801 / 0,7%
+107.173 / 40,0%
+82.016 / 30,6%
+Tipo de vivienda colectiva
+96.357
+Mujeres/femenino
+171.436 
+Varones/masculino
+267.793
+fueron censadas en 
+11.920 
+viviendas colectivas
+personas
+(1) Incluye los hogares de protección contra la violencia, los hogares para personas con discapacidad y los hogares para atención de 
+población vulnerable o en riesgo, entre otros.
+Nota: se excluye a las personas censadas en refugios o paradores, ya que se encuentran contabilizadas junto con la población en 
+situación de calle.
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+
+10
+Distribución de la población censada en viviendas colectivas, por sexo 
+registrado al nacer, según tipo de vivienda colectiva. Total del país. Año 2022
+(1) Incluye los hogares de protección contra la violencia, los hogares para personas con discapacidad y los hogares para atención de 
+población vulnerable o en riesgo, entre otros. 
+Nota: se excluye a las personas censadas en refugios o paradores, ya que se encuentran contabilizadas junto con la población en 
+situación de calle.
+Los totales por suma pueden no coincidir por redondeo en las cifras parciales.
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Porcentaje
+0
+20
+40
+60
+80
+100
+Prisión
+Campamento/obrador
+Cuartel
+Alojamiento turístico/hotel turístico
+Otro (1)
+Establecimiento de salud/hospital
+Colegio internado
+Hogar de niñas, niños y adolescentes
+Hogar de religiosas o religiosos
+Hogar de personas mayores/geriátrico
+70,1
+29,9
+58,7
+41,3
+49,2
+50,8
+48,5
+51,5
+46,6
+53,4
+44,2
+55,8
+41,3
+58,7
+21,7
+78,3
+9,3
+90,7
+4,3
+95,7
+Mujeres/femenino
+Varones/masculino
+Los resultados del Censo 2022 presentan una composición por sexo de la población en viviendas colectivas que 
+difiere según el tipo de vivienda colectiva en el que vive. Por ejemplo, se observa un predominio femenino en los 
+hogares de personas mayores/geriátricos y los hogares de religiosas o religiosos. Por otra parte, en los campamentos/
+obradores y en los cuarteles hay una mayor presencia de varones.
+
+11
+CNPHV 2022 - Viviendas colectivas y personas en situación de calle
+11
+Población en viviendas colectivas, por grupos quinquenales de edad. 
+Total del país. Año 2022
+Nota: Se excluye a las personas censadas en refugios o paradores, ya que se encuentran contabilizadas junto con la población en
+situación de calle censada en la vía pública.
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Grupo de edad
+0
+2
+4
+6
+8
+10
+12
+Porcentaje
+100 
+y más
+95-99
+90-94
+85-89
+80-84
+75-79
+70-74
+65-69
+60-64
+55-59
+50-54
+45-49
+40-44
+35-39
+30-34
+25-29
+20-24
+15-19
+10-14
+5-9
+0-4
+0,3
+2,0
+5,4
+6,6
+6,3
+5,3
+4,3
+3,6
+3,4
+3,3
+3,8
+4,5
+6,2
+7,3
+9,2
+10,9
+10,0
+3,8
+1,7
+1,1
+1,0
+
+12
+12
+Población en viviendas colectivas, por jurisdicción y sexo registrado al nacer. 
+Total del país. Año 2022 
+ 
+Jurisdicción
+Total
+Sexo
+Mujeres/femenino
+Varones/masculino
+Total del país
+267.793
+96.357
+171.436
+Ciudad Autónoma de Buenos Aires
+23.850
+14.634
+9.216
+Buenos Aires
+113.664
+37.634
+76.030
+Catamarca
+1.909
+544
+1.365
+Chaco
+4.898
+1.246
+3.652
+Chubut
+3.123
+1.045
+2.078
+Córdoba
+28.705
+11.236
+17.469
+Corrientes
+2.958
+790
+2.168
+Entre Ríos
+10.315
+4.216
+6.099
+Formosa
+1.912
+393
+1.519
+Jujuy
+2.165
+402
+1.763
+La Pampa
+2.656
+1.094
+1.562
+La Rioja
+1.398
+323
+1.075
+Mendoza
+12.636
+3.885
+8.751
+Misiones
+5.452
+1.649
+3.803
+Neuquén
+2.223
+700
+1.523
+Río Negro
+2.997
+1.080
+1.917
+Salta
+6.872
+1.072
+5.800
+San Juan
+3.357
+807
+2.550
+San Luis
+1.517
+499
+1.018
+Santa Cruz
+1.462
+274
+1.188
+Santa Fe
+25.450
+10.785
+14.665
+Santiago del Estero
+3.099
+744
+2.355
+Tierra del Fuego, Antártida e Islas del Atlántico Sur(1)
+774
+176
+598
+Tucumán
+4.401
+1.129
+3.272
+(1) Las Islas Malvinas, Georgias del Sur, Sandwich del Sur y los espacios marítimos circundantes forman parte integrante del territorio 
+nacional argentino. Debido a que dichos territorios se encuentran sometidos a la ocupación ilegal del Reino Unido de Gran Bretaña 
+e Irlanda del Norte, la República Argentina se vio impedida de llevar a cabo el Censo 2022 en esa área. Estas islas pertenecen al 
+departamento Islas del Atlántico Sur. Del departamento Antártida Argentina fueron censadas las bases antárticas permanentes que 
+pertenecen a la República Argentina.
+Nota: se excluye a las personas censadas en refugios o paradores, ya que se encuentran contabilizadas junto con la población en 
+situación de calle censada en la vía pública.
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+
+13
+CNPHV 2022 - Viviendas colectivas y personas en situación de calle
+13
+3. Población en situación de calle
+La población en situación de calle es aquella que al momento de ser censada se encontraba en la vía pública 
+(calle, estación del ferrocarril, estación del subterráneo, portal de edificio, plaza, etc.) en el marco del operativo 
+especial que se realizó durante la noche del 16 de mayo de 2022, junto a las que fueron identificadas en refugios 
+o paradores a través del operativo de viviendas colectivas.
+ 
+Distribución de la población en situación de calle, por sexo registrado al
+nacer y lugar en el que fue censada. Total del país. Año 2022
+Mujeres/femenino
+4.474
+5.705
+situación de calle
+fueron censadas en
+personas
+Varones/masculino
+1.231
+Porcentaje
+En refugio o parador
+48,4%
+En la vía pública
+51,6%
+0
+10
+20
+30
+40
+50
+60
+70
+80
+21,6
+78,4
+En refugio o parador
+En la vía pública
+Nota: de acuerdo con la evaluación de calidad y consistencia de los resultados definitivos, y para cumplir con los estándares de calidad
+estadística requeridos por el INDEC, la categoría X de las respuestas a la pregunta por sexo registrado al nacer se distribuye entre las
+categorías Mujer/femenino y Varón/masculino.
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+
+14
+Distribución de la población censada en situación de calle, según 
+jurisdicción. Total del país. Año 2022
+ 
+ 
+(1) Las Islas Malvinas, Georgias del Sur, Sandwich del Sur y los espacios marítimos circundantes forman parte integrante del territorio 
+nacional argentino. Debido a que dichos territorios se encuentran sometidos a la ocupación ilegal del Reino Unido de Gran Bretaña 
+e Irlanda del Norte, la República Argentina se vio impedida de llevar a cabo el Censo 2022 en esa área. Estas islas pertenecen al 
+departamento Islas del Atlántico Sur. Del departamento Antártida Argentina fueron censadas las bases antárticas permanentes que 
+pertenecen a la República Argentina.
+Nota: la población en situación de calle relevada durante el operativo de viviendas colectivas en refugios o paradores se contabiliza 
+junto a la población enumerada en situación de calle en la vía pública. Debe considerarse que las direcciones provinciales de estadística 
+de las jurisdicciones Formosa y Tierra del Fuego no implementaron el operativo en vía pública y no relevaron personas en refugios o 
+paradores en el de viviendas colectivas. En los casos de las jurisdicciones La Rioja, Río Negro y Santa Cruz, que tampoco implementaron 
+el operativo en vía pública, sí se contabilizaron personas en refugios o paradores.
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+Porcentaje
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+Tucumán
+Tierra del Fuego (1)
+Santiago del Estero
+Santa Fe
+Santa Cruz
+San Luis
+San Juan
+Salta
+Río Negro
+Neuquén
+Misiones
+Mendoza
+La Rioja
+La Pampa
+Jujuy
+Formosa
+Entre Ríos
+Corrientes
+Córdoba
+Chubut
+Chaco
+Catamarca
+Buenos Aires
+Ciudad Autónoma
+ de Buenos Aires
+25,0
+0,5
+1,8
+0,8
+2,4
+1,2
+2,9
+///
+1,4
+0,2
+0,2
+2,3
+1,3
+0,2
+1,3
+4,5
+0,9
+0,1
+1,5
+7,0
+1,0
+///
+1,4
+42,1
+
+15
+CNPHV 2022 - Viviendas colectivas y personas en situación de calle
+15
+Distribución de la población en situación de calle, por sexo registrado al 
+nacer, en jurisdicciones seleccionadas. Total del país. Año 2022
+En todas las jurisdicciones seleccionadas se observa una mayor presencia de población masculina en la 
+población en situación de calle.
+ 
+0
+20
+40
+60
+80
+100
+Santa Fe
+Salta
+Mendoza
+Entre Ríos
+Córdoba
+Chaco
+Buenos Aires
+Ciudad Autónoma
+ de Buenos Aires
+Total
+Porcentaje
+78,4
+21,6
+78,1
+21,9
+78,5
+21,5
+86,7
+13,3
+81,6
+18,4
+67,5
+32,5
+81,7
+18,3
+77,6
+22,4
+80,2
+19,8
+Mujeres/femenino
+Varones/masculino
+ 
+Nota: de acuerdo con la evaluación de calidad y consistencia de los resultados definitivos, y para cumplir con los estándares de calidad
+estadística requeridos por el INDEC, la categoría X de las respuestas a la pregunta por sexo registrado al nacer se distribuye entre las
+categorías Mujer/femenino y Varón/masculino.
+La selección de las jurisdicciones se hizo en base a aquellas que registraron un número de población en situación de calle superior a 
+las 100 personas.
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+
+16
+Distribución de la población en situación de calle, según lugar en el que fue 
+censada, en jurisdicciones seleccionadas. Total del país. Año 2022
+Las jurisdicciones seleccionadas presentan algunas diferencias con relación al lugar en el que fue censada 
+la población en situación de calle, según haya sido relevada en refugios o paradores o bien en la vía pública.  
+Este hecho puede estar asociado a la fecha del relevamiento y a las condiciones climáticas en  jurisdicciones 
+como, por ejemplo, Mendoza, donde el porcentaje en refugios o paradores supera el del promedio nacional.
+0
+20
+40
+60
+80
+100
+Santa Fe
+Salta
+Mendoza
+Entre Ríos
+Córdoba
+Chaco
+Buenos Aires
+C.A.B.A
+Total del país
+51,6
+37,6
+67,4
+56,2
+66,9
+83,7
+16,0
+96,1
+48,4
+48,4
+62,4
+32,6
+43,8
+33,1
+16,3
+84,0
+3,9
+51,6
+En refugio o parador
+En la vía pública
+Porcentaje
+Nota: la población en situación de calle relevada durante el operativo de viviendas colectivas en refugios o paradores se contabiliza 
+junto a la población relevada en situación de calle en la vía pública. La selección de las jurisdicciones se hizo en base a aquellas que 
+registraron un número de población en situación de calle superior a las 100 personas.
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+
+17
+17
+CNPHV 2022 - Viviendas colectivas y personas en situación de calle
+Población en situación de calle, según lugar en el que fue censada y sexo 
+registrado al nacer, por jurisdicción. Total del país. Año 2022  
+ 
+Jurisdicción
+Total
+Refugio/parador
+Vía pública
+Mujeres/ 
+femenino
+Varones/
+masculino
+Mujeres/
+femenino
+Varones/
+masculino
+Total del país
+5.705
+673
+2.087
+558
+2.387
+Ciudad Autónoma de Buenos Aires
+2.403
+379
+1.121
+148
+755
+Buenos Aires
+1.426
+93
+372
+213
+748
+Catamarca
+28
+17
+9
+-
+2
+Chaco
+105
+9
+37
+5
+54
+Chubut
+44
+-
+-
+2
+42
+Córdoba
+136
+11
+34
+14
+77
+Corrientes
+67
+9
+20
+5
+33
+Entre Ríos
+166
+2
+25
+52
+87
+Formosa
+ ///
+/// 
+ ///
+/// 
+/// 
+Jujuy
+82
+-
+-
+-
+82
+La Pampa
+10
+5
+1
+-
+4
+La Rioja
+14
+7
+7
+-
+-
+Mendoza
+131
+21
+89
+3
+18
+Misiones
+74
+10
+39
+2
+23
+Neuquén
+13
+-
+6
+-
+7
+Río Negro
+74
+20
+54
+-
+-
+Salta
+254
+7
+3
+50
+194
+San Juan
+51
+-
+30
+1
+20
+San Luis
+4
+-
+-
+1
+3
+Santa Cruz
+87
+7
+80
+-
+-
+Santa Fe
+399
+49
+157
+30
+163
+Santiago del Estero
+55
+2
+3
+23
+27
+Tierra del Fuego, Antártida e Islas del Atlántico Sur(1)
+ ///
+ ///
+ ///
+/// 
+/// 
+Tucumán
+82
+25
+-
+9
+48
+ 
+(1) Las Islas Malvinas, Georgias del Sur, Sandwich del Sur y los espacios marítimos circundantes forman parte integrante del territorio 
+nacional argentino. Debido a que dichos territorios se encuentran sometidos a la ocupación ilegal del Reino Unido de Gran Bretaña 
+e Irlanda del Norte, la República Argentina se vio impedida de llevar a cabo el Censo 2022 en esa área. Estas islas pertenecen al 
+departamento Islas del Atlántico Sur. Del departamento Antártida Argentina fueron censadas las bases antárticas permanentes que 
+pertenecen a la República Argentina.
+Nota: la población en situación de calle relevada durante el operativo de viviendas colectivas en refugios o paradores se contabiliza 
+junto a la población enumerada en situación de calle en la vía pública. Debe considerarse que las direcciones provinciales de 
+estadística de las jurisdicciones Formosa y Tierra del Fuego no implementaron el operativo en vía pública y no relevaron personas en 
+refugios o paradores en el de viviendas colectivas. En los casos de las jurisdicciones La Rioja, Río Negro y Santa Cruz, que tampoco 
+implementaron el operativo en vía pública, sí se contabilizaron personas en refugios o paradores. 
+Fuente: INDEC, Censo Nacional de Población, Hogares y Viviendas 2022. Resultados definitivos.
+
+18
+4. Glosario
+Censo
+Operativo que tiene por objetivo enumerar el total de unidades o elementos que conforma una población 
+objetivo y medir una o más características sobre ellos. Como abarca al cien por ciento de la población objeto 
+de estudio, los resultados que se obtienen están libres de error muestral. Sin embargo, como en cualquier 
+otra operación estadística, están presentes los errores ajenos al muestreo, tales como los de no respuesta, de 
+cobertura, de medición, de procesamiento u otras fuentes. Un censo puede estar dirigido a personas, hogares, 
+viviendas, empresas locales, establecimientos agropecuarios, pesqueros, mineros, entre otros.
+Personas en situación de calle
+Personas que utilizan la vía pública (calle, estación del ferrocarril, estación del subterráneo, portal de edificio, 
+plaza, etc.) como lugar de habitación y/o pernocte. El Censo 2022 relevó a las personas en situación de calle que 
+se encontraban en la vía pública, en el marco del operativo especial que se realizó durante la noche del 16 de 
+mayo de 2022, y a las que se identificaron en paradores y refugios a través del operativo de viviendas colectivas.
+Sexo registrado al nacer
+Refiere al sexo con que fue registrada la persona al nacer en la partida de nacimiento o documento de 
+identidad. Si la persona no tiene documentación, refiere al sexo asignado por la partera, el médico, el familiar o 
+la sociedad. Puede ser mujer/femenino, varón/masculino, o bien X/ninguna de las anteriores. La nomenclatura 
+X está vigente en la Argentina a partir del Decreto 476/2021. De acuerdo con la evaluación de calidad y 
+consistencia de los resultados definitivos, y para cumplir con los estándares de calidad estadística requeridos 
+por el INDEC, la categoría X de las respuestas a la pregunta por sexo registrado al nacer se distribuye entre las 
+categorías Mujer/femenino y Varón/masculino.
+Vivienda
+Espacio construido para que vivan personas. Se caracteriza por estar cubierta por un techo y rodeada de paredes 
+u otro elemento de separación (para poder dormir, alimentarse y protegerse del medio ambiente); y por tener 
+una entrada independiente o compartida para que sus ocupantes puedan entrar y salir sin pasar por el interior 
+de otras viviendas. Las viviendas se pueden clasificar en particulares o colectivas.
+Vivienda particular
+Vivienda destinada a alojar personas que viven bajo un régimen de tipo familiar, sean parientes o no. Estas 
+viviendas pueden haber sido construidas con fines habitacionales o estar adaptadas para alojar personas y que 
+el día del relevamiento se encuentren personas que viven allí.
+Vivienda colectiva
+Lugar de alojamiento construido o adaptado para alojar personas de un modo permanente o temporario, 
+destinado al alojamiento de personas que viven bajo un mismo techo según un régimen institucional por 
+razones militares, de salud, estudio, religión, etc. Se incluyen en esta categoría: campamentos u obradores; 
+colegios internados; cuarteles; hogares de adultos mayores; hogares de niñas, niños y adolescentes; hogares de 
+religiosos; hoteles turísticos, apart hoteles, cabañas turísticas, prisiones.
+
